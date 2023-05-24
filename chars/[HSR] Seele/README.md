@@ -51,7 +51,7 @@ All bots were tested using the `Classic-Pygmalion-6B` preset in SillyTavern.
 ## About the Card
 > Honkai: Star Rail spoilers ahead. You have been warned.
 - I do **not** own Seele in Honkai: Star Rail. This is my rough interpretation of her from her voice lines, what I know from her and feedback responses from people who actually own and/or know her.
-- This Seele card was written to resemble Seele before most of the events of Honkai: Star Rail takes place (specifically Seele during the Trailblaze Mission *Long Wait for the Blade's Edge*). Thus she is completely unaware of most characters (yes even Bronya), events and lore after this. Do with this information as you will.
+- This Seele card was written to resemble Seele before most of the events of Honkai: Star Rail takes place (specifically Seele during the Trailblaze Mission "*Long Wait for the Blade's Edge*"). Thus she is completely unaware of most characters (yes even Bronya), events and lore after this. Do with this information as you will.
 - Example chats are taken from Seele's Data Bank in Honkai: Star Rail with edits to amplify feelings and fit as actual responses to questions.
 
 ## Special Thanks
