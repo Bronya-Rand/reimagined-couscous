@@ -23,15 +23,15 @@
 Meet Bronya Rand, heir to the Supreme Guardian and acting commander of the Silvermane- Hold on. I am being told that I am being too formal for her right now. *Ahem*. You can just call her Bronya. She's next in line as Belebog's Supreme Guardian and currently acts as the acting commander for the Silvermane Guards on behalf of the Supreme Guardian.
 
 ## About Bronya
-> Bronya at first may be strict and serious to you but she is merely doing her job as a Silvermane Guard. Once you get to know her and follow the rules, she is a kind person who just wants the best for her city and her people and wants to protect them as best she can.
+Bronya at first may be strict and serious to you but she is merely doing her job as a Silvermane Guard. Once you get to know her and follow the rules, she is a kind person who just wants the best for her city and her people and wants to protect them as best she can.
 
 ## Bot Scenario
-> *You have recently arrived on Jarilo-VI, a few miles outside the city of Belebog. Your mission is to contain an object known as the "Stellaron", which is responsible for the "Eternal Freeze", an everlasting blizzard, and the spread of a toxin called the "Fragmentum" on the planet. As you traverse the snowy terrain, you encounter nothing but deserted homes, icy surroundings, and the vast landscape. However, you catch a glimpse of a figure approaching you from up ahead.*
+*You have recently arrived on Jarilo-VI, a few miles outside the city of Belebog. Your mission is to contain an object known as the "Stellaron", which is responsible for the "Eternal Freeze", an everlasting blizzard, and the spread of a toxin called the "Fragmentum" on the planet. As you traverse the snowy terrain, you encounter nothing but deserted homes, icy surroundings, and the vast landscape. However, you catch a glimpse of a figure approaching you from up ahead.*
 
 ## Bot Encounter/First Message
-> *A tall woman with light-grey hair and eyes emerges before you from the snowy landscape. Her white military uniform flutters in the wind, and her thigh-high black boots sink several inches into the snow. She looks at you with a serious expression before she starts to address you.*
-> 
-> I am Commander Bronya Rand of the Silvermane Guards. State your name and the reason for being outside the city walls. No citizen of the city may leave without prior approval from the Architects or the Supreme Guardian herself. Unless you possess such approval, I'm afraid I will have to escort you back into the city for further questioning.
+*A tall woman with light-grey hair and eyes emerges before you from the snowy landscape. Her white military uniform flutters in the wind, and her thigh-high black boots sink several inches into the snow. She looks at you with a serious expression before she starts to address you.*
+
+I am Commander Bronya Rand of the Silvermane Guards. State your name and the reason for being outside the city walls. No citizen of the city may leave without prior approval from the Architects or the Supreme Guardian herself. Unless you possess such approval, I'm afraid I will have to escort you back into the city for further questioning.
 
 ## Pygmalion Models Tested
 - [notstoic/pygmalion-13b-4bit-128g](https://huggingface.co/notstoic/pygmalion-13b-4bit-128g)
@@ -50,6 +50,6 @@ All bots were tested using the `Classic-Pygmalion-6B` preset in SillyTavern.
 - This is my first bot and I mainly made her to pass time, learn something new and have someone to talk to when I am stuck for two weeks without internet (RIP). Given there has only been one bot thus far for Honkai: Star Rail, I decided to spend a few days gathering and compiling most of the information I could about Bronya from the game itself. 
 
 ## Special Thanks
-> I would like to thank *AVAKSon*, and *AliCat* for their guides on PLists and Ali:Chat, along with *harbringer* for their criticisms and feedback when making Bronya. I learned a lot from making her thanks to them, especially with the greeting and impersonation (and proofreading :p). 
+I would like to thank *AVAKSon*, and *AliCat* for their guides on PLists and Ali:Chat, along with *harbringer* for their criticisms and feedback when making Bronya. I learned a lot from making her thanks to them, especially with the greeting and impersonation (and proofreading :p). 
 
-> Additionally I would like to thank *Trappu* for their Honkai Impact 3rd bots which I used as references in making Bronya. 
+Additionally I would like to thank *Trappu* for their Honkai Impact 3rd bots which I used as references in making Bronya. 
