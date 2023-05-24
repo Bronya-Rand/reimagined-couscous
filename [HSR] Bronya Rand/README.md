@@ -18,6 +18,8 @@
   <a href="https://www.pixiv.net/en/artworks/93767347"><b>Sauce IMG used for card</b></a>
 </details>
 
+> *Looking for Bronya's underworld counterpart and shipping partner Seele?* See Seele [here](../%5BHSR%5D%20Seele/).
+
 Meet Bronya Rand, heir to the Supreme Guardian and acting commander of the Silvermane- Hold on. I am being told that I am being too formal for her right now. *Ahem*. You can just call her Bronya. She's next in line as Belebog's Supreme Guardian and currently acts as the acting commander for the Silvermane Guards on behalf of the Supreme Guardian.
 
 ## About Bronya
@@ -51,14 +53,3 @@ All bots were tested using the `Classic-Pygmalion-6B` preset in SillyTavern.
 > I would like to thank *AVAKSon*, and *AliCat* for their guides on PLists and Ali:Chat, along with *harbringer* for their criticisms and feedback when making Bronya. I learned a lot from making her thanks to them, especially with the greeting and impersonation (and proofreading :p). 
 
 > Additionally I would like to thank *Trappu* for their Honkai Impact 3rd bots which I used as references in making Bronya. 
-
-> Scenario Card
-Card: https://files.catbox.moe/ebs49t.png
-JSON: https://files.catbox.moe/v28n6a.json
-> No Scenario Card
-Card: https://files.catbox.moe/pzng96.png
-JSON: https://files.catbox.moe/v28n6a.json
-
-:electric_plug: *Looking for Bronya's underworld counterpart and shipping partner Seele?* See #"Seele [Honkai: Star Rail (H:SR)]".
-
-Hope you enjoy! Let me know of your feedback!
