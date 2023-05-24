@@ -2,7 +2,7 @@
 layout: page
 title: Bot List
 menu: main
-permalink: /reimagined-couscous/bot-list
+permalink: /bot-list
 ---
 
 Listed below are all the bots that I have created thus far for PygmalionAI.

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Bronya Rand (Honkai: Star Rail)"
-permalink: /reimagined-couscous/bronya
+permalink: /bronya
 ---
 # Bronya Rand [Honkai: Star Rail (H:SR)]
 > Not to be confused with Bronya Zaychik from Honkai Impact 3rd (HI3).
