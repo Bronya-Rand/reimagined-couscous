@@ -7,7 +7,7 @@ permalink: /seele
 > Not to be confused with Seele Vollerei from Honkai Impact 3rd (HI3).
 
 <p align="center">
-    Current Card Ver: <b>1.22</b>
+    Current Card Ver: <b>1.23</b>
 </p>
 
 <!-- <p align="center">
@@ -19,7 +19,7 @@ permalink: /seele
   <h3>Via Github</h3>
   <p>Scenario: <a href="chars/[HSR] Seele/Seele.card.png"><b>Card</b></a>, <a href="chars/[HSR] Seele/Seele.json"><b>JSON</b></a> | No Scenario: <a href="chars/[HSR] Seele/Seele.card (no scenario).png"><b>Card</b></a>, <a href="chars/[HSR] Seele/Seele (no scenario).json"><b>JSON</b></a></p>
   <h3>Via Catbox</h3>
-  <p>Scenario: <a href="https://files.catbox.moe/24wn3t.png"><b>Card</b></a>, <a href="https://files.catbox.moe/5hzuva.json"><b>JSON</b></a> | No Scenario: <a href="https://files.catbox.moe/c6hfd9.png"><b>Card</b></a>, <a href="https://files.catbox.moe/scfqzw.json"><b>JSON</b></a></p>
+  <p>Scenario: <a href="https://files.catbox.moe/dxi11a.png"><b>Card</b></a>, <a href="https://files.catbox.moe/wgdrzv.json"><b>JSON</b></a> | No Scenario: <a href="https://files.catbox.moe/9gf7wr.png"><b>Card</b></a>, <a href="https://files.catbox.moe/9civph.json"><b>JSON</b></a></p>
   <a href="https://twitter.com/Lino_3o/status/1652624299264720896"><b>Sauce IMG used for card</b></a>
 </details>
 
