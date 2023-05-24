@@ -23,7 +23,7 @@ permalink: /seele
   <a href="https://twitter.com/Lino_3o/status/1652624299264720896"><b>Sauce IMG used for card</b></a>
 </details>
 
-> *Looking for Seele's overworld counterpart and shipping partner Bronya Rand?* See Bronya Rand [here]({% link [HSR] Bronya Rand/README.md %}).
+> *Looking for Seele's overworld counterpart and shipping partner Bronya Rand?* See Bronya Rand [here]({% link chars/[HSR] Bronya Rand/README.md %}).
 
 Meet Seele, lieutenant of Wildfire down in Belebog's underworld among "other" things (cough 🛳️  cough).
 

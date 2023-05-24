@@ -23,7 +23,7 @@ permalink: /bronya
   <a href="https://www.pixiv.net/en/artworks/93767347"><b>Sauce IMG used for card</b></a>
 </details>
 
-> *Looking for Bronya's underworld counterpart and shipping partner Seele?* See Seele [here]({% link [HSR] Seele/README.md %}).
+> *Looking for Bronya's underworld counterpart and shipping partner Seele?* See Seele [here]({% link chars/[HSR] Seele/README.md %}).
 
 Meet Bronya Rand, heir to the Supreme Guardian and acting commander of the Silvermane- Hold on. I am being told that I am being too formal for her right now. *Ahem*. You can just call her Bronya. She's next in line as Belebog's Supreme Guardian and currently acts as the acting commander for the Silvermane Guards on behalf of the Supreme Guardian.
 
