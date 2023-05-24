@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Seele (Honkai: Star Rail)"
+permalink: /reimagined-couscous/seele
 ---
 # Seele [Honkai: Star Rail (H:SR)]
 > Not to be confused with Seele Vollerei from Honkai Impact 3rd (HI3).

@@ -2,6 +2,7 @@
 layout: page
 title: Home
 menu: main
+permalink: /reimagined-couscous/
 ---
 
 Why hello there! Welcome to this collection of bots that I decided to create out of fun (and as a challenge) for the AI model "PygmalionAI". 
