@@ -11,7 +11,7 @@ permalink: /seele
 </p>
 
 <!-- <p align="center">
-    <img src="../assets/images/chars/seele.png" alt="Seele" width=250px>
+    <img src="{{site.baseurl}}/assets/images/chars/seele.png" alt="Seele" width=250px>
 </p> -->
 
 <details align="center">

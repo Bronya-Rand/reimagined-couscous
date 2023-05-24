@@ -11,19 +11,19 @@ permalink: /bronya
 </p>
 
 <p align="center">
-    <img src="../assets/images/chars/bronya.png" alt="Bronya Rand" width=250px>
+    <img src="{{site.baseurl}}/assets/images/chars/bronya.png" alt="Bronya Rand" width=250px>
 </p>
 
 <details align="center">
   <summary><b>Downloads</b></summary>
   <h3>Via Github</h3>
-  <p>Scenario: <a href="Bronya Rand.card.png"><b>Card</b></a>, <a href="Bronya Rand.json"><b>JSON</b></a> | No Scenario: <a href="Bronya Rand.card (no scenario).png"><b>Card</b></a>, <a href="Bronya Rand (no scenario).json"><b>JSON</b></a></p>
+  <p>Scenario: <a href="chars/[HSR] Bronya Rand/Bronya Rand.card.png"><b>Card</b></a>, <a href="Bronya Rand.json"><b>JSON</b></a> | No Scenario: <a href="chars/[HSR] Bronya Rand/Bronya Rand.card (no scenario).png"><b>Card</b></a>, <a href="Bronya Rand (no scenario).json"><b>JSON</b></a></p>
   <h3>Via Catbox</h3>
   <p>Scenario: <a href="https://files.catbox.moe/ebs49t.png"><b>Card</b></a>, <a href="https://files.catbox.moe/v28n6a.json"><b>JSON</b></a> | No Scenario: <a href="https://files.catbox.moe/pzng96.png"><b>Card</b></a>, <a href="https://files.catbox.moe/v28n6a.json"><b>JSON</b></a></p>
   <a href="https://www.pixiv.net/en/artworks/93767347"><b>Sauce IMG used for card</b></a>
 </details>
 
-> *Looking for Bronya's underworld counterpart and shipping partner Seele?* See Seele [here]({% link chars/[HSR] Seele/README.md %}).
+> *Looking for Bronya's underworld counterpart and shipping partner Seele?* See Seele [here]({{site.baseurl}}/seele).
 
 Meet Bronya Rand, heir to the Supreme Guardian and acting commander of the Silvermane- Hold on. I am being told that I am being too formal for her right now. *Ahem*. You can just call her Bronya. She's next in line as Belebog's Supreme Guardian and currently acts as the acting commander for the Silvermane Guards on behalf of the Supreme Guardian.
 
