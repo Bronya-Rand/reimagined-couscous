@@ -7,5 +7,10 @@ permalink: /bot-list
 
 Listed below are all the bots that I have created thus far for PygmalionAI.
 
-- [Bronya Rand [Honkai: Star Rail (H:SR)]]({{site.baseurl}}/bronya)
-- [Seele [Honkai: Star Rail (H:SR)]]({{site.baseurl}}/seele)
+<!-- To be added once more games are listed here -->
+<!-- #### Legend
+- [Honkai: Star Rail (H:SR)](#honkai-star-rail-hsr) -->
+
+### Honkai: Star Rail (H:SR)
+- [Bronya Rand]({{site.baseurl}}/bronya)
+- [Seele]({{site.baseurl}}/seele)
