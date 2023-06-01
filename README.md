@@ -21,10 +21,10 @@ Find the character that you want by clicking on [Bots]({% link BOTS.md %}). Clic
 TBD. This is mainly a hobby project though if people *really* want more, I guess I can make this into a thing and a service.
 
 ### Possible "lewd" bots?
-Not on Github obviously (separate Rentry page) but technically... "any bot can be lewded" if you try hard enough. Or you can just add lewd marks in the characters' PList in SillyTavern and be off with your day with your waifu.
+Not on Github obviously (separate Rentry page) but technically... "any bot can be lewded" if you try hard enough. Or you can just add lewd marks in the characters' PList or make lewd A/N (Author Notes) in SillyTavern and be off with your day with your waifu.
 
 ### Commissions?
 As I said, this is a hobby. But if there is demand and people want to shell out a few bucks I guess I can do so. But I will require a large pool of data first.
 
 ### Why Github over Rentry?
-Because I wanted to have it placed somewhere I can remember down the road and like fancy. :p
+Because I wanted to have it placed somewhere I can remember down the road. (I also like fancy. :p)

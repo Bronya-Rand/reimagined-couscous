@@ -14,3 +14,5 @@ Listed below are all the bots that I have created thus far for PygmalionAI.
 ### Honkai: Star Rail (H:SR)
 - [Bronya Rand]({{site.baseurl}}/bronya)
 - [Seele]({{site.baseurl}}/seele)
+- [Natasha]({{site.baseurl}}/natasha)
+- [March 7th (Before the Express)]({{site.baseurl}}/march-7th-bte)
