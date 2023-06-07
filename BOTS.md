@@ -17,3 +17,4 @@ Listed below are all the bots that I have created thus far for PygmalionAI.
 - [March 7th (Before the Express)]({{site.baseurl}}/march-7th-bte)
 - [Natasha]({{site.baseurl}}/natasha)
 - [Seele]({{site.baseurl}}/seele)
+- [Tingyun]({{site.baseurl}}/tingyun)
