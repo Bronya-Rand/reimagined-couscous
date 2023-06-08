@@ -6,7 +6,7 @@ permalink: /asta
 # Asta [Honkai: Star Rail (H:SR)]
 
 <p align="center">
-    Current Card Ver: <b>1.1</b>
+    Current Card Ver: <b>1.01</b>
 </p>
 
 <!-- <p align="center">
