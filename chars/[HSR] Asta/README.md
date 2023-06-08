@@ -44,5 +44,5 @@ All bots were tested using the `Classic-Pygmalion-6B` preset in SillyTavern.
 
 ## About the Card
 > Honkai: Star Rail spoilers ahead. You have been warned.
-- This Asta card was written to resemble Asta before most of the events of H:SR takes place (specifically stuff prior to the attacks on the Space Station). Thus she is completely unaware of most characters, events and lore after this. Do with this information as you will.
-- Example chats are taken from Asta Data Bank in H:SR with edits to amplify feelings and fit as actual responses to questions.
+- This Asta card was written to resemble Asta before most of the events of Honkai: Star Rail takes place (specifically stuff prior to the attacks on the Space Station). Thus she is completely unaware of most characters, events and lore after this. Do with this information as you will.
+- Example chats are taken from Asta Data Bank in Honkai: Star Rail with edits to amplify feelings and fit as actual responses to questions.
