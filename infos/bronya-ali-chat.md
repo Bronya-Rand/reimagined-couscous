@@ -369,5 +369,5 @@ Make sure to also use the tags in `#bot-sharing` (or the NSFW bot channels) effe
 - AliCat for the original Ali:Chat 1.0 and 1.5 guides that she made which were used as references for my bots and for this specific guide.
 - AVAKSon for his Ali:Chat + PList guide which I used to create my bots in Ali:Chat + PList.
 - TheWandering514 for assistance in GPT screenshots, and writing
-- OpenAI (GPT-3.5/4), Claude, Bard, and Character.AI for showcasing their failures in describing characters effectively for [Usage of Character.Ai (CAI), ChatGPT, Bard and other AI models to create characters cards](#usage-of-characterai-cai-chatgpt-bard-and-other-ai-models-to-create-characters-cards)
+- OpenAI (GPT-3.5/4), Claude, Bard, and Character.AI for showcasing their failures in describing characters effectively for [Usage of Character.Ai (CAI), ChatGPT, Bard and other AI models to create characters cards](#usage-of-characterai-cai-chatgpt-gpt-bard-and-other-ai-models-to-create-characters-cards)
 - Trappu for making me want to write a guide originally for my Bronya:RP/Bronya:Chat style which turned into another Ali:Chat + PList guide.
