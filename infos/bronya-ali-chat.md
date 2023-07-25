@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Ali:Chat + PList Guide
+title: Bot Creation Guide
 menu: main
 permalink: /alicat-bronya
 ---
 
-# A Bronya Guide to Ali:Chat + PList
+# A Bronya Guide to Creating a Pygmalion Bot using Ali:Chat + PList
 Updated: July, 25th 2023
 
 Oh. You're finally here. Welcome. Welcome to the personal writing room of Bronya Rand. I assume you are here not for any concerns relating to Belobog rather something else? Writing perhaps?
