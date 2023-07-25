@@ -22,7 +22,9 @@ Listed below are all the bots that I have created thus far for PygmalionAI.
 - [Pela]({{site.baseurl}}/pela)
 - [Qingque]({{site.baseurl}}/qingque)
 - [Seele]({{site.baseurl}}/seele)
+- [Serval]({{site.baseurl}}/serval)
 - [Silver Wolf]({{site.baseurl}}/silver-wolf)
+- [Stelle]({{site.baseurl}}/stelle)
 - [Sushang]({{site.baseurl}}/sushang)
 - [Tingyun]({{site.baseurl}}/tingyun)
 <!-- - [Yukong]({{site.baseurl}}/yukong) -->
