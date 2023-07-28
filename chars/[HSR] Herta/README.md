@@ -22,14 +22,14 @@ permalink: /herta
     <h3>Via Github</h3>
     <p>Scenario: <a href="chars/[HSR] Herta/Herta.card.png"><b>Card</b></a>, <a href="chars/[HSR] Herta/Herta.json"><b>JSON</b></a> | No Scenario: <a href="chars/[HSR] Herta/Herta.card (no scenario).png"><b>Card</b></a>, <a href="chars/[HSR] Herta/Herta (no scenario).json"><b>JSON</b></a></p>
     <h3>Via Catbox</h3>
-    <p>Scenario: <a href="https://files.catbox.moe/3dij55.png"><b>Card</b></a>, <a href="https://files.catbox.moe/t9sa4a.json"><b>JSON</b></a> | No Scenario: <a href="https://files.catbox.moe/uhj4ly.png"><b>Card</b></a>, <a href="https://files.catbox.moe/0e0ck4.json"><b>JSON</b></a></p>
+    <p>Scenario: <a href="https://files.catbox.moe/b8lx03.png"><b>Card</b></a>, <a href="https://files.catbox.moe/w3gpgy.json"><b>JSON</b></a> | No Scenario: <a href="https://files.catbox.moe/zei0y9.png"><b>Card</b></a>, <a href="https://files.catbox.moe/f21qlf.json"><b>JSON</b></a></p>
   </details>
   <details align="center">
     <summary><b>Bronya:Chat</b> (Bot without Heavy Character Lore Examples)</summary>
     <h3>Via Github</h3>
     <a href="chars/[HSR] Herta/Herta.card (chat).png"><b>Card</b></a>, <a href="chars/[HSR] Herta/Herta (chat).json"><b>JSON</b></a>
     <h3>Via Catbox</h3>
-    <a href="https://files.catbox.moe/prz8ua.png"><b>Card</b></a>, <a href="https://files.catbox.moe/fefdb2.json"><b>JSON</b></a>
+    <a href="https://files.catbox.moe/929rev.png"><b>Card</b></a>, <a href="https://files.catbox.moe/m6glat.json"><b>JSON</b></a>
   <a href="https://twitter.com/yu_mara_/status/1660689115397103617"><b>Sauce IMG used for card</b></a>
   </details>
 </details>
