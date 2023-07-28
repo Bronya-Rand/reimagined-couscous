@@ -9,6 +9,8 @@ permalink: /asta
     Current Card Ver: <b>2.1</b>
 </p>
 
+**Before Continuing:**: This card uses the no dinkus starter as this is depreciated. Make sure to remove your token starter in **Advanced Formatting** >  **Custom Chat Separator**.
+
 <!-- <p align="center">
     <img src="{{site.baseurl}}/assets/images/chars/asta.png" alt="Asta" width=250px>
 </p> -->
