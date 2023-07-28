@@ -17,14 +17,14 @@ permalink: /bronya-zaychik
   <details align="center">
     <summary><b>Bronya:RP</b> (Bot with Heavy Character Lore Examples)</summary>
     <h3>Via Github</h3>
-    <p>Scenario: <a href="chars/[HSR] Bronya Zaychik/Bronya Zaychik.card.png"><b>Card</b></a>, <a href="chars/[HSR] Bronya Zaychik/Bronya Zaychik.json"><b>JSON</b></a> | No Scenario: <a href="chars/[HSR] Bronya Zaychik/Bronya Zaychik.card (no scenario).png"><b>Card</b></a>, <a href="chars/[HSR] Bronya Zaychik/Bronya Zaychik (no scenario).json"><b>JSON</b></a></p>
+    <p>Scenario: <a href="chars/[HI3] Bronya Zaychik/Bronya Zaychik.card.png"><b>Card</b></a>, <a href="chars/[HI3] Bronya Zaychik/Bronya Zaychik.json"><b>JSON</b></a> | No Scenario: <a href="chars/[HI3] Bronya Zaychik/Bronya Zaychik.card (no scenario).png"><b>Card</b></a>, <a href="chars/[HI3] Bronya Zaychik/Bronya Zaychik (no scenario).json"><b>JSON</b></a></p>
     <h3>Via Catbox</h3>
     <p>Scenario: <a href="https://files.catbox.moe/7yalu9.png"><b>Card</b></a>, <a href="https://files.catbox.moe/adtpyg.json"><b>JSON</b></a> | No Scenario: <a href="https://files.catbox.moe/x8pf1n.png"><b>Card</b></a>, <a href="https://files.catbox.moe/ynq8y6.json"><b>JSON</b></a></p>
   </details>
   <details align="center">
     <summary><b>Bronya:Chat</b> (Bot without Heavy Character Lore Examples)</summary>
     <h3>Via Github</h3>
-    <a href="chars/[HSR] Bronya Zaychik/Bronya Zaychik.card (chat).png"><b>Card</b></a>, <a href="chars/[HSR] Bronya Zaychik/Bronya Zaychik (chat).json"><b>JSON</b></a>
+    <a href="chars/[HI3] Bronya Zaychik/Bronya Zaychik.card (chat).png"><b>Card</b></a>, <a href="chars/[HI3] Bronya Zaychik/Bronya Zaychik (chat).json"><b>JSON</b></a>
     <h3>Via Catbox</h3>
     <a href="https://files.catbox.moe/31qo2h.png"><b>Card</b></a>, <a href="https://files.catbox.moe/exlujc.json"><b>JSON</b></a>
   </details>
