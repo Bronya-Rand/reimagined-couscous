@@ -22,14 +22,14 @@ permalink: /caelus
     <h3>Via Github</h3>
     <p>Scenario: <a href="chars/[HSR] Caelus/Caelus.card.png"><b>Card</b></a>, <a href="chars/[HSR] Caelus/Caelus.json"><b>JSON</b></a> | No Scenario: <a href="chars/[HSR] Caelus/Caelus.card (no scenario).png"><b>Card</b></a>, <a href="chars/[HSR] Caelus/Caelus (no scenario).json"><b>JSON</b></a></p>
     <h3>Via Catbox</h3>
-    <p>Scenario: <a href="https://files.catbox.moe/yckuia.png"><b>Card</b></a>, <a href="https://files.catbox.moe/2mfp5w.json"><b>JSON</b></a> | No Scenario: <a href="https://files.catbox.moe/vk4ahn.png"><b>Card</b></a>, <a href="https://files.catbox.moe/k1vp46.json"><b>JSON</b></a></p>
+    <p>Scenario: <a href="https://files.catbox.moe/ajalm9.png"><b>Card</b></a>, <a href="https://files.catbox.moe/uahc89.json"><b>JSON</b></a> | No Scenario: <a href="https://files.catbox.moe/5z5izl.png"><b>Card</b></a>, <a href="https://files.catbox.moe/3gmm21.json"><b>JSON</b></a></p>
   </details>
   <details align="center">
     <summary><b>Bronya:Chat</b> (Bot without Heavy Character Lore Examples)</summary>
     <h3>Via Github</h3>
     <a href="chars/[HSR] Caelus/Caelus.card (chat).png"><b>Card</b></a>, <a href="chars/[HSR] Caelus/Caelus (chat).json"><b>JSON</b></a>
     <h3>Via Catbox</h3>
-    <a href="https://files.catbox.moe/t4a55g.png"><b>Card</b></a>, <a href="https://files.catbox.moe/7vxlju.json"><b>JSON</b></a>
+    <a href="https://files.catbox.moe/03109t.png"><b>Card</b></a>, <a href="https://files.catbox.moe/z015mm.json"><b>JSON</b></a>
   </details>
 </details>
 
