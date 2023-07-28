@@ -30,7 +30,6 @@ permalink: /march-7th
     <a href="chars/[HSR] March 7th/March 7th.card (chat).png"><b>Card</b></a>, <a href="chars/[HSR] March 7th/March 7th (chat).json"><b>JSON</b></a>
     <h3>Via Catbox</h3>
     <a href="https://files.catbox.moe/56nr6b.png"><b>Card</b></a>, <a href="https://files.catbox.moe/w0rvka.json"><b>JSON</b></a>
-  <a href="https://twitter.com/yu_mara_/status/1660689115397103617"><b>Sauce IMG used for card</b></a>
   </details>
   <a href="https://twitter.com/whgkdud_d/status/1660268481542242305"><b>Sauce IMG used for card</b></a>
 </details>
