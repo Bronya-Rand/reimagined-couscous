@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bot Creation Guide
-menu: main
+menu: dep
 permalink: /alicat-bronya
 ---
 
@@ -28,11 +28,12 @@ Once you get that sorted out, we can begin the writing process with the characte
     1. [Character Editor](#character-editor)
         - [Name](#name)
         - [Summary](#summary)
-        - [Personaliy](#personality)
+        - [Personality](#personality)
             1. [Part I - PList (Part I)](#plist-part-i)
             2. [Part II - Ali:Chat](#alichat)
             3. [Part III - PList (Part II)](#plist-part-ii)
             4. [(Optional) Part IV - PList (Part III)](#plist-optional)
+            5. [(Optional) Part IV - Hybrid PList]()
         - [Scenario](#scenario)
         - [Greeting Message](#greeting-message)
         - [Example Messages](#example-messages)
@@ -52,7 +53,7 @@ Once you get that sorted out, we can begin the writing process with the characte
 
 While there isn't a set in stone amount of tokens you need to meet, the general consensus is that a character card with Ali:Chat + PList should be around 1000-1200 tokens. However you can get away with less tokens (around 600-900 tokens) or a little bit more (1200-1300). Keep in mind that not enough tokens (<600 tokens) will not provide enough information for Pygmalion to interpret while an excessive amount of tokens (>1300) will negatively impact chat memory for the user using your character card.
 
-## Usage of Character.AI (CAI), ChatGPT (GPT), Bard and other AI models to create characters cards
+## About of Character.AI (CAI), ChatGPT (GPT), Bard and other AI models to create characters cards
 As a bot creator, I recommend that you **do not** use CAI bots to generate character summaries for the character you are writing about. These bots tend to be written by fans and many popular bots are clouded with so much past conversational history with other users. **TL;DR CAI bots are unreliable.**
 
 Whatever you do, **do not** and I repeat **do not** resort to ChatGPT, Bard or other AI models for researching about a character or for writing a character for the following reasons.
