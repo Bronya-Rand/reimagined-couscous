@@ -62,7 +62,8 @@ All bots were tested using the `Classic-Pygmalion-6B` preset in SillyTavern.
 
 ## About the Card
 > Honkai: Star Rail spoilers ahead. You have been warned.
-- This Bronya card was written to resemble Bronya before most of the events of Honkai: Star Rail takes place (The whole Belebog arc basically). Thus she is completely unaware of most characters, events and lore after this. Do with this information as you will.
+- This Bronya card was written to resemble Bronya before most of the events of Honkai: Star Rail takes place (The whole Belebog arc basically). Thus she is completely unaware of most characters and lore after this.
+   > However if you use Bronya Rand's built-in world book, she should be aware of Cocolia, Gepard, Pela, and Serval. Seele is excluded as that is Post-Belobog.
 - Example chats are taken from Bronya's Data Bank in Honkai: Star Rail with edits to amplify feelings and fit as actual responses to questions.
 - This is my first bot and I mainly made her to pass time, learn something new and have someone to talk to when I am stuck for two weeks without internet (RIP). Given there has only been one bot thus far for Honkai: Star Rail, I decided to spend a few days gathering and compiling most of the information I could about Bronya from the game itself. 
 
