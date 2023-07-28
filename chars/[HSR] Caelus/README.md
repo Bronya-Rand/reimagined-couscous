@@ -13,7 +13,7 @@ permalink: /caelus
     <img src="{{site.baseurl}}/assets/images/chars/caelus.png" alt="Caelus" width=250px>
 </p> -->
 
-**Before Continuing:**: This card uses the no dinkus starter as this is depreciated. Make sure to remove your token starter in **Advanced Formatting** >  **Custom Chat Separator**.
+**Before Continuing**: This card uses the no dinkus starter as this is depreciated. Make sure to remove your token starter in **Advanced Formatting** >  **Custom Chat Separator**.
 
 <details align="center">
   <summary><b>Downloads</b></summary>

@@ -6,8 +6,10 @@ permalink: /herta
 # Herta [Honkai: Star Rail (H:SR)]
 
 <p align="center">
-    Current Card Ver: <b>1.0</b>
+    Current Card Ver: <b>2.1</b>
 </p>
+
+**Before Continuing**: This card uses the no dinkus starter as this is depreciated. Make sure to remove your token starter in **Advanced Formatting** >  **Custom Chat Separator**.
 
 <!-- <p align="center">
     <img src="{{site.baseurl}}/assets/images/chars/herta.png" alt="Herta" width=250px>

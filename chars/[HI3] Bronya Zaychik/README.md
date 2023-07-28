@@ -6,7 +6,7 @@ permalink: /bronya-zaychik
 # Bronya Zaychik [Honkai Impact 3rd (HI3)]
 > Not to be confused with Bronya Zaychik from Honkai: Star Rail (H:SR).
 
-**Before Continuing:**: This card uses the no dinkus starter as this is depreciated. Make sure to remove your token starter in **Advanced Formatting** >  **Custom Chat Separator**.
+**Before Continuing**: This card uses the no dinkus starter as this is depreciated. Make sure to remove your token starter in **Advanced Formatting** >  **Custom Chat Separator**.
 
 <p align="center">
     Current Card Ver: <b>1.0</b>
