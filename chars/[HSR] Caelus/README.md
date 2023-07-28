@@ -6,14 +6,14 @@ permalink: /caelus
 # Caelus [Honkai: Star Rail (H:SR)]
 
 <p align="center">
-    Current Card Ver: <b>1.1</b>
+    Current Card Ver: <b>2.1</b>
 </p>
 
 <!-- <p align="center">
     <img src="{{site.baseurl}}/assets/images/chars/caelus.png" alt="Caelus" width=250px>
 </p> -->
 
-**Before Continuing:** This card used the `###` starter as LLaMA models do better with this system. Make sure your custom token starter in SillyTavern to `###` before using the bot. If this causes issues, revert to `<START>`.
+**Before Continuing:**: This card uses the no dinkus starter as this is depreciated. Make sure to remove your token starter in **Advanced Formatting** >  **Custom Chat Separator**.
 
 <details align="center">
   <summary><b>Downloads</b></summary>
@@ -22,14 +22,14 @@ permalink: /caelus
     <h3>Via Github</h3>
     <p>Scenario: <a href="chars/[HSR] Caelus/Caelus.card.png"><b>Card</b></a>, <a href="chars/[HSR] Caelus/Caelus.json"><b>JSON</b></a> | No Scenario: <a href="chars/[HSR] Caelus/Caelus.card (no scenario).png"><b>Card</b></a>, <a href="chars/[HSR] Caelus/Caelus (no scenario).json"><b>JSON</b></a></p>
     <h3>Via Catbox</h3>
-    <p>Scenario: <a href="https://files.catbox.moe/coxh41.png"><b>Card</b></a>, <a href="https://files.catbox.moe/pznhiq.json"><b>JSON</b></a> | No Scenario: <a href="https://files.catbox.moe/jokje9.png"><b>Card</b></a>, <a href="https://files.catbox.moe/spkv00.json"><b>JSON</b></a></p>
+    <p>Scenario: <a href="https://files.catbox.moe/yckuia.png"><b>Card</b></a>, <a href="https://files.catbox.moe/2mfp5w.json"><b>JSON</b></a> | No Scenario: <a href="https://files.catbox.moe/vk4ahn.png"><b>Card</b></a>, <a href="https://files.catbox.moe/k1vp46.json"><b>JSON</b></a></p>
   </details>
   <details align="center">
     <summary><b>Bronya:Chat</b> (Bot without Heavy Character Lore Examples)</summary>
     <h3>Via Github</h3>
     <a href="chars/[HSR] Caelus/Caelus.card (chat).png"><b>Card</b></a>, <a href="chars/[HSR] Caelus/Caelus (chat).json"><b>JSON</b></a>
     <h3>Via Catbox</h3>
-    <a href="https://files.catbox.moe/4lmn25.png"><b>Card</b></a>, <a href="https://files.catbox.moe/8b6k0c.json"><b>JSON</b></a>
+    <a href="https://files.catbox.moe/t4a55g.png"><b>Card</b></a>, <a href="https://files.catbox.moe/7vxlju.json"><b>JSON</b></a>
   </details>
 </details>
 
