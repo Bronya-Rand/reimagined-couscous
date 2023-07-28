@@ -31,7 +31,8 @@ permalink: /march-7th
     <h3>Via Catbox</h3>
     <a href="https://files.catbox.moe/56nr6b.png"><b>Card</b></a>, <a href="https://files.catbox.moe/w0rvka.json"><b>JSON</b></a>
   </details>
-  <a href="https://twitter.com/whgkdud_d/status/1660268481542242305"><b>Sauce IMG used for card</b></a>
+  <a href="https://pixiv.net/artworks/109828475"><b>Sauce IMG used for Bronya:RP cards</b></a>
+  <a href="https://pixiv.net/artworks/106083292"><b>Sauce IMG used for Bronya:Chat</b></a>
 </details>
 
 Welcome back March 7th, this time a proper March 7th release made by yours truly.
