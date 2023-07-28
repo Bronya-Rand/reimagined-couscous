@@ -32,6 +32,14 @@ permalink: /herta
     <a href="https://files.catbox.moe/929rev.png"><b>Card</b></a>, <a href="https://files.catbox.moe/m6glat.json"><b>JSON</b></a>
   <a href="https://twitter.com/yu_mara_/status/1660689115397103617"><b>Sauce IMG used for card</b></a>
   </details>
+  <details align="center">
+    <summary><b>*Kurukuru!*</b> *Kururing!*</summary>
+    <h3>Via Github</h3>
+    <a href="chars/[HSR] Herta/Herta but it's just Kurukuru Kururing.png"><b>Card</b></a>, <a href="chars/[HSR] Herta/Herta but it's just Kurukuru Kururing.json"><b>JSON</b></a>
+    <h3>Via Catbox</h3>
+    <a href="https://files.catbox.moe/f349q5.png"><b>Card</b></a>, <a href="https://files.catbox.moe/ctgrvn.json"><b>JSON</b></a>
+  <a href="https://twitter.com/yu_mara_/status/1660689115397103617"><b>Sauce IMG used for card</b></a>
+  </details>
 </details>
 
 Meet Herta, head of the Herta Space Station and member of the Genius Society.
