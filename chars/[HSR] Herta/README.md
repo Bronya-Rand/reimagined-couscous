@@ -17,10 +17,19 @@ permalink: /herta
 
 <details align="center">
   <summary><b>Downloads</b></summary>
-  <h3>Via Github</h3>
-  <p>Scenario: <a href="chars/[HSR] Herta/Herta.card.png"><b>Card</b></a>, <a href="chars/[HSR] Herta/Herta.json"><b>JSON</b></a> | No Scenario: <a href="chars/[HSR] Herta/Herta.card (no scenario).png"><b>Card</b></a>, <a href="chars/[HSR] Herta/Herta (no scenario).json"><b>JSON</b></a></p>
-  <h3>Via Catbox</h3>
-  <p>Scenario: <a href="https://files.catbox.moe/zjgs0i.png"><b>Card</b></a>, <a href="https://files.catbox.moe/zlp238.json"><b>JSON</b></a> | No Scenario: <a href="https://files.catbox.moe/000xtv.png"><b>Card</b></a>, <a href="https://files.catbox.moe/29k7k9.json"><b>JSON</b></a></p>
+  <details align="center">
+    <summary><b>Bronya:RP</b> (Bot with Heavy Character Lore Examples)</summary>
+    <h3>Via Github</h3>
+    <p>Scenario: <a href="chars/[HSR] Herta/Herta.card.png"><b>Card</b></a>, <a href="chars/[HSR] Herta/Herta.json"><b>JSON</b></a> | No Scenario: <a href="chars/[HSR] Herta/Herta.card (no scenario).png"><b>Card</b></a>, <a href="chars/[HSR] Herta/Herta (no scenario).json"><b>JSON</b></a></p>
+    <h3>Via Catbox</h3>
+    <p>Scenario: <a href="https://files.catbox.moe/3dij55.png"><b>Card</b></a>, <a href="https://files.catbox.moe/t9sa4a.json"><b>JSON</b></a> | No Scenario: <a href="https://files.catbox.moe/uhj4ly.png"><b>Card</b></a>, <a href="https://files.catbox.moe/0e0ck4.json"><b>JSON</b></a></p>
+  </details>
+  <details align="center">
+    <summary><b>Bronya:Chat</b> (Bot without Heavy Character Lore Examples)</summary>
+    <h3>Via Github</h3>
+    <a href="chars/[HSR] Herta/Herta.card (chat).png"><b>Card</b></a>, <a href="chars/[HSR] Herta/Herta (chat).json"><b>JSON</b></a>
+    <h3>Via Catbox</h3>
+    <a href="https://files.catbox.moe/prz8ua.png"><b>Card</b></a>, <a href="https://files.catbox.moe/fefdb2.json"><b>JSON</b></a>
   <a href="https://twitter.com/yu_mara_/status/1660689115397103617"><b>Sauce IMG used for card</b></a>
 </details>
 

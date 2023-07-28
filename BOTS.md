@@ -22,7 +22,7 @@ Listed below are all the bots that I have created thus far for PygmalionAI.
 - [Caelus]({{site.baseurl}}/caelus)
 - [Herta]({{site.baseurl}}/herta)
 - [Himeko]({{site.baseurl}}/himeko)
-- [March 7th]({{site.baseurl}}/march-7th)
+<!-- - [March 7th]({{site.baseurl}}/march-7th) -->
 - [March 7th (Before the Express)]({{site.baseurl}}/march-7th-bte)
 - [Natasha]({{site.baseurl}}/natasha)
 - [Pela]({{site.baseurl}}/pela)
