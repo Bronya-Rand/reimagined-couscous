@@ -31,6 +31,7 @@ permalink: /herta
     <h3>Via Catbox</h3>
     <a href="https://files.catbox.moe/prz8ua.png"><b>Card</b></a>, <a href="https://files.catbox.moe/fefdb2.json"><b>JSON</b></a>
   <a href="https://twitter.com/yu_mara_/status/1660689115397103617"><b>Sauce IMG used for card</b></a>
+  </details>
 </details>
 
 Meet Herta, head of the Herta Space Station and member of the Genius Society.
