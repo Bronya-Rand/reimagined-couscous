@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Home
-menu: main-2
+menu: primary
 permalink: /
 ---
 
