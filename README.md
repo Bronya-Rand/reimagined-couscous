@@ -5,7 +5,7 @@ menu: main
 permalink: /
 ---
 
-Why hello there! Welcome to this collection of bots that I decided to create out of fun (and as a challenge) for the AI model "PygmalionAI". 
+Why hello there! Welcome to this collection of bots that I decided to create out of fun (and as a challenge) for the AI bot community "PygmalionAI". 
 
 ## FAQs
 
@@ -17,14 +17,11 @@ Simply put, you will find some character bots that I created either for fun, saw
 
 Find the character that you want by clicking on [Bots]({% link BOTS.md %}). Click the arrow besides *Downloads* and download the character card/JSON file from either Github or Catbox.
 
-### Future bots?
-TBD. This is mainly a hobby project though if people *really* want more, I guess I can make this into a thing and a service.
-
 ### Possible "lewd" bots?
-Not on Github obviously (separate Rentry page) but technically... "any bot can be lewded" if you try hard enough. Or you can just add lewd marks in the characters' PList or make lewd A/N (Author Notes) in SillyTavern and be off with your day with your waifu.
+Not at this time. However, as a saying in Pyg goes "any bot can be lewded if you try hard enough". Or you can just add lewd marks in the characters' PList or make lewd A/N (Author Notes) in SillyTavern and be off with your day with your waifu.
 
 ### Commissions?
-As I said, this is a hobby. But if there is demand and people want to shell out a few bucks I guess I can do so. But I will require a large pool of data first.
+Possibly soon.
 
 ### Why Github over Rentry?
 Because I wanted to have it placed somewhere I can remember down the road. (I also like fancy. :p)
