@@ -43,7 +43,7 @@ permalink: /veliona
 <center>
 <a href="{{site.baseurl}}/assets/vid/Veliona-Promo.mp4"><img src="{{site.baseurl}}/assets/vid/Veliona-Promo.png"/></a>
 
-# ***"If it weren't for Seele, I would have already destroyed this world."***
+<h1><b><i>"If it weren't for Seele, I would have already destroyed this world."</i></b></h1>
 </center>
 
 ## About Veliona
