@@ -1,1 +1,228 @@
-{"entries":{"0":{"uid":0,"key":["Honkai"],"keysecondary":[],"comment":"","content":"Honkai = [ lead by the Will of Honkai, forms(Herrschers, Honkai Beasts, Honkai Sickness, Honkai Energy) ]","constant":false,"selective":true,"selectiveLogic":0,"addMemo":true,"order":100,"position":3,"disable":false,"excludeRecursion":false,"probability":100,"useProbability":true,"displayIndex":0},"1":{"uid":1,"key":["Honkai Sickness"],"keysecondary":[],"comment":"","content":"Honkai Sickness = [ disease, lethal, spread by radiation, incurable, can be delayed, causes blindness, leads to total organ failure, visible as a purple line in the body ]","constant":false,"selective":true,"selectiveLogic":0,"addMemo":true,"order":100,"position":3,"disable":false,"excludeRecursion":false,"probability":100,"useProbability":true,"displayIndex":1},"2":{"uid":2,"key":["Honkai Energy"],"keysecondary":[],"comment":"","content":"Honkai Energy = [ matter, can turn humans and animals into zombies ]","constant":false,"selective":true,"selectiveLogic":0,"addMemo":true,"order":100,"position":3,"disable":false,"excludeRecursion":false,"probability":100,"useProbability":true,"displayIndex":2},"3":{"uid":3,"key":["Valkyrie"],"keysecondary":[],"comment":"","content":"Valkyrie = [ futuristic warrior, uses a D to S ranking, purpose is to fight off the Honkai ]","constant":false,"selective":true,"selectiveLogic":0,"addMemo":true,"order":100,"position":3,"disable":false,"excludeRecursion":false,"probability":100,"useProbability":true,"displayIndex":3},"4":{"uid":4,"key":["Project X-10"],"keysecondary":[],"comment":"","content":"Project X-10 = [ experiment, managed by Cocolia, purpose was to fight against the Honkai, created to make powerful humanoid combat weapons, aims to instill a spiritual aspect into them, was canceled ]","constant":false,"selective":true,"selectiveLogic":0,"addMemo":true,"order":100,"position":3,"disable":false,"excludeRecursion":false,"probability":100,"useProbability":true,"displayIndex":4}}}
+{
+    "entries": {
+        "0": {
+            "uid": 0,
+            "key": [
+                "Honkai"
+            ],
+            "keysecondary": [],
+            "comment": "",
+            "content": "[ Honkai: lead by the Will of Honkai, forms(Herrschers, Honkai Beasts, Honkai Sickness, Honkai Energy) ]",
+            "constant": false,
+            "selective": true,
+            "selectiveLogic": 0,
+            "addMemo": true,
+            "order": 100,
+            "position": 3,
+            "disable": false,
+            "excludeRecursion": true,
+            "probability": 100,
+            "useProbability": true,
+            "displayIndex": 0
+        },
+        "1": {
+            "uid": 1,
+            "key": [
+                "Honkai Sickness"
+            ],
+            "keysecondary": [],
+            "comment": "",
+            "content": "[ Honkai Sickness: disease, lethal, spread by radiation, incurable, can be delayed, causes blindness, leads to total organ failure, visible as a purple line in the body ]",
+            "constant": false,
+            "selective": true,
+            "selectiveLogic": 0,
+            "addMemo": true,
+            "order": 100,
+            "position": 3,
+            "disable": false,
+            "excludeRecursion": true,
+            "probability": 100,
+            "useProbability": true,
+            "displayIndex": 1
+        },
+        "2": {
+            "uid": 2,
+            "key": [
+                "Honkai Energy"
+            ],
+            "keysecondary": [],
+            "comment": "",
+            "content": "[ Honkai Energy: matter, can turn humans and animals into zombies ]",
+            "constant": false,
+            "selective": true,
+            "selectiveLogic": 0,
+            "addMemo": true,
+            "order": 100,
+            "position": 3,
+            "disable": false,
+            "excludeRecursion": true,
+            "probability": 100,
+            "useProbability": true,
+            "displayIndex": 2
+        },
+        "3": {
+            "uid": 3,
+            "key": [
+                "Valkyrie"
+            ],
+            "keysecondary": [],
+            "comment": "",
+            "content": "[ Valkyrie: futuristic female warriors, uses a D to S ranking, purpose is to fight off the Honkai ]",
+            "constant": false,
+            "selective": true,
+            "selectiveLogic": 0,
+            "addMemo": true,
+            "order": 100,
+            "position": 3,
+            "disable": false,
+            "excludeRecursion": true,
+            "probability": 100,
+            "useProbability": true,
+            "displayIndex": 3
+        },
+        "4": {
+            "uid": 4,
+            "key": [
+                "Project X-10"
+            ],
+            "keysecondary": [],
+            "comment": "",
+            "content": "[ Project X-10: experiment, managed by Cocolia, purpose was to fight against the Honkai, created to make powerful humanoid combat weapons, aims to instill a spiritual aspect into them, was cancelled ]",
+            "constant": false,
+            "selective": true,
+            "selectiveLogic": 0,
+            "addMemo": true,
+            "order": 100,
+            "position": 3,
+            "disable": false,
+            "excludeRecursion": true,
+            "probability": 100,
+            "useProbability": true,
+            "displayIndex": 4
+        },
+        "5": {
+            "uid": 5,
+            "key": [
+                "Stigma",
+                "Stigmata"
+            ],
+            "keysecondary": [],
+            "comment": "",
+            "content": "[ Stigma: plural(Stigmata), visual mark on a human, occurs more likely with women, indicates Honkai adaptability ]",
+            "constant": false,
+            "selective": true,
+            "selectiveLogic": 0,
+            "addMemo": true,
+            "order": 100,
+            "position": 3,
+            "disable": false,
+            "excludeRecursion": true,
+            "probability": 100,
+            "useProbability": true,
+            "displayIndex": 5
+        },
+        "6": {
+            "uid": 6,
+            "key": [
+                "Sea of Quanta",
+                "Quantum Sea"
+            ],
+            "keysecondary": [],
+            "comment": "",
+            "content": "[ Sea of Quanta: enclosed dimension, isolated from reality ]",
+            "constant": false,
+            "selective": true,
+            "selectiveLogic": 0,
+            "addMemo": true,
+            "order": 100,
+            "position": 0,
+            "disable": false,
+            "excludeRecursion": true,
+            "probability": 100,
+            "useProbability": true,
+            "displayIndex": 6
+        },
+        "7": {
+            "uid": 7,
+            "key": [
+                "Hyperion"
+            ],
+            "keysecondary": [],
+            "comment": "",
+            "content": "[ Hyperion: flying battleship, houses Valkyrie ]",
+            "constant": false,
+            "selective": true,
+            "selectiveLogic": 0,
+            "addMemo": true,
+            "order": 100,
+            "position": 0,
+            "disable": false,
+            "excludeRecursion": true,
+            "probability": 100,
+            "useProbability": true,
+            "displayIndex": 7
+        },
+        "8": {
+            "uid": 8,
+            "key": [
+                "Herrscher",
+                "Herrschers"
+            ],
+            "keysecondary": [],
+            "comment": "",
+            "content": "[ Herrscher: immensely powerful entities, destroys humanity, can be born inside humans ]",
+            "constant": false,
+            "selective": true,
+            "selectiveLogic": 0,
+            "addMemo": true,
+            "order": 100,
+            "position": 3,
+            "disable": false,
+            "excludeRecursion": true,
+            "probability": 100,
+            "useProbability": true,
+            "displayIndex": 8
+        },
+        "9": {
+            "uid": 9,
+            "key": [
+                "Herrscher of Domination"
+            ],
+            "keysecondary": [],
+            "comment": "",
+            "content": "[ Herrscher of Domination: manipulative, nihilistic, exploits weak mental fortitude, composed of countless puppets, puppets created from despairing humans, operates within Theater of Domination ]",
+            "constant": false,
+            "selective": true,
+            "selectiveLogic": 0,
+            "addMemo": true,
+            "order": 100,
+            "position": 3,
+            "disable": false,
+            "excludeRecursion": true,
+            "probability": 100,
+            "useProbability": true,
+            "displayIndex": 9
+        },
+        "10": {
+            "uid": 10,
+            "key": [
+                "Theater of Domination",
+                "Theatre of Domination"
+            ],
+            "keysecondary": [],
+            "comment": "",
+            "content": "[ Theater of Domination: pocket dimension, grand theater themed ]",
+            "constant": false,
+            "selective": true,
+            "selectiveLogic": 0,
+            "addMemo": true,
+            "order": 100,
+            "position": 0,
+            "disable": false,
+            "excludeRecursion": true,
+            "probability": 100,
+            "useProbability": true,
+            "displayIndex": 10
+        }
+    }
+}
