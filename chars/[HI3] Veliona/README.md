@@ -25,15 +25,15 @@ permalink: /veliona
     <summary><b>Bronya:RP</b> (Bot with Scenario)</summary>
     <h3>Via Github</h3>
     <p>Scenario A: <a href="chars/[HI3] Veliona/Veliona A.png"><b>Card</b></a>, <a href="chars/[HI3] Veliona/Veliona A.json"><b>JSON</b></a> | Scenario B: <a href="chars/[HI3] Veliona/Veliona B.png"><b>Card</b></a>, <a href="chars/[HI3] Veliona/Veliona B.json"><b>JSON</b></a></p>
-    <h3>Via Catbox</h3>
-    <p>Scenario A: <a href="https://files.catbox.moe/7yalu9.png"><b>Card</b></a>, <a href="https://files.catbox.moe/adtpyg.json"><b>JSON</b></a> | Scenario B: <a href="https://files.catbox.moe/x8pf1n.png"><b>Card</b></a>, <a href="https://files.catbox.moe/ynq8y6.json"><b>JSON</b></a></p>
+    <!-- <h3>Via Catbox</h3>
+    <p>Scenario A: <a href="https://files.catbox.moe/7yalu9.png"><b>Card</b></a>, <a href="https://files.catbox.moe/adtpyg.json"><b>JSON</b></a> | Scenario B: <a href="https://files.catbox.moe/x8pf1n.png"><b>Card</b></a>, <a href="https://files.catbox.moe/ynq8y6.json"><b>JSON</b></a></p> --->
   </details>
   <details align="center">
     <summary><b>Bronya:Chat</b> (Bot without Scenario)</summary>
     <h3>Via Github</h3>
     <p>Scenario A: <a href="chars/[HI3] Veliona/Veliona (no scenario A).png"><b>Card</b></a>, <a href="chars/[HI3] Veliona/Veliona (no scenario A).json"><b>JSON</b></a> | Scenario B: <a href="chars/[HI3] Veliona/Veliona (no scenario B).png"><b>Card</b></a>, <a href="chars/[HI3] Veliona/Veliona (no scenario B).json"><b>JSON</b></a></p>
-    <h3>Via Catbox</h3>
-    <p>Scenario A: <a href="https://files.catbox.moe/7yalu9.png"><b>Card</b></a>, <a href="https://files.catbox.moe/adtpyg.json"><b>JSON</b></a> | Scenario B: <a href="https://files.catbox.moe/x8pf1n.png"><b>Card</b></a>, <a href="https://files.catbox.moe/ynq8y6.json"><b>JSON</b></a></p>
+    <!-- <h3>Via Catbox</h3>
+    <p>Scenario A: <a href="https://files.catbox.moe/7yalu9.png"><b>Card</b></a>, <a href="https://files.catbox.moe/adtpyg.json"><b>JSON</b></a> | Scenario B: <a href="https://files.catbox.moe/x8pf1n.png"><b>Card</b></a>, <a href="https://files.catbox.moe/ynq8y6.json"><b>JSON</b></a></p> --->
   </details>
   <a href="https://www.pixiv.net/en/artworks/90153684"><b>Sauce IMG used for Scenario A</b></a>
 </details>
