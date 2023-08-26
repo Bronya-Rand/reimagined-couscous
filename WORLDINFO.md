@@ -22,4 +22,8 @@ Here contains the list of all optional World Info's you may use when using my bo
 
 ## Character Lorebooks
 
+### Honkai Impact 3rd (HI3)
 - [Veliona](./world-info/Veliona_Lorebook_HI3.json)
+
+### Honkai: Star Rail (H:SR)
+- [Seele](./world-info/Seele-WI.json)

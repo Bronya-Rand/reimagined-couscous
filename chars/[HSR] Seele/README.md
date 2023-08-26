@@ -4,10 +4,10 @@ title: "Seele (Honkai: Star Rail)"
 permalink: /seele
 ---
 # Seele [Honkai: Star Rail (H:SR)]
-> Not to be confused with Seele Vollerei from Honkai Impact 3rd (HI3).
+> Not to be confused with Seele Vollerei or [Veliona]({{site.baseurl}}/veliona) from Honkai Impact 3rd (HI3).
 
 <p align="center">
-    Current Card Ver: <b>1.23</b>
+    Current Card Ver: <b>2.2</b>
 </p>
 
 <!-- <p align="center">
@@ -16,10 +16,20 @@ permalink: /seele
 
 <details align="center">
   <summary><b>Downloads</b></summary>
-  <h3>Via Github</h3>
-  <p>Scenario: <a href="chars/[HSR] Seele/Seele.card.png"><b>Card</b></a>, <a href="chars/[HSR] Seele/Seele.json"><b>JSON</b></a> | No Scenario: <a href="chars/[HSR] Seele/Seele.card (no scenario).png"><b>Card</b></a>, <a href="chars/[HSR] Seele/Seele (no scenario).json"><b>JSON</b></a></p>
-  <h3>Via Catbox</h3>
-  <p>Scenario: <a href="https://files.catbox.moe/dxi11a.png"><b>Card</b></a>, <a href="https://files.catbox.moe/wgdrzv.json"><b>JSON</b></a> | No Scenario: <a href="https://files.catbox.moe/9gf7wr.png"><b>Card</b></a>, <a href="https://files.catbox.moe/9civph.json"><b>JSON</b></a></p>
+  <details align="center">
+    <summary><b>Bronya:RP</b> (Bot with Scenario)</summary>
+    <h3>Via Github</h3>
+    <a href="chars/[HSR] Seele/Seele.png"><b>Card</b></a>, <a href="chars/[HSR] Seele/Seele.json"><b>JSON</b></a>
+    <h3>Via Catbox</h3>
+    <a href="https://files.catbox.moe/pnsxi4.png"><b>Card</b></a>, <a href="https://files.catbox.moe/nv5jbt.json"><b>JSON</b></a>
+  </details>
+  <details align="center">
+    <summary><b>Bronya:Chat</b> (Bot without Scenario)</summary>
+    <h3>Via Github</h3>
+    <a href="chars/[HSR] Seele/Seele (no scenario).png"><b>Card</b></a>, <a href="chars/[HSR] Seele/Seele (no scenario).json"><b>JSON</b></a>
+    <h3>Via Catbox</h3>
+    <a href="https://files.catbox.moe/s4fja0.png"><b>Card</b></a>, <a href="https://files.catbox.moe/w0d5fp.json"><b>JSON</b></a>
+  </details>
   <a href="https://twitter.com/Lino_3o/status/1652624299264720896"><b>Sauce IMG used for card</b></a>
 </details>
 
