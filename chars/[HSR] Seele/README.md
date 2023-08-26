@@ -14,6 +14,8 @@ permalink: /seele
     <img src="{{site.baseurl}}/assets/images/chars/seele.png" alt="Seele" width=250px>
 </p> -->
 
+**Before Continuing:** This card uses no starter as this is depreciated. Make sure to remove your chat starter in **Advanced Formatting**.
+
 <details align="center">
   <summary><b>Downloads</b></summary>
   <details align="center">
