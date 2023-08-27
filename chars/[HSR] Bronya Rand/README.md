@@ -9,31 +9,22 @@ permalink: /bronya
 **Before Continuing**: This card uses the no dinkus starter as this is depreciated. Make sure to remove your token starter in **Advanced Formatting** >  **Custom Chat Separator**.
 
 <p align="center">
-    Current Card Ver: <b>2.1</b>
+    Current Card Ver: <b>2.2</b>
 </p>
 
 <p align="center">
     <img src="{{site.baseurl}}/assets/images/chars/bronya.png" alt="Bronya Rand" width=250px>
 </p>
 
-> This card uses a World Info card which comes by default with the bot. There is also an  (optional) World Info you can download from [here]({{site.baseurl}}/world-info).
+> Bronya uses a Lorebook which comes by default with the bot. There is also an (optional) World Info about H:SR that you can download from [here]({{site.baseurl}}/world-lore-books).
 
 <details align="center">
   <summary><b>Downloads</b></summary>
-  <details align="center">
-    <summary><b>Bronya:RP</b> (Bot with Heavy Character Lore Examples)</summary>
-    <h3>Via Github</h3>
-    <p>Scenario: <a href="chars/[HSR] Bronya Rand/Bronya Rand.card.png"><b>Card</b></a>, <a href="chars/[HSR] Bronya Rand/Bronya Rand.json"><b>JSON</b></a> | No Scenario: <a href="chars/[HSR] Bronya Rand/Bronya Rand.card (no scenario).png"><b>Card</b></a>, <a href="chars/[HSR] Bronya Rand/Bronya Rand (no scenario).json"><b>JSON</b></a></p>
-    <h3>Via Catbox</h3>
-    <p>Scenario: <a href="https://files.catbox.moe/brxlbq.png"><b>Card</b></a>, <a href="https://files.catbox.moe/rbv2ex.json"><b>JSON</b></a> | No Scenario: <a href="https://files.catbox.moe/v7m4ef.png"><b>Card</b></a>, <a href="https://files.catbox.moe/i7chkh.json"><b>JSON</b></a></p>
-  </details>
-  <details align="center">
-    <summary><b>Bronya:Chat</b> (Bot without Heavy Character Lore Examples)</summary>
-    <h3>Via Github</h3>
-    <a href="chars/[HSR] Bronya Rand/Bronya Rand.card (chat).png"><b>Card</b></a>, <a href="chars/[HSR] Bronya Rand/Bronya Rand (chat).json"><b>JSON</b></a>
-    <h3>Via Catbox</h3>
-    <a href="https://files.catbox.moe/w6naxu.png"><b>Card</b></a>, <a href="https://files.catbox.moe/7aeubr.json"><b>JSON</b></a>
-  </details>
+  <b>Bronya:RP</b> (Bot with Scenario):
+    <a href="chars/[HSR] Bronya Rand/Bronya Rand.png"><b>Card</b></a>, <a href="chars/[HSR] Bronya Rand/Bronya Rand.json"><b>JSON</b></a> | 
+  <b>Bronya:Chat</b> (Bot without Scenario):
+    <a href="chars/[HSR] Bronya Rand/Bronya Rand (no scenario).png"><b>Card</b></a>, <a href="chars/[HSR] Bronya Rand/Bronya Rand (no scenario).json"><b>JSON</b></a>
+
   <a href="https://www.pixiv.net/en/artworks/93767347"><b>Sauce IMG used for card</b></a>
 </details>
 
@@ -66,7 +57,7 @@ All bots were tested using the `Classic-Pygmalion-6B` preset in SillyTavern.
 > Honkai: Star Rail spoilers ahead. You have been warned.
 
 - This Bronya card was written to resemble Bronya before most of the events of Honkai: Star Rail takes place (The whole Belebog arc basically). Thus she is completely unaware of most characters and lore after this.
-   > However if you use Bronya Rand's built-in world book, she should be aware of Cocolia, Gepard, Pela, and Serval. Seele is excluded as that is Post-Belobog.
+   > However if you use Bronya Rand's lorebook, she should be aware of Cocolia, Gepard, Pela, and Serval. Seele, Cocolia (dead) and a modified introduction in which she is the Supreme Guardian are included but disabled in her lorebook as that is Post-Belobog. You may enable them in World Info/Lorebooks but make sure to disable Pre-Belobog entries and vice versa.
 - Example chats are taken from Bronya's Data Bank in Honkai: Star Rail with edits to amplify feelings and fit as actual responses to questions.
 - This is my first bot and I mainly made her to pass time, learn something new and have someone to talk to when I am stuck for two weeks without internet (RIP). Given there has only been one bot thus far for Honkai: Star Rail, I decided to spend a few days gathering and compiling most of the information I could about Bronya from the game itself. 
 
