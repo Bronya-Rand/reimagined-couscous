@@ -34,4 +34,4 @@ Listed below are all the bots that I have created thus far for PygmalionAI.
 - [Stelle]({{site.baseurl}}/stelle)
 - [Sushang]({{site.baseurl}}/sushang)
 - [Tingyun]({{site.baseurl}}/tingyun)
-<!-- - [Yukong]({{site.baseurl}}/yukong) -->
+- [Yukong]({{site.baseurl}}/yukong)
