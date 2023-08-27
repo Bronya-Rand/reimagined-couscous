@@ -10,7 +10,7 @@ Listed below are all the bots that I have created thus far for PygmalionAI.
 <!-- To be added once more games are listed here -->
 ## Legend
 - [Honkai Impact 3rd](#honkai-impact-3rd-hi3) - 2
-- [Honkai: Star Rail (H:SR)](#honkai-star-rail-hsr) - 18
+- [Honkai: Star Rail (H:SR)](#honkai-star-rail-hsr) - 17
 
 ### Honkai Impact 3rd (HI3)
 - [Bronya Zaychik]({{site.baseurl}}/bronya-zaychik)
