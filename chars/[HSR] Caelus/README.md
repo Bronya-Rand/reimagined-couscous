@@ -5,32 +5,24 @@ permalink: /caelus
 ---
 # Caelus [Honkai: Star Rail (H:SR)]
 
+**Before Continuing:** This card uses no starter as this is depreciated. Make sure to remove your chat starter in **Advanced Formatting**.
+
 <p align="center">
-    Current Card Ver: <b>2.1</b>
+    Current Card Ver: <b>2.2</b>
 </p>
 
 <!-- <p align="center">
     <img src="{{site.baseurl}}/assets/images/chars/caelus.png" alt="Caelus" width=250px>
 </p> -->
 
-**Before Continuing**: This card uses the no dinkus starter as this is depreciated. Make sure to remove your token starter in **Advanced Formatting** >  **Custom Chat Separator**.
+> Caelus uses a Lorebook which comes by default with the bot. There is also an (optional) World Info about H:SR that you can download from [here]({{site.baseurl}}/world-lore-books).
 
 <details align="center">
   <summary><b>Downloads</b></summary>
-  <details align="center">
-    <summary><b>Bronya:RP</b> (Bot with Heavy Character Lore Examples)</summary>
-    <h3>Via Github</h3>
-    <p>Scenario: <a href="chars/[HSR] Caelus/Caelus.card.png"><b>Card</b></a>, <a href="chars/[HSR] Caelus/Caelus.json"><b>JSON</b></a> | No Scenario: <a href="chars/[HSR] Caelus/Caelus.card (no scenario).png"><b>Card</b></a>, <a href="chars/[HSR] Caelus/Caelus (no scenario).json"><b>JSON</b></a></p>
-    <h3>Via Catbox</h3>
-    <p>Scenario: <a href="https://files.catbox.moe/ajalm9.png"><b>Card</b></a>, <a href="https://files.catbox.moe/uahc89.json"><b>JSON</b></a> | No Scenario: <a href="https://files.catbox.moe/5z5izl.png"><b>Card</b></a>, <a href="https://files.catbox.moe/3gmm21.json"><b>JSON</b></a></p>
-  </details>
-  <details align="center">
-    <summary><b>Bronya:Chat</b> (Bot without Heavy Character Lore Examples)</summary>
-    <h3>Via Github</h3>
-    <a href="chars/[HSR] Caelus/Caelus.card (chat).png"><b>Card</b></a>, <a href="chars/[HSR] Caelus/Caelus (chat).json"><b>JSON</b></a>
-    <h3>Via Catbox</h3>
-    <a href="https://files.catbox.moe/03109t.png"><b>Card</b></a>, <a href="https://files.catbox.moe/z015mm.json"><b>JSON</b></a>
-  </details>
+  <b>Bronya:RP</b> (Bot with Scenario):
+    <a href="chars/[HSR] Caelus/Caelus.png"><b>Card</b></a>, <a href="chars/[HSR] Caelus/Caelus.json"><b>JSON</b></a> | 
+  <b>Bronya:Chat</b> (Bot without Scenario):
+    <a href="chars/[HSR] Caelus/Caelus (no scenario).png"><b>Card</b></a>, <a href="chars/[HSR] Caelus/Caelus (no scenario).json"><b>JSON</b></a>
 </details>
 
 > *Looking for the female trailblazer Stelle?* See Stelle [here]({{site.baseurl}}/stelle).

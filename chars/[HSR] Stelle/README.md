@@ -6,31 +6,22 @@ permalink: /stelle
 # Stelle [Honkai: Star Rail (H:SR)]
 
 <p align="center">
-    Current Card Ver: <b>1.1</b>
+    Current Card Ver: <b>2.2</b>
 </p>
 
 <!-- <p align="center">
     <img src="{{site.baseurl}}/assets/images/chars/Stelle.png" alt="Stelle" width=250px>
 </p> -->
 
-**Before Continuing:** This card used the `###` starter as LLaMA models do better with this system. Make sure your custom token starter in SillyTavern to `###` before using the bot. If this causes issues, revert to `<START>`.
+**Before Continuing:** This card uses no starter as this is depreciated. Make sure to remove your chat starter in **Advanced Formatting**.
 
 <details align="center">
   <summary><b>Downloads</b></summary>
-  <details align="center">
-    <summary><b>Bronya:RP</b> (Bot with Heavy Character Lore Examples)</summary>
-    <h3>Via Github</h3>
-    <p>Scenario: <a href="chars/[HSR] Stelle/Stelle.card.png"><b>Card</b></a>, <a href="chars/[HSR] Stelle/Stelle.json"><b>JSON</b></a> | No Scenario: <a href="chars/[HSR] Stelle/Stelle.card (no scenario).png"><b>Card</b></a>, <a href="chars/[HSR] Stelle/Stelle (no scenario).json"><b>JSON</b></a></p>
-    <h3>Via Catbox</h3>
-    <p>Scenario: <a href="https://files.catbox.moe/1dgptn.png"><b>Card</b></a>, <a href="https://files.catbox.moe/1p5s3d.json"><b>JSON</b></a> | No Scenario: <a href="https://files.catbox.moe/mabb9u.png"><b>Card</b></a>, <a href="https://files.catbox.moe/rv1vhs.json"><b>JSON</b></a></p>
-  </details>
-  <details align="center">
-    <summary><b>Bronya:Chat</b> (Bot without Heavy Character Lore Examples)</summary>
-    <h3>Via Github</h3>
-    <a href="chars/[HSR] Stelle/Stelle.card (chat).png"><b>Card</b></a>, <a href="chars/[HSR] Stelle/Stelle (chat).json"><b>JSON</b></a>
-    <h3>Via Catbox</h3>
-    <a href="https://files.catbox.moe/e5coj0.png"><b>Card</b></a>, <a href="https://files.catbox.moe/5yzk4o.json"><b>JSON</b></a>
-  </details>
+  <b>Bronya:RP</b> (Bot with Scenario):
+    <a href="chars/[HSR] Stelle/Stelle.png"><b>Card</b></a>, <a href="chars/[HSR] Stelle/Stelle.json"><b>JSON</b></a> | 
+  <b>Bronya:Chat</b> (Bot without Scenario):
+    <a href="chars/[HSR] Stelle/Stelle (no scenario).png"><b>Card</b></a>, <a href="chars/[HSR] Stelle/Stelle (no scenario).json"><b>JSON</b></a>
+
   <a href="https://twitter.com/NATSUKAZEREI/status/1664244510971539456"><b>Sauce IMG used for card</b></a>
 </details>
 
