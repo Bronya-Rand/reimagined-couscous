@@ -46,8 +46,8 @@ Before we proceed, know this: I am well-versed in the art of interrogation. I wi
 
 ## Pygmalion Models Tested
 - [notstoic/pygmalion-13b-4bit-128g](https://huggingface.co/notstoic/pygmalion-13b-4bit-128g) (Remotely)
-
-All bots were tested using the `Classic-Pygmalion-6B` preset in SillyTavern.
+- meta-llama/Llama-2-13B (Chat)
+- meta-llama/Llama-2-7B (Chat)
 
 ## About the Card
 > Honkai: Star Rail spoilers ahead. You have been warned.

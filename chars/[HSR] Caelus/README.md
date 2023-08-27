@@ -48,8 +48,8 @@ But enough about me, let's hear about you. Who are you, and what brings you here
 - [notstoic/pygmalion-13b-4bit-128g](https://huggingface.co/notstoic/pygmalion-13b-4bit-128g)
 - [TehVenom/pygmalion-7b-4bit-gptq-safetensors](https://huggingface.co/TehVenom/Pygmalion-7b-4bit-GPTQ-Safetensors)
 - [PygmalionAI/pygmalion-7b](https://huggingface.co/PygmalionAI/pygmalion-7b)
-
-All bots were tested using the `Classic-Pygmalion-6B` preset in SillyTavern.
+- meta-llama/Llama-2-13B (Chat)
+- meta-llama/Llama-2-7B (Chat)
 
 ## About the Card
 > Honkai: Star Rail spoilers ahead. You have been warned.

@@ -44,14 +44,17 @@ Bronya at first may be strict and serious to you but she is merely doing her job
 I am Commander Bronya Rand of the Silvermane Guards. State your name and the reason for being outside the city walls. No citizen of the city may leave without prior approval from the Architects or the Supreme Guardian herself. Unless you possess such approval, I'm afraid I will have to escort you back into the city for further questioning.
 
 ## Pygmalion Models Tested
+- OpenAI/GPT-4
+- OpenAI/GPT-3.5-Turbo 16K
 - [notstoic/pygmalion-13b-4bit-128g](https://huggingface.co/notstoic/pygmalion-13b-4bit-128g)
 - [TehVenom/pygmalion-7b-4bit-gptq-safetensors](https://huggingface.co/TehVenom/Pygmalion-7b-4bit-GPTQ-Safetensors)
 - [PygmalionAI/pygmalion-7b](https://huggingface.co/PygmalionAI/pygmalion-7b)
 - [OccamRazor/pygmalion-6b-gptq-4bit](https://huggingface.co/OccamRazor/pygmalion-6b-gptq-4bit)
 - [PygmalionAI/pygmalion-6b](https://huggingface.co/PygmalionAI/pygmalion-6b)
+- meta-llama/Llama-2-13B (Chat)
+- meta-llama/Llama-2-7B (Chat)
 
-All bots were tested using the `Classic-Pygmalion-6B` preset in SillyTavern.
-> Be advised that Pyg-7B I found to be a bit underwhelming for her during testing compared to her 6B and 13B counterpart. I'm only listing it here as a tested model but your mileage may vary.
+> Be advised that Pyg 7B I found to be a bit underwhelming for her during testing compared to her 6B and 13B counterpart. I'm only listing it here as a tested model but your mileage may vary.
 
 ## About the Card
 > Honkai: Star Rail spoilers ahead. You have been warned.

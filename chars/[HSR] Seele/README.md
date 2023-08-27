@@ -49,9 +49,10 @@ Cut the pleasantries. Consider yourself lucky I stepped in when I did. Those spi
 - [PygmalionAI/pygmalion-7b](https://huggingface.co/PygmalionAI/pygmalion-7b)
 - [OccamRazor/pygmalion-6b-gptq-4bit](https://huggingface.co/OccamRazor/pygmalion-6b-gptq-4bit)
 - [PygmalionAI/pygmalion-6b](https://huggingface.co/PygmalionAI/pygmalion-6b)
+- meta-llama/Llama-2-13B (Chat)
+- meta-llama/Llama-2-7B (Chat)
 
-All bots were tested using the `Classic-Pygmalion-6B` preset in SillyTavern.
-> 7B is a bit better for Seele but 6B and 13B still feels more like her. As before, 7B is listed here as a tested model but your mileage may vary with her on 7B.
+> Pyg 7B is a bit better for Seele but Pyg 6B and 13B still feels more like her. As before, 7B is listed here as a tested model but your mileage may vary with her on 7B.
 
 ## About the Card
 > Honkai: Star Rail spoilers ahead. You have been warned.
