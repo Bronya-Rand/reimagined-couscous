@@ -5,6 +5,8 @@ permalink: /stelle
 ---
 # Stelle [Honkai: Star Rail (H:SR)]
 
+**Before Continuing:** This card uses no starter as this is depreciated. Make sure to remove your chat starter in **Advanced Formatting**.
+
 <p align="center">
     Current Card Ver: <b>2.2</b>
 </p>
@@ -13,7 +15,7 @@ permalink: /stelle
     <img src="{{site.baseurl}}/assets/images/chars/Stelle.png" alt="Stelle" width=250px>
 </p> -->
 
-**Before Continuing:** This card uses no starter as this is depreciated. Make sure to remove your chat starter in **Advanced Formatting**.
+> Stelle uses a Lorebook which comes by default with the bot. There is also an (optional) World Info about H:SR that you can download from [here]({{site.baseurl}}/world-lore-books).
 
 <details align="center">
   <summary><b>Downloads</b></summary>
