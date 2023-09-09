@@ -20,11 +20,12 @@ permalink: /seele
 
 <details align="center">
   <summary><b>Downloads</b></summary>
-  <b>Bronya:RP</b> (Bot with Scenario):
+  <p><b>Bronya:RP</b> (Bot with Scenario):
     <a href="chars/[HSR] Seele/Seele.png"><b>Card</b></a>, <a href="chars/[HSR] Seele/Seele.json"><b>JSON</b></a> | 
   <b>Bronya:Chat</b> (Bot without Scenario):
-    <a href="chars/[HSR] Seele/Seele (no scenario).png"><b>Card</b></a>, <a href="chars/[HSR] Seele/Seele (no scenario).json"><b>JSON</b></a>
-
+    <a href="chars/[HSR] Seele/Seele (no scenario).png"><b>Card</b></a>, <a href="chars/[HSR] Seele/Seele (no scenario).json"><b>JSON</b></a> 
+  </p>
+  
   <a href="https://twitter.com/Lino_3o/status/1652624299264720896"><b>Sauce IMG used for card</b></a>
 </details>
 
