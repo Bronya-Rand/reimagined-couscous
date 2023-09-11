@@ -9,7 +9,7 @@ Listed below are all the bots that I have created thus far for PygmalionAI.
 
 <!-- To be added once more games are listed here -->
 ## Legend
-- [Genshin Impact](#genshin-impact-gi) - 4
+- [Genshin Impact](#genshin-impact-gi) - 5
 - [Honkai Impact 3rd](#honkai-impact-3rd-hi3) - 2
 - [Honkai: Star Rail (H:SR)](#honkai-star-rail-hsr) - 17
 
@@ -18,6 +18,7 @@ Listed below are all the bots that I have created thus far for PygmalionAI.
 - [Keqing]({{site.baseurl}}/keqing)
 - [Kamisato Ayaka]({{site.baseurl}}/kamisato-ayaka)
 - [Raiden Shogun (Raiden Ei)]({{site.baseurl}}/raiden-ei)
+- [Raiden Shogun (The Shogun)]({{site.baseurl}}/the-shogun)
 
 ### Honkai Impact 3rd (HI3)
 - [Bronya Zaychik]({{site.baseurl}}/bronya-zaychik)
