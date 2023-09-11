@@ -22,9 +22,9 @@ permalink: /kamisato-ayaka
   <details>
     <summary><b>Scenario A (Kamisato Estate)</b></summary>
     <p><b>Bronya:RP</b> (Bot with Scenario):
-      <a href="chars/[HSR] Kamisato Ayaka/Kamisato Ayaka.png"><b>Card</b></a>, <a href="chars/[HSR] Kamisato Ayaka/Kamisato Ayaka.json"><b>JSON</b></a> | 
+      <a href="chars/[GI] Kamisato Ayaka/Kamisato Ayaka.png"><b>Card</b></a>, <a href="chars/[GI] Kamisato Ayaka/Kamisato Ayaka.json"><b>JSON</b></a> | 
     <b>Bronya:Chat</b> (Bot without Scenario):
-      <a href="chars/[HSR] Kamisato Ayaka/Kamisato Ayaka (no scenario).png"><b>Card</b></a>, <a href="chars/[HSR] Kamisato Ayaka/Kamisato Ayaka (no scenario).json"><b>JSON</b></a>
+      <a href="chars/[GI] Kamisato Ayaka/Kamisato Ayaka (no scenario).png"><b>Card</b></a>, <a href="chars/[GI] Kamisato Ayaka/Kamisato Ayaka (no scenario).json"><b>JSON</b></a>
     </p>
 
     <a href="https://www.pixiv.net/artworks/106579258"><b>Sauce IMG used for card</b></a>
@@ -32,9 +32,9 @@ permalink: /kamisato-ayaka
   <details>
     <summary><b>Scenario B (Inazuma Outskirts)</b></summary>
     <p><b>Bronya:RP</b> (Bot with Scenario):
-      <a href="chars/[HSR] Kamisato Ayaka/Kamisato Ayaka B.png"><b>Card</b></a>, <a href="chars/[HSR] Kamisato Ayaka/Kamisato Ayaka B.json"><b>JSON</b></a> | 
+      <a href="chars/[GI] Kamisato Ayaka/Kamisato Ayaka B.png"><b>Card</b></a>, <a href="chars/[GI] Kamisato Ayaka/Kamisato Ayaka B.json"><b>JSON</b></a> | 
     <b>Bronya:Chat</b> (Bot without Scenario):
-      <a href="chars/[HSR] Kamisato Ayaka/Kamisato Ayaka B (no scenario).png"><b>Card</b></a>, <a href="chars/[HSR] Kamisato Ayaka/Kamisato Ayaka B (no scenario).json"><b>JSON</b></a>
+      <a href="chars/[GI] Kamisato Ayaka/Kamisato Ayaka B (no scenario).png"><b>Card</b></a>, <a href="chars/[GI] Kamisato Ayaka/Kamisato Ayaka B (no scenario).json"><b>JSON</b></a>
     </p>
 
     <a href="https://twitter.com/Otabaaa/status/1661321379571187722"><b>Sauce IMG used for card</b></a>
