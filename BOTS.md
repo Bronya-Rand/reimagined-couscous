@@ -9,11 +9,12 @@ Listed below are all the bots that I have created thus far for PygmalionAI.
 
 <!-- To be added once more games are listed here -->
 ## Legend
-- [Genshin Impact](#genshin-impact-gi) - 1
+- [Genshin Impact](#genshin-impact-gi) - 2
 - [Honkai Impact 3rd](#honkai-impact-3rd-hi3) - 2
 - [Honkai: Star Rail (H:SR)](#honkai-star-rail-hsr) - 17
 
 ### Genshin Impact (GI)
+- [Ganyu]({{site.baseurl}}/ganyu)
 - [Kamisato Ayaka]({{site.baseurl}}/kamisato-ayaka)
 
 ### Honkai Impact 3rd (HI3)
