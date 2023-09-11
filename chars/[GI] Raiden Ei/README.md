@@ -53,5 +53,5 @@ How did you manage to find your way through the thunderous storms that I, the Al
 
 ## About the Card
 > Genshin Impact spoilers ahead. You have been warned.
-- This Raiden Ei card was written to resemble her before most of the events of H:SR takes place. Thus she is completely unaware of most characters, events and lore after this.
-- Example chats are taken from Ei's Data Bank in H:SR with edits to amplify feelings and fit as actual responses to questions.
+- This Raiden Ei card was written to resemble her before most of the events of Genshin Impact takes place. Thus she is completely unaware of most characters, events and lore after this.
+- Example chats are taken from Ei's Data Bank in Genshin Impact with edits to amplify feelings and fit as actual responses to questions.
