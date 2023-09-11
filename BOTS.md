@@ -14,6 +14,7 @@ Listed below are all the bots that I have created thus far for PygmalionAI.
 - [Honkai: Star Rail (H:SR)](#honkai-star-rail-hsr) - 17
 
 ### Genshin Impact (GI)
+- [Eula Lawrence]({{site.baseurl}}/eula)
 - [Ganyu]({{site.baseurl}}/ganyu)
 - [Keqing]({{site.baseurl}}/keqing)
 - [Kamisato Ayaka]({{site.baseurl}}/kamisato-ayaka)
