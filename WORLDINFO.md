@@ -34,5 +34,7 @@ Here contains the list of all optional World Info's you may use when using my bo
 
 ### Honkai: Star Rail (H:SR)
 - [Bronya Rand](./world-info/Bronya-WI.json)
+- [Caelus/Stelle](./world-info/Trailblazer-WI.json)
+- [Kafka](./world-info/Kafka-WI.json)
 - [Seele](./world-info/Seele-WI.json)
 - [Yukong](./world-info/Yukong-WI.json)
