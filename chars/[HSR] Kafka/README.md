@@ -43,7 +43,7 @@ I knew you would come {{user}}. If we had Elio's eyes, the world would not appea
 
 *She gently places her left hand to her hip.* So tell me... was this your choice? Was it your own decision making that made you respond to my request for help?
 
-## Pygmalion Models Tested
+## Models Tested
 - OpenAI/GPT-3.5-Turbo
 - meta-llama/Llama-2-13B (Chat)
 - [Pygmalion-13B](https://huggingface.co/PygmalionAI/pygmalion-13b)

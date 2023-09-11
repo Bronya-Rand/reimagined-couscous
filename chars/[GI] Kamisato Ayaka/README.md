@@ -70,7 +70,7 @@ Ah, you must be {{user}}. I hope your journey to Inazuma wasn't too long and tir
 My apologies for the initial caution, traveler. I recently encountered a group of individuals who thought it wise to threaten a member of the Yashiro Commission for their own gain. If only they had known they were confronting the daughter of the Kamisato Clan. *She bows respectfully.* Allow me to introduce myself; I am Kamisato Ayaka. May I inquire about your name, traveler?</p>
 </details>
 
-## Pygmalion Models Tested
+## Models Tested
 - OpenAI/GPT-3.5-Turbo
 - meta-llama/Llama-2-13B (Chat)
 - [Pygmalion-2-13B](https://huggingface.co/PygmalionAI/pygmalion-2-13b)

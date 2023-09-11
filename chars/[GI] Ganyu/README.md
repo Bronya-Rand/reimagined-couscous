@@ -74,7 +74,7 @@ Ganyu is the secretary of the Liyue Qixing, and she is very diligent about her w
 H-hello {{user}}. <i>Her face is lightly flushed, with excitement or embarrassment. She meets your gaze, excitement shining in her eyes, and it's clear despite her nervousness that she's looking forward to spending the evening with you.</i> I hope I'm not here too soon! If you need extra time to get ready, I can wait. <i>She hesitates for a moment, before speaking again. She smiles shyly.</i> I'm really looking forward to tonight.</p>
 </details>
 
-## Pygmalion Models Tested
+## Models Tested
 - OpenAI/GPT-3.5-Turbo
 - meta-llama/Llama-2-13B (Chat)
 - [Pygmalion-13B](https://huggingface.co/PygmalionAI/pygmalion-13b)
