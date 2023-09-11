@@ -84,3 +84,4 @@ My apologies for the initial caution, traveler. I recently encountered a group o
 - This Kamisato Ayaka card was written to resemble her before most of the events of Genshin Impact takes place. Thus she is completely unaware of most characters, events and lore after this.
    > However if you use Kamisato Ayaka's lorebook, she should be aware of Thoma, Ayato, the Shogun, Kujou Sara, Yoimiya, among others.
 - Example chats are taken from Kamisato Ayaka's Data Bank in Genshin Impact with edits to amplify feelings and fit as actual responses to questions.
+- Thanks to TheWandering514 for testing Ayaka!
