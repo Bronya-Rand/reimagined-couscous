@@ -25,6 +25,8 @@ Here contains the list of all optional World Info's you may use when using my bo
 ### Genshin Impact (GI)
 - [Ganyu](./world-info/Mini%20Ganyu-WI.json)
    > This is a **mini** lorebook about Ganyu. See Ganyu's [About the Card]({{site.baseurl}}/ganyu#about-the-card) for more information.
+- [Keqing](./world-info/Keqing-WI.json)
+   > Thanks to TheWandering514 for added info to Keqing's lorebook!
 - [Kamisato Ayaka](./world-info/Ayaka-WI.json)
 
 ### Honkai Impact 3rd (HI3)
