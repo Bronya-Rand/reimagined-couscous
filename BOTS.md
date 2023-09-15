@@ -9,12 +9,13 @@ Listed below are all the bots that I have created thus far for PygmalionAI.
 
 <!-- To be added once more games are listed here -->
 ## Legend
-- [Genshin Impact](#genshin-impact-gi) - 6
-- [Honkai Impact 3rd](#honkai-impact-3rd-hi3) - 2
+- [Genshin Impact (GI)](#genshin-impact-gi) - 7
+- [Honkai Impact 3rd (HI3)](#honkai-impact-3rd-hi3) - 2
 - [Honkai: Star Rail (H:SR)](#honkai-star-rail-hsr) - 19
 
 ### Genshin Impact (GI)
 - [Eula Lawrence]({{site.baseurl}}/eula)
+- [Furina (Fandom Version)]({{site.baseurl}}/furina-fandom)
 - [Ganyu]({{site.baseurl}}/ganyu)
 - [Keqing]({{site.baseurl}}/keqing)
 - [Kamisato Ayaka]({{site.baseurl}}/kamisato-ayaka)
