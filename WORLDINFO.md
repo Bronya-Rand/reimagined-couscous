@@ -7,7 +7,15 @@ permalink: /world-lore-books
 
 Here contains the list of all optional World Info's you may use when using my bots or other collaborative bots along with backups of a specific characters' lorebook.
 
-## World Info
+## Legend
+- [World Info](#world-info)
+- [Character Lorebooks](#character-lorebooks)
+   - [Genshin Impact (GI)](#genshin-impact-gi)
+   - [Honkai Impact 3rd (HI3)](#honkai-impact-3rd-hi3)
+   - [Honkai: Star Rail (H:SR)](#honkai-star-rail-hsr)
+   - [Original Creations (OCs)](#original-creations-ocs)
+
+### World Info
 
 > Do note that most of these world books are incomplete and just serve as a partial World Book for some characters. Later characters will get added which means these files should also be updated as well.
 
@@ -20,9 +28,9 @@ Here contains the list of all optional World Info's you may use when using my bo
 - [Honkai: Star Rail](world-info/HSR.json)
    > Card has the basics of the Honkai: Star Rail World up to Version 1.3 except event areas (Belobog Museum, Aurum Alley).
 
-## Character Lorebooks
+### Character Lorebooks
 
-### Genshin Impact (GI)
+#### Genshin Impact (GI)
 - [Ganyu](./world-info/Mini%20Ganyu-WI.json)
    > This is a **mini** lorebook about Ganyu. See Ganyu's [About the Card]({{site.baseurl}}/ganyu#about-the-card) for more information.
 - [Kamisato Ayaka](./world-info/Ayaka-WI.json)
@@ -30,12 +38,15 @@ Here contains the list of all optional World Info's you may use when using my bo
    > Thanks to TheWandering514 for added info to Keqing's lorebook!
 - [Kuki Shinobu](./world-info/Shinobu-WI.json)
 
-### Honkai Impact 3rd (HI3)
+#### Honkai Impact 3rd (HI3)
 - [Veliona](./world-info/Veliona_Lorebook_HI3.json)
 
-### Honkai: Star Rail (H:SR)
+#### Honkai: Star Rail (H:SR)
 - [Bronya Rand](./world-info/Bronya-WI.json)
 - [Caelus/Stelle](./world-info/Trailblazer-WI.json)
 - [Kafka](./world-info/Kafka-WI.json)
 - [Seele](./world-info/Seele-WI.json)
 - [Yukong](./world-info/Yukong-WI.json)
+
+#### Original Creations (OCs)
+- [Kasuga Asumi](./world-info/Asumi-WI.json)

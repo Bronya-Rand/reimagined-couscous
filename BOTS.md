@@ -12,6 +12,7 @@ Listed below are all the bots that I have created thus far for PygmalionAI.
 - [Genshin Impact (GI)](#genshin-impact-gi) - 8
 - [Honkai Impact 3rd (HI3)](#honkai-impact-3rd-hi3) - 2
 - [Honkai: Star Rail (H:SR)](#honkai-star-rail-hsr) - 19
+- [Original Creations (OCs)](#original-creations-ocs) - 1
 
 ### Genshin Impact (GI)
 - [Eula Lawrence]({{site.baseurl}}/eula)
@@ -47,3 +48,6 @@ Listed below are all the bots that I have created thus far for PygmalionAI.
 - [Sushang]({{site.baseurl}}/sushang)
 - [Tingyun]({{site.baseurl}}/tingyun)
 - [Yukong]({{site.baseurl}}/yukong)
+
+### Original Creations (OCs)
+- [Kasuga Asumi]({{site.baseurl}}/asumi)
