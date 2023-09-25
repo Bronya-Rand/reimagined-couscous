@@ -17,7 +17,7 @@ Here contains the list of all optional World Info's you may use when using my bo
 
 ### World Info
 
-> Do note that most of these world books are incomplete and just serve as a partial World Book for some characters. Later characters will get added which means these files should also be updated as well.
+> Do note that some of these world books are incomplete and just serve as a partial World Book for some characters. Later characters will get added which means these files should also be updated as well.
 
 - [Genshin Impact](world-info/GI-Core.json)
    > Card has the basics of Genshin Impact from elements to locations of Liyue, archons, kingdom areas and some parts of Inazuma (Narukami Island). Does not cover all Mondstadt, Sumeru or Fontaine yet nor other general Genshin lore topics.
@@ -26,9 +26,11 @@ Here contains the list of all optional World Info's you may use when using my bo
    > Card has just the basics of Honkai Impact 3rd itself for use with Bronya Zaychik and Veliona. Worked in collaboration with *TheWandering514*.
 
 - [Honkai: Star Rail](world-info/HSR.json)
-   > Card has the basics of the Honkai: Star Rail World up to Version 1.3 except some event areas (Belobog Museum).
+   > Card has the basics of the Honkai: Star Rail World up to Version 1.3 of the game.
 
 ### Character Lorebooks
+
+> As Hoyo updates their games, some of these lorebooks might be missing some details within them. Do let me know if some of them need a addition (cept mini-lorebooks).
 
 #### Genshin Impact (GI)
 - [Ganyu](./world-info/Mini%20Ganyu-WI.json)
@@ -46,7 +48,7 @@ Here contains the list of all optional World Info's you may use when using my bo
 - [Caelus/Stelle](./world-info/Trailblazer-WI.json)
 - [Kafka](./world-info/Kafka-WI.json)
 - [March 7th](./world-info/March-WI.json)
-   > Not to be used with [March 7th (Before the Express)]({{site.baseurl}}/march-7th-bte)
+   > Not to be used with [March 7th (Before the Express)]({{site.baseurl}}/march-7th-bte). (Not the same March)
 - [Seele](./world-info/Seele-WI.json)
 - [Yukong](./world-info/Yukong-WI.json)
 
