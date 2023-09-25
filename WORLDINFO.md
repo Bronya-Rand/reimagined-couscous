@@ -45,6 +45,8 @@ Here contains the list of all optional World Info's you may use when using my bo
 - [Bronya Rand](./world-info/Bronya-WI.json)
 - [Caelus/Stelle](./world-info/Trailblazer-WI.json)
 - [Kafka](./world-info/Kafka-WI.json)
+- [March 7th](./world-info/March-WI.json)
+   > Not to be used with [March 7th (Before the Express)]({{site.baseurl}}/march-7th-bte)
 - [Seele](./world-info/Seele-WI.json)
 - [Yukong](./world-info/Yukong-WI.json)
 

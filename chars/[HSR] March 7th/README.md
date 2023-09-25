@@ -6,34 +6,25 @@ permalink: /march-7th
 # March 7th [Honkai: Star Rail (H:SR)]
 
 <p align="center">
-    Current Card Ver: <b>1.1</b>
+    Current Card Ver: <b>2.0</b>
 </p>
 
-**Before Continuing**: This card uses the no dinkus starter as this is depreciated. Make sure to remove your token starter in **Advanced Formatting** > **Custom Chat Separator**.
+**Before Continuing:** This card uses no starter as this is depreciated. Make sure to remove your chat starter in **Advanced Formatting**.
 
-<!-- <p align="center">
-    <img src="{{site.baseurl}}/assets/images/chars/March 7th.png" alt="March 7th" width=250px>
-</p> -->
+> This card comes with a built-in lorebook. Import it in SillyTavern using [this](<https://rentry.co/kingbri-chara-guide#world-infolorebooks>) guide for best results. There is also an (optional) World Info about Honkai: Star Rail that you can download from [here]({{site.baseurl}}/world-lore-books).
 
 <details align="center">
   <summary><b>Downloads</b></summary>
-  <details align="center">
-    <summary><b>Bronya:RP</b> (Bot with Heavy Character Lore Examples)</summary>
-    <h3>Via Github</h3>
-    <p>Scenario: <a href="chars/[HSR] March 7th/March 7th.card.png"><b>Card</b></a>, <a href="chars/[HSR] March 7th/March 7th.json"><b>JSON</b></a> | No Scenario: <a href="chars/[HSR] March 7th/March 7th.card (no scenario).png"><b>Card</b></a>, <a href="chars/[HSR] March 7th/March 7th (no scenario).json"><b>JSON</b></a></p>
-    <h3>Via Catbox</h3>
-    <p>Scenario: <a href="https://files.catbox.moe/j2r36c.png"><b>Card</b></a>, <a href="https://files.catbox.moe/nq51fm.json"><b>JSON</b></a> | No Scenario: <a href="https://files.catbox.moe/ea0hgg.png"><b>Card</b></a>, <a href="https://files.catbox.moe/atxqsb.json"><b>JSON</b></a></p>
-  </details>
-  <details align="center">
-    <summary><b>Bronya:Chat</b> (Bot without Heavy Character Lore Examples)</summary>
-    <h3>Via Github</h3>
-    <a href="chars/[HSR] March 7th/March 7th.card (chat).png"><b>Card</b></a>, <a href="chars/[HSR] March 7th/March 7th (chat).json"><b>JSON</b></a>
-    <h3>Via Catbox</h3>
-    <a href="https://files.catbox.moe/56nr6b.png"><b>Card</b></a>, <a href="https://files.catbox.moe/w0rvka.json"><b>JSON</b></a>
-  </details>
-  <a href="https://pixiv.net/artworks/109828475"><b>Sauce IMG used for Bronya:RP cards</b></a>
-  <a href="https://pixiv.net/artworks/106083292"><b>Sauce IMG used for Bronya:Chat</b></a>
+  <p><b>Bronya:RP</b> (Bot with Scenario):
+    <a href="chars/[HSR] March 7th/March 7th.png"><b>Card</b></a>, <a href="chars/[HSR] March 7th/March 7th.json"><b>JSON</b></a> | 
+  <b>Bronya:Chat</b> (Bot without Scenario):
+    <a href="chars/[HSR] March 7th/March 7th (no scenario).png"><b>Card</b></a>, <a href="chars/[HSR] March 7th/March 7th (no scenario).json"><b>JSON</b></a>
+  </p>
+  
+  <a href="https://pixiv.net/artworks/109828475"><b>Sauce IMG used for Bronya:RP cards</b></a> | 
+  <a href="https://youyou72364.lofter.com/post/748cab90_2b8ee1922"><b>Sauce IMG used for Bronya:Chat</b></a>
 </details>
+  
 
 Welcome back March 7th, this time a proper March 7th release made by yours truly.
 
@@ -65,4 +56,5 @@ Ugh... not again...! *She tries to dust off some debris.* I swear. I try it ever
 
 ## About the Card
 - This March card is written to be March before most events of H:SR Thus she is unaware of most plots, characters and events.
+   > However if you use March' Lorebook she should be aware of Dan Heng, Himeko and Welt. Dan Heng as Imbibitor Lunae exists but is disabled by default. Enable it in the World Info if you want this awareness.
 - Example chats are modified chats from March 7th's Data Bank in H:SR with the typical modifications I do.
