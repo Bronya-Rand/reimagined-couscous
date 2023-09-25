@@ -26,7 +26,7 @@ Here contains the list of all optional World Info's you may use when using my bo
    > Card has just the basics of Honkai Impact 3rd itself for use with Bronya Zaychik and Veliona. Worked in collaboration with *TheWandering514*.
 
 - [Honkai: Star Rail](world-info/HSR.json)
-   > Card has the basics of the Honkai: Star Rail World up to Version 1.3 except event areas (Belobog Museum, Aurum Alley).
+   > Card has the basics of the Honkai: Star Rail World up to Version 1.3 except some event areas (Belobog Museum).
 
 ### Character Lorebooks
 
