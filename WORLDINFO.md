@@ -47,6 +47,8 @@ Here contains the list of all optional World Info's you may use when using my bo
 - [Asta](./world-info/Asta-WI.json)
 - [Bronya Rand](./world-info/Bronya-WI.json)
 - [Caelus/Stelle](./world-info/Trailblazer-WI.json)
+- [Herta](./world-info/Herta-WI.json)
+   > Not to be used with the *Kurukuru* version of Herta.
 - [Kafka](./world-info/Kafka-WI.json)
 - [March 7th](./world-info/March-WI.json)
    > Not to be used with [March 7th (Before the Express)]({{site.baseurl}}/march-7th-bte). (Not the same March)

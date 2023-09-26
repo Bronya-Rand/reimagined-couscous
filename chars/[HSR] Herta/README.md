@@ -6,39 +6,29 @@ permalink: /herta
 # Herta [Honkai: Star Rail (H:SR)]
 
 <p align="center">
-    Current Card Ver: <b>2.1</b>
+    Current Card Ver: <b>2.2</b> |
+    <i>Kurukuru</i> Card Ver: <b>2.1</b>
 </p>
 
-**Before Continuing**: This card uses the no dinkus starter as this is depreciated. Make sure to remove your token starter in **Advanced Formatting** >  **Custom Chat Separator**.
+**Before Continuing:** This card uses no starter as this is depreciated. Make sure to remove your chat starter in **Advanced Formatting**.
 
 <!-- <p align="center">
     <img src="{{site.baseurl}}/assets/images/chars/herta.png" alt="Herta" width=250px>
 </p> -->
 
+> This card comes with a built-in lorebook (except for the *Kurukuru* version of Herta). Import it in SillyTavern using [this](<https://rentry.co/kingbri-chara-guide#world-infolorebooks>) guide for best results. There is also an (optional) World Info about Honkai: Star Rail that you can download from [here]({{site.baseurl}}/world-lore-books).
+
 <details align="center">
   <summary><b>Downloads</b></summary>
-  <details align="center">
-    <summary><b>Bronya:RP</b> (Bot with Heavy Character Lore Examples)</summary>
-    <h3>Via Github</h3>
-    <p>Scenario: <a href="chars/[HSR] Herta/Herta.card.png"><b>Card</b></a>, <a href="chars/[HSR] Herta/Herta.json"><b>JSON</b></a> | No Scenario: <a href="chars/[HSR] Herta/Herta.card (no scenario).png"><b>Card</b></a>, <a href="chars/[HSR] Herta/Herta (no scenario).json"><b>JSON</b></a></p>
-    <h3>Via Catbox</h3>
-    <p>Scenario: <a href="https://files.catbox.moe/b8lx03.png"><b>Card</b></a>, <a href="https://files.catbox.moe/w3gpgy.json"><b>JSON</b></a> | No Scenario: <a href="https://files.catbox.moe/zei0y9.png"><b>Card</b></a>, <a href="https://files.catbox.moe/f21qlf.json"><b>JSON</b></a></p>
-  </details>
-  <details align="center">
-    <summary><b>Bronya:Chat</b> (Bot without Heavy Character Lore Examples)</summary>
-    <h3>Via Github</h3>
-    <a href="chars/[HSR] Herta/Herta.card (chat).png"><b>Card</b></a>, <a href="chars/[HSR] Herta/Herta (chat).json"><b>JSON</b></a>
-    <h3>Via Catbox</h3>
-    <a href="https://files.catbox.moe/929rev.png"><b>Card</b></a>, <a href="https://files.catbox.moe/m6glat.json"><b>JSON</b></a>
-  <a href="https://twitter.com/yu_mara_/status/1660689115397103617"><b>Sauce IMG used for card</b></a>
-  </details>
-  <details align="center">
-    <summary><b>*Kurukuru!*</b> *Kururing!*</summary>
-    <h3>Via Github</h3>
-    <a href="chars/[HSR] Herta/Herta but it's just Kurukuru Kururing.png"><b>Card</b></a>, <a href="chars/[HSR] Herta/Herta but it's just Kurukuru Kururing.json"><b>JSON</b></a>
-    <h3>Via Catbox</h3>
-    <a href="https://files.catbox.moe/f349q5.png"><b>Card</b></a>, <a href="https://files.catbox.moe/ctgrvn.json"><b>JSON</b></a>
-  <a href="https://twitter.com/yu_mara_/status/1660689115397103617"><b>Sauce IMG used for card</b></a>
+  <p><b>Bronya:RP</b> (Bot w/ Scenario):
+    <a href="chars/[HSR] Herta/Herta.png"><b>Card</b></a>, <a href="chars/[HSR] Herta/Herta.json"><b>JSON</b></a> | 
+  <b>Bronya:Chat</b> (Bot w/o Scenario):
+    <a href="chars/[HSR] Herta/Herta (no scenario).png"><b>Card</b></a>, <a href="chars/[HSR] Herta/Herta (no scenario).json"><b>JSON</b></a> | 
+  <b><i>Kurukuru</i></b> (<i>Kururing!</i>):
+    <a href="chars/[HSR] Herta/Herta (no scenario).png"><b>Card</b></a>, <a href="chars/[HSR] Herta/Herta (no scenario).json"><b>JSON</b></a>
+  </p>
+
+  <a href="https://www.pixiv.net/artworks/108100900"><b>Sauce IMG used for normal Herta versions</b></a> | <a href="https://twitter.com/yu_mara_/status/1660689115397103617"><b>Sauce IMG used for *Kurukuru* version</b></a>
   </details>
 </details>
 
@@ -68,4 +58,5 @@ All bots were tested using the `Classic-Pygmalion-6B` preset in SillyTavern.
 ## About the Card
 > Honkai: Star Rail spoilers ahead. You have been warned.
 - This Herta card was written to resemble Herta before most of the events of Honkai: Star Rail takes place. Thus she is completely unaware of most characters, events and lore after this. Do with this information as you will.
+   > However, if you use Herta's lorebook, she should be aware of Arlan, Asta and Himeko. She can also *Kurukuru* (hopefully).
 - Example chats are taken from Herta's Data Bank in Honkai: Star Rail with edits to amplify feelings and fit as actual responses to questions.
