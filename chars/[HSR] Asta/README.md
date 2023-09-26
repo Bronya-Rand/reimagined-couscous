@@ -6,7 +6,7 @@ permalink: /asta
 # Asta [Honkai: Star Rail (H:SR)]
 
 <p align="center">
-    Current Card Ver: <b>2.1</b>
+    Current Card Ver: <b>2.2</b>
 </p>
 
 **Before Continuing**: This card uses the no dinkus starter as this is depreciated. Make sure to remove your token starter in **Advanced Formatting** >  **Custom Chat Separator**.
@@ -15,23 +15,17 @@ permalink: /asta
     <img src="{{site.baseurl}}/assets/images/chars/asta.png" alt="Asta" width=250px>
 </p> -->
 
+> This card comes with a built-in lorebook. Import it in SillyTavern using [this](<https://rentry.co/kingbri-chara-guide#world-infolorebooks>) guide for best results. There is also an (optional) World Info about Honkai: Star Rail that you can download from [here]({{site.baseurl}}/world-lore-books).
+
 <details align="center">
   <summary><b>Downloads</b></summary>
-  <details align="center">
-    <summary><b>Bronya:RP</b> (Bot with Heavy Character Lore Examples)</summary>
-    <h3>Via Github</h3>
-    <p>Scenario: <a href="chars/[HSR] Asta/Asta.card.png"><b>Card</b></a>, <a href="chars/[HSR] Asta/Asta.json"><b>JSON</b></a> | No Scenario: <a href="chars/[HSR] Asta/Asta.card (no scenario).png"><b>Card</b></a>, <a href="chars/[HSR] Asta/Asta (no scenario).json"><b>JSON</b></a></p>
-    <h3>Via Catbox</h3>
-    <p>Scenario: <a href="https://files.catbox.moe/f3l7f7.png"><b>Card</b></a>, <a href="https://files.catbox.moe/7tawxn.json"><b>JSON</b></a> | No Scenario: <a href="https://files.catbox.moe/vosqp5.png"><b>Card</b></a>, <a href="https://files.catbox.moe/coli1h.json"><b>JSON</b></a></p>
-  </details>
-  <details align="center">
-    <summary><b>Bronya:Chat</b> (Bot without Heavy Character Lore Examples)</summary>
-    <h3>Via Github</h3>
-    <a href="chars/[HSR] Asta/Asta.card (chat).png"><b>Card</b></a>, <a href="chars/[HSR] Asta/Asta (chat).json"><b>JSON</b></a>
-    <h3>Via Catbox</h3>
-    <a href="https://files.catbox.moe/c6rkvo.png"><b>Card</b></a>, <a href="https://files.catbox.moe/9z7pkx.json"><b>JSON</b></a>
-  </details>
-  <a href="https://twitter.com/tanuki19245465/status/1665408053405970435"><b>Sauce IMG used for card</b></a>
+  <p><b>Bronya:RP</b> (Bot with Scenario):
+    <a href="chars/[HSR] Asta/Asta.png"><b>Card</b></a>, <a href="chars/[HSR] Asta/Asta.json"><b>JSON</b></a> | 
+  <b>Bronya:Chat</b> (Bot without Scenario):
+    <a href="chars/[HSR] Asta/Asta (no scenario).png"><b>Card</b></a>, <a href="chars/[HSR] Asta/Asta (no scenario).json"><b>JSON</b></a>
+  </p>
+  
+  Sauce: HoYoverse
 </details>
 
 Meet Asta, the lead researcher on Herta Space Station.
@@ -56,5 +50,6 @@ All bots were tested using the `Classic-Pygmalion-6B` preset in SillyTavern.
 
 ## About the Card
 > Honkai: Star Rail spoilers ahead. You have been warned.
-- This Asta card was written to resemble Asta before most of the events of Honkai: Star Rail takes place (specifically stuff prior to the attacks on the Space Station). Thus she is completely unaware of most characters, events and lore after this. Do with this information as you will.
+- This Asta card was written to resemble Asta before most of the events of Honkai: Star Rail takes place. Thus she is completely unaware of most characters, events and lore after this. Do with this information as you will.
+   > However if you use Asta's lorebook, she should be aware of Herta and Arlan.
 - Example chats are taken from Asta Data Bank in Honkai: Star Rail with edits to amplify feelings and fit as actual responses to questions.
