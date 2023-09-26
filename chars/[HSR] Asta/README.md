@@ -9,7 +9,7 @@ permalink: /asta
     Current Card Ver: <b>2.2</b>
 </p>
 
-**Before Continuing**: This card uses the no dinkus starter as this is depreciated. Make sure to remove your token starter in **Advanced Formatting** >  **Custom Chat Separator**.
+**Before Continuing:** This card uses no starter as this is depreciated. Make sure to remove your chat starter in **Advanced Formatting**.
 
 <!-- <p align="center">
     <img src="{{site.baseurl}}/assets/images/chars/asta.png" alt="Asta" width=250px>
@@ -19,13 +19,13 @@ permalink: /asta
 
 <details align="center">
   <summary><b>Downloads</b></summary>
-  <p><b>Bronya:RP</b> (Bot with Scenario):
+  <p><b>Bronya:RP</b> (Bot w/ Scenario):
     <a href="chars/[HSR] Asta/Asta.png"><b>Card</b></a>, <a href="chars/[HSR] Asta/Asta.json"><b>JSON</b></a> | 
-  <b>Bronya:Chat</b> (Bot without Scenario):
+  <b>Bronya:Chat</b> (Bot w/o Scenario):
     <a href="chars/[HSR] Asta/Asta (no scenario).png"><b>Card</b></a>, <a href="chars/[HSR] Asta/Asta (no scenario).json"><b>JSON</b></a>
   </p>
   
-  Sauce: HoYoverse
+  <a href="https://twitter.com/tanuki19245465/status/1665408053405970435"><b>Sauce IMG used for card</b></a>
 </details>
 
 Meet Asta, the lead researcher on Herta Space Station.
