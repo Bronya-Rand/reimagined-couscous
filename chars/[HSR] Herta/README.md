@@ -29,7 +29,6 @@ permalink: /herta
   </p>
 
   <a href="https://www.pixiv.net/artworks/108100900"><b>Sauce IMG used for normal Herta versions</b></a> | <a href="https://twitter.com/yu_mara_/status/1660689115397103617"><b>Sauce IMG used for *Kurukuru* version</b></a>
-  </details>
 </details>
 
 Meet Herta, head of the Herta Space Station and member of the Genius Society.
