@@ -25,7 +25,7 @@ permalink: /herta
   <b>Bronya:Chat</b> (Bot w/o Scenario):
     <a href="chars/[HSR] Herta/Herta (no scenario).png"><b>Card</b></a>, <a href="chars/[HSR] Herta/Herta (no scenario).json"><b>JSON</b></a> | 
   <b><i>Kurukuru</i></b> (<i>Kururing!</i>):
-    <a href="chars/[HSR] Herta/Herta (no scenario).png"><b>Card</b></a>, <a href="chars/[HSR] Herta/Herta (no scenario).json"><b>JSON</b></a>
+    <a href="chars/[HSR] Herta/Herta but it's just Kurukuru Kururing.png"><b>Card</b></a>, <a href="chars/[HSR] Herta/Herta but it's just Kurukuru Kururing.json"><b>JSON</b></a>
   </p>
 
   <a href="https://www.pixiv.net/artworks/108100900"><b>Sauce IMG used for normal Herta versions</b></a> | <a href="https://twitter.com/yu_mara_/status/1660689115397103617"><b>Sauce IMG used for *Kurukuru* version</b></a>
