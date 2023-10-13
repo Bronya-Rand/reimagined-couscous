@@ -20,13 +20,13 @@ Here contains the list of all optional World Info's you may use when using my bo
 > Do note that some of these world books are incomplete and just serve as a partial World Book for some characters. Later characters will get added which means these files should also be updated as well.
 
 - [Genshin Impact](world-info/GI-Core.json)
-   > Card has the basics of Genshin Impact from elements to locations of Liyue, archons, kingdom areas and some parts of Inazuma (Narukami Island). Does not cover all Mondstadt, Sumeru or Fontaine yet nor other general Genshin lore topics.
+   > This world info has the basics of Genshin Impact from elements to locations of Liyue, archons, kingdom areas and some parts of Inazuma (Narukami Island). Does not cover all Mondstadt, Sumeru or Fontaine yet nor other general Genshin lore topics.
 
 - [Honkai Impact 3rd](world-info/HI3-Core.json)
-   > Card has just the basics of Honkai Impact 3rd itself for use with Bronya Zaychik and Veliona. Worked in collaboration with *TheWandering514*.
+   > This world info has just the basics of Honkai Impact 3rd itself for use with Bronya Zaychik and Veliona. Worked in collaboration with *TheWandering514*.
 
 - [Honkai: Star Rail](world-info/HSR.json)
-   > Card has the basics of the Honkai: Star Rail World up to Version 1.3 of the game.
+   > This world info should have most of all the information surrounding the Honkai: Star Rail World up to Version 1.4 of the game. 
 
 ### Character Lorebooks
 
