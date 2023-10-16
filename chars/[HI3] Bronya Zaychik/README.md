@@ -4,7 +4,7 @@ title: "Bronya Zaychik (Honkai Impact 3rd)"
 permalink: /bronya-zaychik
 ---
 # Bronya Zaychik [Honkai Impact 3rd (HI3)]
-> Not to be confused with Bronya Zaychik from Honkai: Star Rail (H:SR).
+> Not to be confused with [Bronya Rand]({{site.baseurl}}/bronya-zaychik) from Honkai: Star Rail (H:SR).
 
 **Before Continuing**: This card uses the no dinkus starter as this is depreciated. Make sure to remove your token starter in **Advanced Formatting** >  **Custom Chat Separator**.
 
