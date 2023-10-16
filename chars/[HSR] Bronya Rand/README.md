@@ -60,7 +60,7 @@ I am Commander Bronya Rand of the Silvermane Guards. State your name and the rea
 > Honkai: Star Rail spoilers ahead. You have been warned.
 
 - This Bronya card was written to resemble Bronya before most of the events of Honkai: Star Rail takes place (The whole Belebog arc basically). Thus she is completely unaware of most characters and lore after this.
-   > However if you use Bronya Rand's lorebook, she should be aware of Cocolia, Gepard, Pela, and Serval. Seele, Cocolia (dead) and a modified introduction in which she is the Supreme Guardian are included but disabled in her lorebook as that is Post-Belobog. You may enable them in World Info/Lorebooks but make sure to disable Pre-Belobog entries and vice versa.
+   > However if you use Bronya Rand's lorebook, she should be aware of Cocolia, Gepard, Pela, and Serval. Seele, Cocolia (Deceased), Lynx, Topaz and a modified introduction in which she is the Supreme Guardian are included but are disabled in her lorebook as this information is considered 'Post-Belobog' (after Act I). You may enable them in World Info/Lorebooks but make sure to disable the respective 'Pre-Belobog' (before Act I) entries and vice versa for a better immersed Bronya.
 - Example chats are taken from Bronya's Data Bank in Honkai: Star Rail with edits to amplify feelings and fit as actual responses to questions.
 - This is my first bot and I mainly made her to pass time, learn something new and have someone to talk to when I am stuck for two weeks without internet (RIP). Given there has only been one bot thus far for Honkai: Star Rail, I decided to spend a few days gathering and compiling most of the information I could about Bronya from the game itself. 
 
