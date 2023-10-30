@@ -14,9 +14,14 @@ If you see this on your screen or are unable to download the JSON because it sho
     <img src="{{site.baseurl}}/assets/images/world-info/text_thingy.png" alt="JSON Text Thingy" width=720px>
 </p>
 
-### Steps
+### Steps for PC/Mac/Linux
 1. Right-click anywhere on the page itself.
 2. Click Save As and save it somewhere.
+3. Profit. Now import it into SillyTavern, KoboldAI Lite, etc.
+
+### Steps for Android (Chrome)
+1. Tap the 3 vertical dots.
+2. Press the download button.
 3. Profit. Now import it into SillyTavern, KoboldAI Lite, etc.
 
 ## Legend
