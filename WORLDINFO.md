@@ -43,11 +43,11 @@ If you see this on your screen or are unable to download the JSON because it sho
    > This world info has just the basics of Honkai Impact 3rd itself for use with Bronya Zaychik and Veliona. Worked in collaboration with *TheWandering514*.
 
 - [Honkai: Star Rail](world-info/HSR.json)
-   > This world info should have most of all the information surrounding the Honkai: Star Rail World up to Version 1.4 of the game. 
+   > This world info should have most of all the information surrounding the Honkai: Star Rail World up to Version 1.4 of the game like Belobog, the Xianzhou Luofu, Herta Space Station, races (Foxian, Vidyadhara, Short-Life, Heliobus), terms (Supreme Guardian, Master Diviner) and Pre/Post plotlines (Pre/Post-Belobog & Pre/Post-Luofu), Aeons, Paths, and more. Does not cover all H:SR enemies (except Phantylia the Undying and Dan Shu).
 
 ### Character Lorebooks
 
-> As Hoyo updates their games, some of these lorebooks might be missing some details within them. Do let me know if some of them need a addition (cept mini-lorebooks).
+> As Hoyo updates their games, some of these lorebooks might be missing some details within them (About X character info). Do let me know if some of them need a addition (cept mini-lorebooks).
 
 #### Genshin Impact (GI)
 - [Ganyu](./world-info/Mini%20Ganyu-WI.json)
