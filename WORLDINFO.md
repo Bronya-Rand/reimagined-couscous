@@ -7,6 +7,18 @@ permalink: /world-lore-books
 
 Here contains the list of all optional World Info's you may use when using my bots or other collaborative bots along with backups of a specific characters' lorebook.
 
+## Regarding Browsers that shows World Info/Lorebooks as text.
+If you see this on your screen or are unable to download the JSON because it shows something different, don't fret. Here's a easy way to download these files.
+
+<p align="center">
+    <img src="{{site.baseurl}}/assets/images/world-info/text_thingy.png" alt="JSON Text Thingy" width=720px>
+</p>
+
+### Steps
+1. Right-click anywhere on the page itself.
+2. Click Save As and save it somewhere.
+3. Profit. Now import it into SillyTavern, KoboldAI Lite, etc.
+
 ## Legend
 - [World Info](#world-info)
 - [Character Lorebooks](#character-lorebooks)
