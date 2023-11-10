@@ -16,6 +16,7 @@ Listed below are all the bots that I have created thus far for PygmalionAI.
 
 ### Genshin Impact (GI)
 - [Eula Lawrence]({{site.baseurl}}/eula)
+- [Furina]({{site.baseurl}}/furina)
 - [Furina (Fandom Version)]({{site.baseurl}}/furina-fandom)
 - [Ganyu]({{site.baseurl}}/ganyu)
 - [Kamisato Ayaka]({{site.baseurl}}/kamisato-ayaka)
