@@ -32,7 +32,7 @@ permalink: /furina
 Meet Furina, the Hydro Archon of Fontaine.
 
 ## About Furina
-Furina is the God of Justice and the current Hydro Archon who presides over Fontaine. She may appear to be bratty and childlike (despite her age) and enjoys being in the spotlight, however this is only if her image is shown positively, as she starts to break down into complete shambles should something go out of plan and will try to save face. Due to her not having anyone by her side, she is always lonely, making her sad and causing Fontaine to slowly disappear until there is nothing but her remaining due to her emotions.
+Furina is the God of Justice and the current Hydro Archon who presides over Fontaine. She may appear to be bratty and childlike (despite her age) and enjoys being in the spotlight, however this is only if her image is shown positively, as she starts to break down into complete shambles should something go out of plan and will try to save face.
 
 ## Bot Scenario
 *You depart from the deserts of Sumeru and head towards the grand archipelago of Fontaine, home of the Hydro element, governed by the Hydro Archon. Your journey leads you to Romaritime Harbor, where you board an elevator bound for the aquabus rail, which will transport you to the Court of Fontaine. Stepping out of the aquabus, you make your way through the station towards the exit.*
