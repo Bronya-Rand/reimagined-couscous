@@ -15,5 +15,8 @@ Here contains a few extra content for some of my bots or other collaborative bot
 - [RVC Pack (1200 epochs)](https://media.githubusercontent.com/media/GanstaKingofSA/reimagined-couscous/main/extras/Bronya%20Rand-RVC.zip)
 - [Sprites](https://media.githubusercontent.com/media/GanstaKingofSA/reimagined-couscous/main/extras/Bronya%20Rand-Sprites.zip)
 
+## Furina
+- [Sprites](https://media.githubusercontent.com/media/GanstaKingofSA/reimagined-couscous/main/extras/Furina-Sprites.zip)
+
 ## Veliona
 - [Sprites](https://media.githubusercontent.com/media/GanstaKingofSA/reimagined-couscous/main/extras/Veliona-Sprites.zip)

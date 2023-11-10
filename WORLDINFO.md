@@ -37,7 +37,7 @@ If you see this on your screen or are unable to download the JSON because it sho
 > Do note that some of these world books are incomplete and just serve as a partial World Book for some characters. Later characters will get added which means these files should also be updated as well.
 
 - [Genshin Impact](world-info/GI-Core.json)
-   > This world info has the basics of Genshin Impact from elements to locations of Liyue, archons, kingdom areas and some parts of Inazuma (Narukami Island). Does not cover all Mondstadt, Sumeru or Fontaine yet nor other general Genshin lore topics.
+   > This world info has the basics of Genshin Impact from elements to locations of Liyue, Fontaine, archons, kingdom areas and some parts of Inazuma (Narukami Island). Does not cover all Mondstadt or Sumeru yet nor other general Genshin lore topics.
 
 - [Honkai Impact 3rd](world-info/HI3-Core.json)
    > This world info has just the basics of Honkai Impact 3rd itself for use with Bronya Zaychik and Veliona. Worked in collaboration with *TheWandering514*.
@@ -50,6 +50,8 @@ If you see this on your screen or are unable to download the JSON because it sho
 > As Hoyo updates their games, some of these lorebooks might be missing some details within them (About X character info). Do let me know if some of them need a addition (cept mini-lorebooks).
 
 #### Genshin Impact (GI)
+- [Furina](./world-info/Furina-WI.json)
+   > Not to be used with [Furina (Focalors) [Fandom Version]]({{site.baseurl}}/furina-fandom). (Different take on Furina)
 - [Ganyu](./world-info/Mini%20Ganyu-WI.json)
    > This is a **mini** lorebook about Ganyu. See Ganyu's [About the Card]({{site.baseurl}}/ganyu#about-the-card) for more information.
 - [Kamisato Ayaka](./world-info/Ayaka-WI.json)
