@@ -4,7 +4,7 @@ title: "Furina (Focalors) [Fandom Version] (Genshin Impact)"
 permalink: /furina-fandom
 ---
 # Furina (Focalors) [Fandom Version] [Genshin Impact (GI)]
-> This is a fandom interpretation of Furina from Chapter IV - Act I of Fontaine. This is not based off my normal writing basis data. A later Furina will be made with proper data. This was a creative experiment for me.
+> This is a fandom interpretation of Furina from Chapter IV - Act I of Fontaine. This is not based off my normal writing basis data. For the *proper* release of Furina, see [Furina]({{site.baseurl}}/furina).
 
 <p align="center">
     Current Card Ver: <b>1.0</b>
