@@ -37,13 +37,13 @@ If you see this on your screen or are unable to download the JSON because it sho
 > Do note that some of these world books are incomplete and just serve as a partial World Book for some characters. Later characters will get added which means these files should also be updated as well.
 
 - [Genshin Impact](world-info/GI-Core.json)
-   > This world info has the basics of Genshin Impact from elements to locations of Liyue, Fontaine, archons, kingdom areas and some parts of Inazuma (Narukami Island). Does not cover all Mondstadt or Sumeru yet nor other general Genshin lore topics.
+   > This world info has the basics of Genshin Impact from elements to locations of Liyue, Fontaine, archons, kingdom areas and some parts of Inazuma (Narukami Island). Does not cover all Mondstadt or Sumeru yet nor other general Genshin lore topics. Has a built-in mode for Furina if you want the Pre-Masquerade of the Guilty of her in your Genshin World or when you interact with her.
 
 - [Honkai Impact 3rd](world-info/HI3-Core.json)
    > This world info has just the basics of Honkai Impact 3rd itself for use with Bronya Zaychik and Veliona. Worked in collaboration with *TheWandering514*.
 
 - [Honkai: Star Rail](world-info/HSR.json)
-   > This world info should have most of all the information surrounding the Honkai: Star Rail World up to Version 1.4 of the game like Belobog, the Xianzhou Luofu, Herta Space Station, races (Foxian, Vidyadhara, Short-Life, Heliobus), terms (Supreme Guardian, Master Diviner) and Pre/Post plotlines (Pre/Post-Belobog & Pre/Post-Luofu), Aeons, Paths, and more. Does not cover all H:SR enemies (except Phantylia the Undying and Dan Shu).
+   > This world info should have most of all the information surrounding the Honkai: Star Rail World up to Version 1.5 of the game like Belobog, the Xianzhou Luofu, Herta Space Station, races (Foxian, Vidyadhara, Short-Life, Heliobus), terms (Supreme Guardian, Master Diviner) and Pre/Post plotlines (Pre/Post-Belobog & Pre/Post-Luofu), Aeons, Paths, and more. Does not cover all H:SR enemies (except Phantylia the Undying and Dan Shu).
 
 ### Character Lorebooks
 
