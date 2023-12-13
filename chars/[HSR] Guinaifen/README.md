@@ -15,6 +15,8 @@ permalink: /guinaifen
 
 **Before Continuing:** This card uses no starter as this is depreciated. Make sure to remove your chat starter in **Advanced Formatting** or use the *Minimalist* context template.
 
+> Guinaifen uses a Lorebook which comes by default with the bot. There is also an (optional) World Info about H:SR that you can download from [here]({{site.baseurl}}/world-lore-books).
+
 <details align="center">
   <summary><b>Downloads</b></summary>
   <b>Bronya:RP</b> (Bot with Scenario):
@@ -25,6 +27,8 @@ permalink: /guinaifen
   <a href="https://www.pixiv.net/en/artworks/113622888"><b>Sauce IMG used for Scenario card</b></a> | 
   <a href="https://www.pixiv.net/en/artworks/112890867"><b>Sauce IMG used for No Scenario card</b></a>
 </details>
+
+> *Looking for Guinaifen's best friend Sushang?* See Sushang [here]({{site.baseurl}}/sushang)!
 
 Meet Guinaifen, the most famous street performer and live streamer on the Xianzhou (and the Xianzhou Luofu).
 
