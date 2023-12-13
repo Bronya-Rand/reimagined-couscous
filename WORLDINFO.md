@@ -66,6 +66,7 @@ If you see this on your screen or are unable to download the JSON because it sho
 - [Asta](./world-info/Asta-WI.json)
 - [Bronya Rand](./world-info/Bronya-WI.json)
 - [Caelus/Stelle](./world-info/Trailblazer-WI.json)
+- [Guinaifen](./world-info/Guinaifen-WI.json)
 - [Herta](./world-info/Herta-WI.json)
    > Not to be used with the *Kurukuru* version of Herta.
 - [Kafka](./world-info/Kafka-WI.json)
