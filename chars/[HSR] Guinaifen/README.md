@@ -22,7 +22,7 @@ permalink: /guinaifen
   <b>Bronya:Chat</b> (Bot without Scenario):
     <a href="chars/[HSR] Guinaifen/Guinaifen (no scenario).png"><b>Card</b></a>, <a href="chars/[HSR] Guinaifen/Guinaifen (no scenario).json"><b>JSON</b></a>
 
-  <a href="https://www.pixiv.net/en/artworks/113622888"><b>Sauce IMG used for Scenario card</b></a>
+  <a href="https://www.pixiv.net/en/artworks/113622888"><b>Sauce IMG used for Scenario card</b></a> | 
   <a href="https://www.pixiv.net/en/artworks/112890867"><b>Sauce IMG used for No Scenario card</b></a>
 </details>
 
