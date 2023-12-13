@@ -15,7 +15,7 @@ permalink: /guinaifen
 
 **Before Continuing:** This card uses no starter as this is depreciated. Make sure to remove your chat starter in **Advanced Formatting** or use the *Minimalist* context template.
 
-> Guinaifen uses a Lorebook which comes by default with the bot. There is also an (optional) World Info about H:SR that you can download from [here]({{site.baseurl}}/world-lore-books).
+> Guinaifen uses a Lorebook which **must be used** with the bot (due to multiple brief introductions based on set choices). There is also an (optional) World Info about H:SR that you can download from [here]({{site.baseurl}}/world-lore-books).
 
 <details align="center">
   <summary><b>Downloads</b></summary>
