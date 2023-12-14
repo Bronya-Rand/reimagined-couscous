@@ -50,30 +50,30 @@ If you see this on your screen or are unable to download the JSON because it sho
 > As Hoyo updates their games, some of these lorebooks might be missing some details within them (About X character info). Do let me know if some of them need a addition (cept mini-lorebooks).
 
 #### Genshin Impact (GI)
-- [Furina](./world-info/Furina-WI.json)
+- [Furina](./world-info/char-wi/gi/Furina-WI.json)
    > Not to be used with [Furina (Focalors) [Fandom Version]]({{site.baseurl}}/furina-fandom). (Different take on Furina)
-- [Ganyu](./world-info/Mini%20Ganyu-WI.json)
+- [Ganyu](./world-info/char-wi/gi/Mini%20Ganyu-WI.json)
    > This is a **mini** lorebook about Ganyu. See Ganyu's [About the Card]({{site.baseurl}}/ganyu#about-the-card) for more information.
-- [Kamisato Ayaka](./world-info/Ayaka-WI.json)
-- [Keqing](./world-info/Keqing-WI.json)
+- [Kamisato Ayaka](./world-info/char-wi/gi/Ayaka-WI.json)
+- [Keqing](./world-info/char-wi/gi/Keqing-WI.json)
    > Thanks to TheWandering514 for added info to Keqing's lorebook!
-- [Kuki Shinobu](./world-info/Shinobu-WI.json)
+- [Kuki Shinobu](./world-info/char-wi/gi/Shinobu-WI.json)
 
 #### Honkai Impact 3rd (HI3)
-- [Veliona](./world-info/Veliona_Lorebook_HI3.json)
+- [Veliona](./world-info/char-wi/hi3/Veliona_Lorebook_HI3.json)
 
 #### Honkai: Star Rail (H:SR)
-- [Asta](./world-info/Asta-WI.json)
-- [Bronya Rand](./world-info/Bronya-WI.json)
-- [Caelus/Stelle](./world-info/Trailblazer-WI.json)
-- [Guinaifen](./world-info/Guinaifen-WI.json)
-- [Herta](./world-info/Herta-WI.json)
+- [Asta](./world-info/char-wi/hsr/Asta-WI.json)
+- [Bronya Rand](./world-info/char-wi/hsr/Bronya-WI.json)
+- [Caelus/Stelle](./world-info/char-wi/hsr/Trailblazer-WI.json)
+- [Guinaifen](./world-info/char-wi/hsr/Guinaifen-WI.json)
+- [Herta](./world-info/char-wi/hsr/Herta-WI.json)
    > Not to be used with the *Kurukuru* version of Herta.
-- [Kafka](./world-info/Kafka-WI.json)
-- [March 7th](./world-info/March-WI.json)
+- [Kafka](./world-info/char-wi/hsr/Kafka-WI.json)
+- [March 7th](./world-info/char-wi/hsr/March-WI.json)
    > Not to be used with [March 7th (Before the Express)]({{site.baseurl}}/march-7th-bte). (Not the same March)
-- [Seele](./world-info/Seele-WI.json)
-- [Yukong](./world-info/Yukong-WI.json)
+- [Seele](./world-info/char-wi/hsr/Seele-WI.json)
+- [Yukong](./world-info/char-wi/hsr/Yukong-WI.json)
 
 #### Original Creations (OCs)
-- [Kasuga Asumi](./world-info/Asumi-WI.json)
+- [Kasuga Asumi](./world-info/char-wi/oc/Asumi-WI.json)
