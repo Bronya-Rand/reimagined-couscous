@@ -11,7 +11,7 @@ Listed below are all the bots that I have created thus far for PygmalionAI.
 ## Legend
 - [Genshin Impact (GI)](#genshin-impact-gi) - 8
 - [Honkai Impact 3rd (HI3)](#honkai-impact-3rd-hi3) - 2
-- [Honkai: Star Rail (H:SR)](#honkai-star-rail-hsr) - 21
+- [Honkai: Star Rail (H:SR)](#honkai-star-rail-hsr) - 22
 - [Original Creations (OCs)](#original-creations-ocs) - 1
 
 ### Genshin Impact (GI)
@@ -50,6 +50,7 @@ Listed below are all the bots that I have created thus far for PygmalionAI.
 - [Stelle]({{site.baseurl}}/stelle)
 - [Sushang]({{site.baseurl}}/sushang)
 - [Tingyun]({{site.baseurl}}/tingyun)
+- [Topaz]({{site.baseurl}}/topaz)
 - [Yukong]({{site.baseurl}}/yukong)
 
 ### Original Creations (OCs)
