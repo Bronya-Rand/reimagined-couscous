@@ -66,6 +66,7 @@ If you see this on your screen or are unable to download the JSON because it sho
 - [Asta](./world-info/char-wi/hsr/Asta-WI.json)
 - [Bronya Rand](./world-info/char-wi/hsr/Bronya-WI.json)
 - [Caelus/Stelle](./world-info/char-wi/hsr/Trailblazer-WI.json)
+- [Fu Xuan](./world-info/char-wi/hsr/Fu%20Xuan-WI.json)
 - [Guinaifen](./world-info/char-wi/hsr/Guinaifen-WI.json)
 - [Herta](./world-info/char-wi/hsr/Herta-WI.json)
    > Not to be used with the *Kurukuru* version of Herta.

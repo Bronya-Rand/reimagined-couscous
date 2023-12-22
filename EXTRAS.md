@@ -15,6 +15,9 @@ Here contains a few extra content for some of my bots or other collaborative bot
 - [RVC Pack (1200 epochs)](https://media.githubusercontent.com/media/Bronya-Rand/reimagined-couscous/main/extras/Bronya%20Rand-RVC.zip)
 - [Sprites](https://media.githubusercontent.com/media/Bronya-Rand/reimagined-couscous/main/extras/Bronya%20Rand-Sprites.zip)
 
+## Fu Xuan
+- [Sprites](https://media.githubusercontent.com/media/Bronya-Rand/reimagined-couscous/main/extras/Fu%20Xuan-Sprites.zip)
+
 ## Furina
 - [Sprites](https://media.githubusercontent.com/media/Bronya-Rand/reimagined-couscous/main/extras/Furina-Sprites.zip)
 
