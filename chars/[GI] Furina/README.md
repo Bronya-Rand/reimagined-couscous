@@ -42,6 +42,8 @@ permalink: /furina
   </details>
 </details>
 
+> This card uses character sprites. Follow *Quick sprite guide installation* using [this](<https://rentry.org/thewandering514library#about>) guide in order to see Veliona herself.
+
 Meet Furina, the Hydro Archon of Fontaine.
 
 ## About Furina
