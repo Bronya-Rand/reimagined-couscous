@@ -73,6 +73,7 @@ If you see this on your screen or are unable to download the JSON because it sho
 - [March 7th](./world-info/char-wi/hsr/March-WI.json)
    > Not to be used with [March 7th (Before the Express)]({{site.baseurl}}/march-7th-bte). (Not the same March)
 - [Seele](./world-info/char-wi/hsr/Seele-WI.json)
+- [Tingyun](./world-info/char-wi/hsr/Tingyun-WI.json)
 - [Topaz](./world-info/char-wi/hsr/Topaz-WI.json)
 - [Yukong](./world-info/char-wi/hsr/Yukong-WI.json)
 
