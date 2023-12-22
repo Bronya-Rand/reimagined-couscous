@@ -13,6 +13,10 @@ permalink: /tingyun
     <img src="{{site.baseurl}}/assets/images/chars/tingyun.png" alt="Tingyun" width=250px>
 </p> -->
 
+**Before Continuing:** This card uses no starter as this is depreciated. Make sure to remove your chat starter in **Advanced Formatting** or use the *Minimalist* context template.
+
+> Tingyun uses a Lorebook which comes by default with the bot. There is also an (optional, **but recommended**) World Info about H:SR that you can download from [here]({{site.baseurl}}/world-lore-books).
+
 <details align="center">
   <summary><b>Downloads</b></summary>
   <b>Bronya:RP</b> (Bot with Scenario):
