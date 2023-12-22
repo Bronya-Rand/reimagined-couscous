@@ -69,6 +69,7 @@ If you see this on your screen or are unable to download the JSON because it sho
 - [Guinaifen](./world-info/char-wi/hsr/Guinaifen-WI.json)
 - [Herta](./world-info/char-wi/hsr/Herta-WI.json)
    > Not to be used with the *Kurukuru* version of Herta.
+- [Huohuo](./world-info/char-wi/hsr/Huohuo-WI.json)
 - [Kafka](./world-info/char-wi/hsr/Kafka-WI.json)
 - [March 7th](./world-info/char-wi/hsr/March-WI.json)
    > Not to be used with [March 7th (Before the Express)]({{site.baseurl}}/march-7th-bte). (Not the same March)
