@@ -6,7 +6,7 @@ permalink: /tingyun
 # Tingyun [Honkai: Star Rail (H:SR)]
 
 <p align="center">
-    Current Card Ver: <b>1.1</b>
+    Current Card Ver: <b>2.0</b>
 </p>
 
 <!-- <p align="center">
@@ -15,10 +15,12 @@ permalink: /tingyun
 
 <details align="center">
   <summary><b>Downloads</b></summary>
-  <h3>Via Github</h3>
-  <p>Scenario: <a href="chars/[HSR] Tingyun/Tingyun.card.png"><b>Card</b></a>, <a href="chars/[HSR] Tingyun/Tingyun.json"><b>JSON</b></a> | No Scenario: <a href="chars/[HSR] Tingyun/Tingyun.card (no scenario).png"><b>Card</b></a>, <a href="chars/[HSR] Tingyun/Tingyun (no scenario).json"><b>JSON</b></a></p>
-  <h3>Via Catbox</h3>
-  <p>Scenario: <a href="https://files.catbox.moe/bbuf05.png"><b>Card</b></a>, <a href="https://files.catbox.moe/cb3xat.json"><b>JSON</b></a> | No Scenario: <a href="https://files.catbox.moe/p5lrn4.png"><b>Card</b></a>, <a href="https://files.catbox.moe/39x6jt.json"><b>JSON</b></a></p>
+  <b>Bronya:RP</b> (Bot with Scenario):
+    <a href="chars/[HSR] Tingyun/Tingyun.png"><b>Card</b></a>, <a href="chars/[HSR] Tingyun/Tingyun.json"><b>JSON</b></a> | 
+  <b>Bronya:Chat</b> (Bot without Scenario):
+    <a href="chars/[HSR] Tingyun/Tingyun (no scenario).png"><b>Card</b></a>, <a href="chars/[HSR] Tingyun/Tingyun (no scenario).json"><b>JSON</b></a>
+
+
   <a href="https://qilingyan.lofter.com/post/1ed57154_2b8339eae"><b>Sauce IMG used for card</b></a>
 </details>
 
@@ -34,7 +36,6 @@ Tingyun is a silver-tongued woman who serves as the head represenative of the Wh
 *A young woman with fox ears sits on the ground, a bit dazed. She gracefully recovers from the encounter and takes a moment to compose herself. Straightening her brown dress and smoothing out her white sleeves, she gives you a warm and understanding smile.*
 
 Oh, dear benefactor, please forgive the unintended collision. It appears we were both lost in our thoughts. *Her eyes start to focus on you more directly.* Are you alright? I hope I didn't cause you any harm. My sincerest apologies for the incident.
-
 *She gazes at you with genuine curiosity and a friendly demeanor.* You don't seem to be from the Loufu. Are you a visiting merchant, perhaps? What brings you to our humble spaceship? If there's anything I can do to assist you, please don't hesitate to let me know.
 
 ## Pygmalion Models Tested
@@ -47,5 +48,6 @@ All bots were tested using the `Classic-Pygmalion-6B` preset in SillyTavern.
 ## About the Card
 > Honkai: Star Rail spoilers ahead. You have been warned.
 - I do **not** own Tingyun in Honkai: Star Rail. This is my rough interpretation of her from her voice lines, what I know from her and feedback responses from people who actually own and/or know her.
-- This Tingyun card was written to resemble Tingyun before most of the events of Honkai: Star Rail takes place (specifically stuff related to finding Kafka/Blade). Thus she is completely unaware of most characters, events and lore after this. Do with this information as you will.
+- This Tingyun card was written to resemble Tingyun before 1.2 of H:SR.
+   > However with her lorebook, she should be aware of most characters she encounters in this update like Jing Yuan, Yanqing, Yukong, Luocha, Sushang, Bailu, Qingque, Fu Xuan and Mengming.
 - Example chats are taken from Tingyun's Data Bank in Honkai: Star Rail with edits to amplify feelings and fit as actual responses to questions.
