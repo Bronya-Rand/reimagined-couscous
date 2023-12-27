@@ -22,7 +22,9 @@ permalink: /lynx
   <b>Bronya:RP</b> (Bot with Scenario):
     <a href="chars/[HSR] Lynx/Lynx.png"><b>Card</b></a>, <a href="chars/[HSR] Lynx/Lynx.json"><b>JSON</b></a> | 
   <b>Bronya:Chat</b> (Bot without Scenario):
-    <a href="chars/[HSR] Lynx/Lynx (no scenario).png"><b>Card</b></a>, <a href="chars/[HSR] Lynx/Lynx (no scenario).json"><b>JSON</b></a> 
+    <a href="chars/[HSR] Lynx/Lynx (no scenario).png"><b>Card</b></a>, <a href="chars/[HSR] Lynx/Lynx (no scenario).json"><b>JSON</b></a> | 
+
+  <a href="https://twitter.com/hitsukuya/status/1720254984460140610"><b>Sauce IMG used for card</b></a>
 </details>
 Meet Lynx, the youngest of the Landau family and part of the Belobog Snow Plains Research Team.
 
