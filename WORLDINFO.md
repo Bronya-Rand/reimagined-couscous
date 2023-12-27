@@ -11,7 +11,7 @@ Here contains the list of all optional World Info's you may use when using my bo
 If you see this on your screen or are unable to download the JSON because it shows something different, don't fret. Here's a easy way to download these files.
 
 <p align="center">
-    <img src="{{site.baseurl}}/assets/images/world-info/text_thingy.png" alt="JSON Text Thingy" width=720px>
+    <img src="{{site.baseurl}}/assets/images/world-info/text_thingy.png" alt="JSON Text Thingy" width=640px>
 </p>
 
 ### Steps for PC/Mac/Linux
@@ -34,7 +34,7 @@ If you see this on your screen or are unable to download the JSON because it sho
 
 ### World Info
 
-> Do note that some of these world books are incomplete and just serve as a partial World Book for some characters. Later characters will get added which means these files should also be updated as well.
+> Do note that some of these world books may be incomplete or serve as a partial World Book for some characters. As Hoyo updates their games, some of these lorebooks might be missing some details within them. Please bear with me as I update them.
 
 - [Genshin Impact](world-info/GI-Core.json)
    > This world info has the basics of Genshin Impact such as:
