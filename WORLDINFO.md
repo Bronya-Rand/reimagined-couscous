@@ -37,13 +37,36 @@ If you see this on your screen or are unable to download the JSON because it sho
 > Do note that some of these world books are incomplete and just serve as a partial World Book for some characters. Later characters will get added which means these files should also be updated as well.
 
 - [Genshin Impact](world-info/GI-Core.json)
-   > This world info has the basics of Genshin Impact from elements to locations of Liyue, Fontaine, archons, kingdom areas and some parts of Inazuma (Narukami Island). Does not cover all Mondstadt or Sumeru yet nor other general Genshin lore topics. Has a built-in mode for Furina if you want the Pre-Masquerade of the Guilty of her in your Genshin World or when you interact with her.
+   > This world info has the basics of Genshin Impact such as:
+   - Elements (Electro, Cryo, Pyro, etc.)
+   - Nations (Liyue, Fontaine, Inazuma, etc.)
+   - Archons (and their actual identities)
+   - Areas in each nation (Narukami Island, Sea of Clouds, Windvail Highland, etc.)
+   - Pre/Post Story plotlines (Pre/Post Masquerade of the Guilty)
+   
+   > This world info however, does not cover: 
+   - All of Mondstadt, Inazuma, Fontaine or Sumeru
+   - Several parts of General Genshin lore topics
 
 - [Honkai Impact 3rd](world-info/HI3-Core.json)
    > This world info has just the basics of Honkai Impact 3rd itself for use with Bronya Zaychik and Veliona. Worked in collaboration with *TheWandering514*.
 
 - [Honkai: Star Rail](world-info/HSR.json)
-   > This world info should have most of all the information surrounding the Honkai: Star Rail World up to Version 1.5 of the game like Belobog, the Xianzhou Luofu, Herta Space Station, races (Foxian, Vidyadhara, Short-Life, Heliobus), terms (Supreme Guardian, Master Diviner) and Pre/Post plotlines (Pre/Post-Belobog & Pre/Post-Luofu), Aeons, Paths (including some non-playable ones), Currency (Shield, Strale, Hertareum, Ancient Coin), and more. Does not cover all H:SR enemies (except Phantylia the Undying and Dan Shu) and most of the Simulated Universe.
+   **Updated for Version: 1.5**
+   > This world info should have most of all the information surrounding the Honkai: Star Rail world such as: 
+   - Worlds (Belobog, the Xianzhou Luofu, Herta Space Station)
+   - Races (Foxian, Vidyadhara, Short-Life, Heliobus)
+   - Some Key Terms (Supreme Guardian, Master Diviner)
+   - Pre/Post Story plotlines (Pre/Post-Belobog & Pre/Post-Luofu)
+   - Aeons (IX, Lan, Yaoshi, etc.)
+   - Paths (Preservation, Destruction, etc.) [including some non-playable ones]
+   - Currency (Shield, Strale, Hertareum, Ancient Coin)
+   - Simulated Universe (concept and the actual Simulated Universe [non-Swarm Disaster], Domains, Blessings/Curios, Paths, Bosses, etc.)
+
+   > This world info however does not cover:
+   - Betas and Future updates of H:SR (will be updated after I complete each respective update)
+   - All H:SR enemies (except Phantylia the Undying and Dan Shu)
+   - Most of Simulated Universe: Swarm Disaster (except True Sting Boss and exclusive Swarm Disaster domains).
 
 ### Character Lorebooks
 
@@ -72,6 +95,7 @@ If you see this on your screen or are unable to download the JSON because it sho
    > Not to be used with the *Kurukuru* version of Herta.
 - [Huohuo](./world-info/char-wi/hsr/Huohuo-WI.json)
 - [Kafka](./world-info/char-wi/hsr/Kafka-WI.json)
+- [Lynx](./world-info/char-wi/hsr/Lynx-WI.json)
 - [March 7th](./world-info/char-wi/hsr/March-WI.json)
    > Not to be used with [March 7th (Before the Express)]({{site.baseurl}}/march-7th-bte). (Not the same March)
 - [Seele](./world-info/char-wi/hsr/Seele-WI.json)
