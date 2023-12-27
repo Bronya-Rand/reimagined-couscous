@@ -36,6 +36,10 @@ If you see this on your screen or are unable to download the JSON because it sho
 
 > Do note that some of these world books may be incomplete or serve as a partial World Book for some characters. As Hoyo updates their games, some of these lorebooks might be missing some details within them. Please bear with me as I update them.
 
+> **For PygmalionAI Site Users:** Due to the PygmalionAI not supporting the new ST World Info format, these world infos are incompatible with the site at this time. Please bear with the site devs as they implement adjustments to this.
+
+> **For TavernAI/Agnaistic/KoboldAI Lite/Ooba/Old SillyTavern Users:** Due to a new ST World Info format, these world infos are incompatible with the rest of the frontends. Please ask your frontend devs (or update SillyTavern) to add support to the new values in ST.
+
 - [Genshin Impact](world-info/GI-Core.json)
    > This world info has the basics of Genshin Impact such as:
    - Elements (Electro, Cryo, Pyro, etc.)
