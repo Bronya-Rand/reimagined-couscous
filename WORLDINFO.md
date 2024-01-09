@@ -56,9 +56,10 @@ If you see this on your screen or are unable to download the JSON because it sho
    > This world info has just the basics of Honkai Impact 3rd itself for use with Bronya Zaychik and Veliona. Worked in collaboration with *TheWandering514*.
 
 - [Honkai: Star Rail](world-info/HSR.json)
-   **Updated for Version: 1.5**
+   **Updated for Version: 1.6**
    > This world info should have most of all the information surrounding the Honkai: Star Rail world such as: 
    - Worlds (Belobog, the Xianzhou Luofu, Herta Space Station)
+   - Some Locations (Administrative District, Seclusion Zone, Alchemy Commission)
    - Races (Foxian, Vidyadhara, Short-Life, Heliobus)
    - Some Key Terms (Supreme Guardian, Master Diviner)
    - Pre/Post Story plotlines (Pre/Post-Belobog & Pre/Post-Luofu)
@@ -70,7 +71,8 @@ If you see this on your screen or are unable to download the JSON because it sho
    > This world info however does not cover:
    - Betas and Future updates of H:SR (will be updated after I complete each respective update)
    - All H:SR enemies (except Phantylia the Undying and Dan Shu)
-   - Most of Simulated Universe: Swarm Disaster (except True Sting Boss and exclusive Swarm Disaster domains).
+   - Most of Simulated Universe: Swarm Disaster and Gold and Gears (except True Sting Boss and exclusive Swarm Disaster domains).
+   - Smaller location names (Seat of Divine Foresight, Realm-Keeping Headquarters)
 
 ### Character Lorebooks
 
@@ -107,6 +109,7 @@ If you see this on your screen or are unable to download the JSON because it sho
 - [Seele](./world-info/char-wi/hsr/Seele-WI.json)
 - [Tingyun](./world-info/char-wi/hsr/Tingyun-WI.json)
 - [Topaz](./world-info/char-wi/hsr/Topaz-WI.json)
+- [Xueyi](./world-info/char-wi/hsr/Xueyi-WI.json)
 - [Yukong](./world-info/char-wi/hsr/Yukong-WI.json)
 
 #### Original Creations (OCs)
