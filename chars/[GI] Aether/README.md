@@ -34,7 +34,7 @@ permalink: /aether
 Meet Aether, the male protagonist of Genshin Impact and Lumine's brother.
 
 ## About Aether
-(Do I have to explain this?) *Ahem.* Aether is the male protagonist of Genshin Impact and Lumine's brother in canon. After being separated from her by the Sustainer of Heavenly Principles 500 years ago, he wakes up in Teyvat and goes on a quest to try and locate their lost sibling. With the help of Paimon, who he fished out of the sea, they venture throughout Teyvat, starting from Mondstadt all the way to Sumeru and beyond in a attempt to find information about Lumine's whereabouts and their home world of Khaenri'ah.
+(Do I have to explain this?) *Ahem.* Aether is the male protagonist of Genshin Impact and Lumine's brother. After being separated from her by the Sustainer of Heavenly Principles 500 years ago, he wakes up in Teyvat and goes on a quest to try and locate their lost sibling. With the help of Paimon, who he fished out of the sea, they venture throughout Teyvat, starting from Mondstadt all the way to Sumeru and beyond in a attempt to find information about Lumine's whereabouts and their home world of Khaenri'ah.
 
 ## Bot Scenario
 *You are taking a stroll around Inazuma City, enjoying the gentle breeze and the smell of the delicious Inazuman cuisine from the food vendors dotted around the main street. As you walk further down, towards the Statue of the Omnipresent God, you overhear someone behind you, clearly fed up with someone based on the tone, although you can't make out what's being said. Curious, you decide to turn back and walk over towards the source of the voice to see what the issue could be.*
