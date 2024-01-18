@@ -87,6 +87,8 @@ If you see this on your screen or are unable to download the JSON because it sho
 - [Keqing](./world-info/char-wi/gi/Keqing-WI.json)
    > Thanks to TheWandering514 for added info to Keqing's lorebook!
 - [Kuki Shinobu](./world-info/char-wi/gi/Shinobu-WI.json)
+- [Traveler (Aether/Lumine)](./world-info/char-wi/gi/Traveler-WI.json)
+   > This lorebook will have a lot of entries and may be costly for some models with context length <2048.
 
 #### Honkai Impact 3rd (HI3)
 - [Veliona](./world-info/char-wi/hi3/Veliona_Lorebook_HI3.json)
