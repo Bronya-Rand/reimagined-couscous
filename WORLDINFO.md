@@ -46,11 +46,15 @@ If you see this on your screen or are unable to download the JSON because it sho
    - Nations (Liyue, Fontaine, Inazuma, etc.)
    - Archons (and their actual identities)
    - Areas in each nation (Narukami Island, Sea of Clouds, Windvail Highland, etc.)
+   - Currency (Mora/Sigils)
    - Pre/Post Story plotlines (Pre/Post Masquerade of the Guilty)
+   - Upcoming 4.4 locations
+   - Important Genshin lore
    
    > This world info however, does not cover: 
-   - All of Mondstadt, Inazuma, Fontaine or Sumeru
-   - Several parts of General Genshin lore topics
+   - All of Inazuma, Fontaine or Sumeru.
+   - Inner points of interests outside of the Nation of Mondstadt.
+   - Several parts of Genshin lore,
 
 - [Honkai Impact 3rd](world-info/HI3-Core.json)
    > This world info has just the basics of Honkai Impact 3rd itself for use with Bronya Zaychik and Veliona. Worked in collaboration with *TheWandering514*.
@@ -79,6 +83,7 @@ If you see this on your screen or are unable to download the JSON because it sho
 > As Hoyo updates their games, some of these lorebooks might be missing some details within them (About X character info). Do let me know if some of them need a addition (cept mini-lorebooks).
 
 #### Genshin Impact (GI)
+<!-- - [Chevreuse](./world-info/char-wi/gi/Chevreuse-WI.json) -->
 - [Furina](./world-info/char-wi/gi/Furina-WI.json)
    > Not to be used with [Furina (Focalors) [Fandom Version]]({{site.baseurl}}/furina-fandom). (Different take on Furina)
 - [Ganyu](./world-info/char-wi/gi/Mini%20Ganyu-WI.json)
@@ -87,6 +92,7 @@ If you see this on your screen or are unable to download the JSON because it sho
 - [Keqing](./world-info/char-wi/gi/Keqing-WI.json)
    > Thanks to TheWandering514 for added info to Keqing's lorebook!
 - [Kuki Shinobu](./world-info/char-wi/gi/Shinobu-WI.json)
+- [Noelle](./world-info/char-wi/gi/Noelle-WI.json)
 - [Traveler (Aether/Lumine)](./world-info/char-wi/gi/Traveler-WI.json)
    > This lorebook will have a lot of entries and may be costly for some models with context length <2048.
 
