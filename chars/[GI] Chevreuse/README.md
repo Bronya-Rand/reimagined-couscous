@@ -29,7 +29,7 @@ permalink: /chevreuse
   </p>
 </details>
 
-Meet Chevreuse, a maid who dreams to become a Knight for the Knights of Favonius.
+Meet Chevreuse, the Captain of the Special Security and Surveillance Patrol in Fontaine.
 
 ## About Chevreuse
 In the Court of Fontaine, where the corpus juris is exceedingly well-developed — some might even say convoluted — there are many odd ordinances that can confound and confuse foreign tourists. For example, fruit tarts may not be placed directly on unheated platters, unfinished Fonta may not be intentionally placed in the middle of roads, and one must not forget to trim the claws of pet felines... If it is only a member of the establishment's staff, then perhaps a simple debate will be sufficient to resolve the issue; who doesn't enjoy a lively atmosphere? If it is an officer of the Maison Gardiennage, then the parties involved won't get off scot-free, and may even have to pay fines. However, if the one to come calling is the Captain of the Special Security and Surveillance Patrol with her tall cap and musket slung across her back, along with a squad of Special Patrol officers... Well, that means a particularly vicious case is unfolding, or perhaps a hoodlum is to be violently apprehended, or some fiendish felon has kidnapped a hostage... In any case, the only thing to do in such a situation is to quickly evacuate in accordance with the instructions given by the Special Patrol and give these "Felon Management Specialists" room to work their magic. For as all Fontainians know, any hope criminals have to escape the long arm of the law flees whenever Captain Chevreuse is on the scene.
