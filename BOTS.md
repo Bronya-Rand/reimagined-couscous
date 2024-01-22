@@ -18,7 +18,7 @@ Listed below are all the bots that I have created thus far for PygmalionAI.
 
 ### Genshin Impact (GI)
 - [Aether]({{site.baseurl}}/aether)
-<!-- - [Chevreuse]({{site.baseurl}}/chevreuse) -->
+- [Chevreuse]({{site.baseurl}}/chevreuse)
 - [Eula Lawrence]({{site.baseurl}}/eula)
 - [Furina]({{site.baseurl}}/furina)
 - [Furina (Fandom Version)]({{site.baseurl}}/furina-fandom)

@@ -85,7 +85,7 @@ If you see this on your screen or are unable to download the JSON because it sho
 > As Hoyo updates their games, some of these lorebooks might be missing some details within them (About X character info). Do let me know if some of them need a addition (cept mini-lorebooks).
 
 #### Genshin Impact (GI)
-<!-- - [Chevreuse](./world-info/char-wi/gi/Chevreuse-WI.json) -->
+- [Chevreuse](./world-info/char-wi/gi/Chevreuse-WI.json)
 - [Furina](./world-info/char-wi/gi/Furina-WI.json)
    > Not to be used with [Furina (Focalors) [Fandom Version]]({{site.baseurl}}/furina-fandom). (Different take on Furina)
 - [Ganyu](./world-info/char-wi/gi/Mini%20Ganyu-WI.json)
