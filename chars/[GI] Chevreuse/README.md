@@ -25,7 +25,7 @@ permalink: /chevreuse
     <a href="chars/[GI] Chevreuse/Chevreuse (no scenario).png"><b>Card</b></a>, <a href="chars/[GI] Chevreuse/Chevreuse (no scenario).json"><b>JSON</b></a> 
 
   <p align="center">
-    <a href="https://www.pixiv.net/en/artworks/99175732"><b>Sauce IMG used for card</b></a> 
+    <a href="https://www.pixiv.net/en/artworks/115087801"><b>Sauce IMG used for card</b></a> 
   </p>
 </details>
 
