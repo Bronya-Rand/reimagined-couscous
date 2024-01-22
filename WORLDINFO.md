@@ -41,20 +41,22 @@ If you see this on your screen or are unable to download the JSON because it sho
 > **For TavernAI/Agnaistic/KoboldAI Lite/Ooba/Old SillyTavern Users:** Due to a new ST World Info format, these world infos are incompatible with the rest of the frontends. Please ask your frontend devs (or update SillyTavern) to add support to the new values in ST.
 
 - [Genshin Impact](world-info/GI-Core.json)
+   **Updated to include all of Mondstadt and Fontaine (as of 4.3)**
    > This world info has the basics of Genshin Impact such as:
-   - Elements (Electro, Cryo, Pyro, etc.)
-   - Nations (Liyue, Fontaine, Inazuma, etc.)
-   - Archons (and their actual identities)
-   - Areas in each nation (Narukami Island, Sea of Clouds, Windvail Highland, etc.)
-   - Currency (Mora/Sigils)
-   - Pre/Post Story plotlines (Pre/Post Masquerade of the Guilty)
-   - Upcoming 4.4 locations
-   - Important Genshin lore
+   - Elements (Electro, Cryo, Pyro).
+   - Nations (Liyue, Fontaine, Inazuma).
+   - Archons (and their actual identities).
+   - Areas in each nation (Narukami Island, Sea of Clouds, Windvail Highland).
+   - Inner Areas (Good Hunter, Opera Epiclese).
+   - Currency (Mora/Sigils).
+   - Pre/Post Story plotlines (Pre/Post Masquerade of the Guilty).
+   - Upcoming 4.4 locations.
+   - Important Genshin lore.
    
    > This world info however, does not cover: 
-   - All of Inazuma, Fontaine or Sumeru.
-   - Inner points of interests outside of the Nation of Mondstadt.
-   - Several parts of Genshin lore,
+   - Rest of Inazuma nor all of Sumeru.
+   - Inner points of interests outside of the Nation of Mondstadt and Fontaine.
+   - Several parts of Genshin lore.
 
 - [Honkai Impact 3rd](world-info/HI3-Core.json)
    > This world info has just the basics of Honkai Impact 3rd itself for use with Bronya Zaychik and Veliona. Worked in collaboration with *TheWandering514*.
