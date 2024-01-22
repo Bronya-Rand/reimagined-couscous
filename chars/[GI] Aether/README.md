@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Aether (Honkai: Star Rail)"
+title: "Aether (Genshin Impact)"
 permalink: /aether
 ---
 # Aether [Genshin Impact (GI)]

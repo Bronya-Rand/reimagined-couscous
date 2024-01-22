@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Lumine (Honkai: Star Rail)"
+title: "Lumine (Genshin Impact)"
 permalink: /lumine
 ---
 # Lumine [Genshin Impact (GI)]

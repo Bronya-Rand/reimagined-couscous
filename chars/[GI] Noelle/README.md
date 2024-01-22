@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Noelle (Honkai: Star Rail)"
+title: "Noelle (Genshin Impact)"
 permalink: /noelle
 ---
 # Noelle [Genshin Impact (GI)]

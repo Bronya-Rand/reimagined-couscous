@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Chevreuse (Honkai: Star Rail)"
+title: "Chevreuse (Genshin Impact)"
 permalink: /chevreuse
 ---
 # Chevreuse [Genshin Impact (GI)]
