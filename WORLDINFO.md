@@ -95,6 +95,8 @@ If you see this on your screen or are unable to download the JSON because it sho
    > Thanks to TheWandering514 for added info to Keqing's lorebook!
 - [Kuki Shinobu](./world-info/char-wi/gi/Shinobu-WI.json)
 - [Noelle](./world-info/char-wi/gi/Noelle-WI.json)
+- [Shenhe](./world-info/char-wi/gi/Shenhe-WI.json)
+   > This lorebook by default is set to her Default Outfit with Scenario On. Configure this lorebook's settings for Bronya:Chat/Frostflower Dew.
 - [Traveler (Aether/Lumine)](./world-info/char-wi/gi/Traveler-WI.json)
    > This lorebook will have a lot of entries and may be costly for some models with context length <2048.
 
