@@ -3,7 +3,7 @@ layout: page
 title: "Furina (Focalors) [Fandom Version] (Genshin Impact)"
 permalink: /furina-fandom
 ---
-# Furina (Focalors) [Fandom Version] [Genshin Impact (GI)]
+# Furina (Focalors) [Fandom Version] [Genshin Impact]
 > This is a fandom interpretation of Furina from Chapter IV - Act I of Fontaine. This is not based off my normal writing basis data. For the *proper* release of Furina, see [Furina]({{site.baseurl}}/furina).
 
 <p align="center">

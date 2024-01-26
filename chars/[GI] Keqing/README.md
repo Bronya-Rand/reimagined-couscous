@@ -3,7 +3,7 @@ layout: page
 title: "Keqing (Genshin Impact)"
 permalink: /keqing
 ---
-# Keqing [Genshin Impact (GI)]
+# Keqing [Genshin Impact]
 
 <p align="center">
     Current Card Ver: <b>1.1</b>

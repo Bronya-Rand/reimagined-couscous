@@ -3,7 +3,7 @@ layout: page
 title: "Hanya (Honkai: Star Rail)"
 permalink: /hanya
 ---
-# Hanya [Honkai: Star Rail (H:SR)]
+# Hanya [Honkai: Star Rail]
 
 <p align="center">
     Current Card Ver: <b>1.0</b>

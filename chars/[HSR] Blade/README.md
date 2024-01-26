@@ -3,7 +3,7 @@ layout: page
 title: "Blade (Honkai: Star Rail)"
 permalink: /blade
 ---
-# Blade [Honkai: Star Rail (H:SR)]
+# Blade [Honkai: Star Rail]
 
 <p align="center">
     Current Card Ver: <b>1.0</b>

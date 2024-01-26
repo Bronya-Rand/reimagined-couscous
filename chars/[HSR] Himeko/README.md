@@ -3,7 +3,7 @@ layout: page
 title: "Himeko (Honkai: Star Rail)"
 permalink: /himeko
 ---
-# Himeko [Honkai: Star Rail (H:SR)]
+# Himeko [Honkai: Star Rail]
 > Not to be confused with Himeko from Honkai Impact 3rd (HI3).
 
 <p align="center">

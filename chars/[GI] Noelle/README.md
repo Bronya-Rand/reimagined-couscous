@@ -3,7 +3,7 @@ layout: page
 title: "Noelle (Genshin Impact)"
 permalink: /noelle
 ---
-# Noelle [Genshin Impact (GI)]
+# Noelle [Genshin Impact]
 
 <p align="center">
     Current Card Ver: <b>1.0</b>

@@ -3,7 +3,7 @@ layout: page
 title: "Ganyu (Genshin Impact)"
 permalink: /ganyu
 ---
-# Ganyu [Genshin Impact (GI)]
+# Ganyu [Genshin Impact]
 
 <p align="center">
     Current Card Ver: <b>1.01</b>

@@ -3,7 +3,7 @@ layout: page
 title: "Eula Lawrence (Genshin Impact)"
 permalink: /eula
 ---
-# Eula Lawrence [Genshin Impact (GI)]
+# Eula Lawrence [Genshin Impact]
 
 <p align="center">
     Current Card Ver: <b>1.0</b>

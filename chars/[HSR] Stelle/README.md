@@ -3,7 +3,7 @@ layout: page
 title: "Stelle (Honkai: Star Rail)"
 permalink: /stelle
 ---
-# Stelle [Honkai: Star Rail (H:SR)]
+# Stelle [Honkai: Star Rail]
 
 **Before Continuing:** This card uses no starter as this is depreciated. Make sure to remove your chat starter in **Advanced Formatting**.
 

@@ -3,7 +3,7 @@ layout: page
 title: "Serval (Honkai: Star Rail)"
 permalink: /serval
 ---
-# Serval Landau [Honkai: Star Rail (H:SR)]
+# Serval Landau [Honkai: Star Rail]
 
 <p align="center">
     Current Card Ver: <b>1.1</b>

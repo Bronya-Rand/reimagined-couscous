@@ -3,7 +3,7 @@ layout: page
 title: "Caelus (Honkai: Star Rail)"
 permalink: /caelus
 ---
-# Caelus [Honkai: Star Rail (H:SR)]
+# Caelus [Honkai: Star Rail]
 
 **Before Continuing:** This card uses no starter as this is depreciated. Make sure to remove your chat starter in **Advanced Formatting**.
 

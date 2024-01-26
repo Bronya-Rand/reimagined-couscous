@@ -3,7 +3,7 @@ layout: page
 title: "Fu Xuan (Honkai: Star Rail)"
 permalink: /fu-xuan
 ---
-# Fu Xuan [Honkai: Star Rail (H:SR)]
+# Fu Xuan [Honkai: Star Rail]
 
 <p align="center">
     Current Card Ver: <b>1.0</b>

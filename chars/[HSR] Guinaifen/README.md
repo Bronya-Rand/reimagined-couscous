@@ -3,7 +3,7 @@ layout: page
 title: "Guinaifen (Honkai: Star Rail)"
 permalink: /guinaifen
 ---
-# Guinaifen [Honkai: Star Rail (H:SR)]
+# Guinaifen [Honkai: Star Rail]
 
 <p align="center">
     Current Card Ver: <b>1.0</b>

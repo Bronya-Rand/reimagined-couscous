@@ -3,7 +3,7 @@ layout: page
 title: "Tingyun (Honkai: Star Rail)"
 permalink: /tingyun
 ---
-# Tingyun [Honkai: Star Rail (H:SR)]
+# Tingyun [Honkai: Star Rail]
 
 <p align="center">
     Current Card Ver: <b>2.0</b>

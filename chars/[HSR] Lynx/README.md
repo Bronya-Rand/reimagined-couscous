@@ -3,7 +3,7 @@ layout: page
 title: "Lynx Landau (Honkai: Star Rail)"
 permalink: /lynx
 ---
-# Lynx [Honkai: Star Rail (H:SR)]
+# Lynx [Honkai: Star Rail]
 
 <p align="center">
     Current Card Ver: <b>1.0</b>

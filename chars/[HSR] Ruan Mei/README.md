@@ -3,7 +3,7 @@ layout: page
 title: "Ruan Mei (Honkai: Star Rail)"
 permalink: /ruan-mei
 ---
-# Ruan Mei [Honkai: Star Rail (H:SR)]
+# Ruan Mei [Honkai: Star Rail]
 
 <p align="center">
     Current Card Ver: <b>1.0</b>

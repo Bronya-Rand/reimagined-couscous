@@ -3,7 +3,7 @@ layout: page
 title: "Lumine (Genshin Impact)"
 permalink: /lumine
 ---
-# Lumine [Genshin Impact (GI)]
+# Lumine [Genshin Impact]
 
 <p align="center">
     Current Card Ver: <b>1.0</b>

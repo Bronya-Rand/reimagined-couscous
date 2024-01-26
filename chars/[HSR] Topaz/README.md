@@ -3,7 +3,7 @@ layout: page
 title: "Topaz (Honkai: Star Rail)"
 permalink: /topaz
 ---
-# Topaz [Honkai: Star Rail (H:SR)]
+# Topaz [Honkai: Star Rail]
 
 <p align="center">
     Current Card Ver: <b>1.0</b>

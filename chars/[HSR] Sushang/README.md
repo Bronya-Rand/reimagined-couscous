@@ -3,7 +3,7 @@ layout: page
 title: "Sushang (Honkai: Star Rail)"
 permalink: /sushang
 ---
-# Sushang [Honkai: Star Rail (H:SR)]
+# Sushang [Honkai: Star Rail]
 
 <p align="center">
     Current Card Ver: <b>1.1</b>

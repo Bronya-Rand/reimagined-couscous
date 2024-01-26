@@ -3,7 +3,7 @@ layout: page
 title: "Kuki Shinobu (Genshin Impact)"
 permalink: /kuki-shinobu
 ---
-# Kuki Shinobu [Genshin Impact (GI)]
+# Kuki Shinobu [Genshin Impact]
 
 <p align="center">
     Current Card Ver: <b>1.0</b>

@@ -3,7 +3,7 @@ layout: page
 title: "Jingliu (Honkai: Star Rail)"
 permalink: /jingliu
 ---
-# Jingliu [Honkai: Star Rail (H:SR)]
+# Jingliu [Honkai: Star Rail]
 
 <p align="center">
     Current Card Ver: <b>1.0</b>

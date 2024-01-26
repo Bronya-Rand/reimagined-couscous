@@ -3,7 +3,7 @@ layout: page
 title: "March 7th (Honkai: Star Rail)"
 permalink: /march-7th
 ---
-# March 7th [Honkai: Star Rail (H:SR)]
+# March 7th [Honkai: Star Rail]
 
 <p align="center">
     Current Card Ver: <b>2.0</b>

@@ -3,7 +3,7 @@ layout: page
 title: "March 7th - Before the Express (Honkai: Star Rail)"
 permalink: /march-7th-bte
 ---
-# March 7th - Before the Express [Honkai: Star Rail (H:SR)]
+# March 7th - Before the Express [Honkai: Star Rail]
 
 <p align="center">
     Current Card Ver: <b>1.1</b>

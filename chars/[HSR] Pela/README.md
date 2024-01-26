@@ -3,7 +3,7 @@ layout: page
 title: "Pela (Honkai: Star Rail)"
 permalink: /pela
 ---
-# Pela (Pelageya Sergeyevna) [Honkai: Star Rail (H:SR)]
+# Pela (Pelageya Sergeyevna) [Honkai: Star Rail]
 
 <p align="center">
     Current Card Ver: <b>1.1</b>

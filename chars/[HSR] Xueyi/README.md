@@ -3,7 +3,7 @@ layout: page
 title: "Xueyi (Honkai: Star Rail)"
 permalink: /xueyi
 ---
-# Xueyi [Honkai: Star Rail (H:SR)]
+# Xueyi [Honkai: Star Rail]
 
 <p align="center">
     Current Card Ver: <b>1.0</b>

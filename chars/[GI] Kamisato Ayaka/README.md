@@ -3,7 +3,7 @@ layout: page
 title: "Kamisato Ayaka (Genshin Impact)"
 permalink: /kamisato-ayaka
 ---
-# Kamisato Ayaka [Genshin Impact (GI)]
+# Kamisato Ayaka [Genshin Impact]
 
 <p align="center">
     Current Card Ver: <b>1.0</b>

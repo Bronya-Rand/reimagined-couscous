@@ -3,7 +3,7 @@ layout: page
 title: "Yukong (Honkai: Star Rail)"
 permalink: /yukong
 ---
-# Yukong [Honkai: Star Rail (H:SR)]
+# Yukong [Honkai: Star Rail]
 
 <p align="center">
     Current Card Ver: <b>2.0</b>

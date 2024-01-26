@@ -3,7 +3,7 @@ layout: page
 title: "Qingque (Honkai: Star Rail)"
 permalink: /qingque
 ---
-# Qingque [Honkai: Star Rail (H:SR)]
+# Qingque [Honkai: Star Rail]
 
 <p align="center">
     Current Card Ver: <b>1.1</b>

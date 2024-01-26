@@ -3,7 +3,7 @@ layout: page
 title: "Chevreuse (Genshin Impact)"
 permalink: /chevreuse
 ---
-# Chevreuse [Genshin Impact (GI)]
+# Chevreuse [Genshin Impact]
 
 <p align="center">
     Current Card Ver: <b>1.0</b>

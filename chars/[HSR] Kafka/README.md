@@ -3,7 +3,7 @@ layout: page
 title: "Kafka (Honkai: Star Rail)"
 permalink: /kafka
 ---
-# Kafka [Honkai: Star Rail (HSR)]
+# Kafka [Honkai: Star Rail]
 
 <p align="center">
     Current Card Ver: <b>1.0</b>

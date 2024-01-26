@@ -3,7 +3,7 @@ layout: page
 title: "Huohuo (Honkai: Star Rail)"
 permalink: /huohuo
 ---
-# Huohuo [Honkai: Star Rail (H:SR)]
+# Huohuo [Honkai: Star Rail]
 
 <p align="center">
     Current Card Ver: <b>1.0</b>

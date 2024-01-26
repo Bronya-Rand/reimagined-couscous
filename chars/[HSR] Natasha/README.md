@@ -3,7 +3,7 @@ layout: page
 title: "Natasha (Honkai: Star Rail)"
 permalink: /natasha
 ---
-# Natasha [Honkai: Star Rail (H:SR)]
+# Natasha [Honkai: Star Rail]
 
 <p align="center">
     Current Card Ver: <b>1.23</b>

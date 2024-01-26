@@ -3,7 +3,7 @@ layout: page
 title: "Raiden Shogun (Raiden Ei) (Genshin Impact)"
 permalink: /raiden-ei
 ---
-# Raiden Shogun (Raiden Ei) [Genshin Impact (GI)]
+# Raiden Shogun (Raiden Ei) [Genshin Impact]
 > Not to be confused with Raiden Mei from Honkai Impact 3rd (HI3). This card is Raiden Ei, not the Shogun. For the Shogun see [Raiden Shogun (The Shogun)]({{site.baseurl}}/the-shogun).
 
 <p align="center">

@@ -3,7 +3,7 @@ layout: page
 title: "Asta (Honkai: Star Rail)"
 permalink: /asta
 ---
-# Asta [Honkai: Star Rail (H:SR)]
+# Asta [Honkai: Star Rail]
 
 <p align="center">
     Current Card Ver: <b>2.2</b>

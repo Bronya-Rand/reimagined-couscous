@@ -3,7 +3,7 @@ layout: page
 title: "Aether (Genshin Impact)"
 permalink: /aether
 ---
-# Aether [Genshin Impact (GI)]
+# Aether [Genshin Impact]
 
 <p align="center">
     Current Card Ver: <b>1.0</b>

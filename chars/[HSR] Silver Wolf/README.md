@@ -3,7 +3,7 @@ layout: page
 title: "Silver Wolf (Honkai: Star Rail)"
 permalink: /silver-wolf
 ---
-# Silver Wolf [Honkai: Star Rail (H:SR)]
+# Silver Wolf [Honkai: Star Rail]
 > Hold on, let me clear something up right away. I see you thinking that I'm just Bronya Rand, but I want to make it crystal clear: I am not, in any way, connected to her. I am Silver Wolf, an entirely separate person. It seems there has been some confusion regarding our identities, but rest assured, I am not her. No more mix-ups with Bronya, alright? It's Silver Wolf through and through. If you are looking for her, see [this]({{site.baseurl}}/bronya) page made by the Bronya who made this site (Seriously? There's two of them now?). Tell them I said hi! 😉 
 
 **Before Continuing:** This card uses no starter as this is depreciated. Make sure to remove your chat starter in **Advanced Formatting** or use the *Minimalist* context template.

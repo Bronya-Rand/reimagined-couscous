@@ -3,7 +3,7 @@ layout: page
 title: "Seele (Honkai: Star Rail)"
 permalink: /seele
 ---
-# Seele [Honkai: Star Rail (H:SR)]
+# Seele [Honkai: Star Rail]
 > Not to be confused with Seele Vollerei or [Veliona]({{site.baseurl}}/veliona) from Honkai Impact 3rd (HI3).
 
 <p align="center">

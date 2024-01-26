@@ -3,7 +3,7 @@ layout: page
 title: "Furina (Genshin Impact)"
 permalink: /furina
 ---
-# Furina [Genshin Impact (GI)]
+# Furina [Genshin Impact]
 > This is a *proper* interpretation of Furina. For the fandom version prior to her release, see [Furina (Focalors) [Fandom Version]]({{site.baseurl}}/furina-fandom).
 
 <p align="center">

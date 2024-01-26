@@ -3,7 +3,7 @@ layout: page
 title: "Herta (Honkai: Star Rail)"
 permalink: /herta
 ---
-# Herta [Honkai: Star Rail (H:SR)]
+# Herta [Honkai: Star Rail]
 
 <p align="center">
     Current Card Ver: <b>2.2</b> |
