@@ -15,13 +15,13 @@ Simply put, you will find some character bots that I created either for fun, saw
 
 ### How do I browse this page?
 
-Find the character that you want by clicking on [Bot List]({{site.baseurl}}/bot-list). Click the arrow besides *Downloads* and download the character card/JSON file from either Github or Catbox.
+Find the character that you want by clicking on [Bot List]({{site.baseurl}}/bot-list). Click the arrow besides *Downloads* and download the character card/JSON file.
 
 ### Possible "lewd" bots?
 Not at this time. However, as a saying in Pyg goes "any bot can be lewded if you try hard enough". Or you can just add lewd marks in the characters' PList or make lewd A/N (Author Notes) in SillyTavern and be off with your day with your waifu.
 
 ### Commissions?
-Possibly soon.
+Page coming soon.
 
 ### Why Github over Rentry?
 Because I wanted to have it placed somewhere I can remember down the road. (I also like fancy. :p)
