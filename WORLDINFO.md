@@ -94,6 +94,7 @@ If you see this on your screen or are unable to download the JSON because it sho
 - [Keqing](./world-info/char-wi/gi/Keqing-WI.json)
    > Thanks to TheWandering514 for added info to Keqing's lorebook!
 - [Kuki Shinobu](./world-info/char-wi/gi/Shinobu-WI.json)
+- [Lynette](./world-info/char-wi/gi/Lynette-WI.json)
 - [Noelle](./world-info/char-wi/gi/Noelle-WI.json)
 - [Shenhe](./world-info/char-wi/gi/Shenhe-WI.json)
    > This lorebook by default is set to her Default Outfit with Scenario On. Configure this lorebook's settings for Bronya:Chat/Frostflower Dew.
