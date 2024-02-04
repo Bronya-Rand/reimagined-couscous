@@ -4,7 +4,8 @@
       {%- assign default_paths = site.pages | map: "path" -%}
       {%- assign page_paths = site.header_pages | default: default_paths -%}
       {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
-      <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+      <!-- <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a> -->
+      <a class="site-title" rel="author" href="{{ "/" | relative_url }}">Bronya's Character Bot Archive</a>
     </div>
 
     <div class="wrapper">
@@ -18,7 +19,7 @@
               </svg>
             </span>
           </label>
-          
+
           <div class="trigger">
             {%- for path in page_paths -%}
               {%- assign my_page = site.pages | where: "path", path | first -%}
