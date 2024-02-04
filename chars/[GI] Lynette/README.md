@@ -19,10 +19,11 @@ permalink: /lynette
 
 <details align="center">
   <summary><b>Downloads</b></summary>
-  <b>Bronya:RP</b> (Bot with Scenario):
-    <a href="chars/[GI] Lynette/Lynette.png"><b>Card</b></a>, <a href="chars/[GI] Lynette/Lynette.json"><b>JSON</b></a> | 
-  <b>Bronya:Chat</b> (Bot without Scenario):
-    <a href="chars/[GI] Lynette/Lynette (no scenario).png"><b>Card</b></a>, <a href="chars/[GI] Lynette/Lynette (no scenario).json"><b>JSON</b></a> 
+  <p align="center">
+    <i><b>Bronya:RP</b> and <b>Bronya:Chat</b> are combined through her lorebook. Enable Scenario as a Constant or turn it off for a Bronya:RP or Bronya:Chat experience.</i>
+  </p>
+
+  <a href="chars/[GI] Lynette/Lynette.png"><b>Card</b></a>, <a href="chars/[GI] Lynette/Lynette.json"><b>JSON</b></a>
 
   <p align="center">
     <a href="https://www.pixiv.net/en/artworks/111080078"><b>Sauce IMG used for card</b></a> 
