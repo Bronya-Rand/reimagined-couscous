@@ -7,12 +7,12 @@ permalink: /bot-list
 
 Listed below are all the bots that I have created thus far for PygmalionAI.
 
-**Total Bots to Date:** <u>46</u>
+**Total Bots to Date:** <u>47</u>
 
 <!-- To be added once more games are listed here -->
 ## Legend
 - [Genshin Impact (GI)](#genshin-impact-gi) - 15
-- [Honkai Impact 3rd (HI3)](#honkai-impact-3rd-hi3) - 2
+- [Honkai Impact 3rd (HI3)](#honkai-impact-3rd-hi3) - 3
 - [Honkai: Star Rail (H:SR)](#honkai-star-rail-hsr) - 28
 - [Original Creations (OCs)](#original-creations-ocs) - 1
 
@@ -35,6 +35,7 @@ Listed below are all the bots that I have created thus far for PygmalionAI.
 
 ### Honkai Impact 3rd (HI3)
 - [Bronya Zaychik]({{site.baseurl}}/bronya-zaychik)
+- [Bronya Zayckik (APHO)]({{site.baseurl}}/bronya-zaychik-apho)
 - [Veliona]({{site.baseurl}}/veliona)
 
 ### Honkai: Star Rail (H:SR)

@@ -4,7 +4,7 @@ title: "Bronya Rand (Honkai: Star Rail)"
 permalink: /bronya
 ---
 # Bronya Rand [Honkai: Star Rail]
-> Not to be confused with [Bronya Zaychik]({{site.baseurl}}/bronya-zaychik) from Honkai Impact 3rd (HI3).
+> Not to be confused with [Bronya Zaychik]({{site.baseurl}}/bronya-zaychik) nor [Bronya Zaychik (APHO)]({{site.baseurl}}/bronya-zaychik-apho) from Honkai Impact 3rd (HI3).
 
 **Before Continuing:** This card uses no starter as this is depreciated. Make sure to remove your chat starter in **Advanced Formatting**.
 
