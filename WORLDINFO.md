@@ -86,6 +86,7 @@ If you see this on your screen or are unable to download the JSON because it sho
 
 #### Genshin Impact (GI)
 - [Chevreuse](./world-info/char-wi/gi/Chevreuse-WI.json)
+- [Freminet](./world-info/char-wi/gi/Freminet-WI.json)
 - [Furina](./world-info/char-wi/gi/Furina-WI.json)
    > Not to be used with [Furina (Focalors) [Fandom Version]]({{site.baseurl}}/furina-fandom). (Different take on Furina)
 - [Ganyu](./world-info/char-wi/gi/Mini%20Ganyu-WI.json)

@@ -7,11 +7,11 @@ permalink: /bot-list
 
 Listed below are all the bots that I have created thus far for PygmalionAI.
 
-**Total Bots to Date:** <u>47</u>
+**Total Bots to Date:** <u>48</u>
 
 <!-- To be added once more games are listed here -->
 ## Legend
-- [Genshin Impact (GI)](#genshin-impact-gi) - 15
+- [Genshin Impact (GI)](#genshin-impact-gi) - 16
 - [Honkai Impact 3rd (HI3)](#honkai-impact-3rd-hi3) - 3
 - [Honkai: Star Rail (H:SR)](#honkai-star-rail-hsr) - 28
 - [Original Creations (OCs)](#original-creations-ocs) - 1
@@ -20,6 +20,7 @@ Listed below are all the bots that I have created thus far for PygmalionAI.
 - [Aether]({{site.baseurl}}/aether)
 - [Chevreuse]({{site.baseurl}}/chevreuse)
 - [Eula Lawrence]({{site.baseurl}}/eula)
+- [Freminet]({{site.baseurl}}/freminet)
 - [Furina]({{site.baseurl}}/furina)
 - [Furina (Fandom Version)]({{site.baseurl}}/furina-fandom)
 - [Ganyu]({{site.baseurl}}/ganyu)
