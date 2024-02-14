@@ -7,7 +7,7 @@ permalink: /commissions
 
 # Commissions
 
-<u>Commission Status:</u> **Open**
+<u>Commission Status:</u> **Closed (Temporary Hiatus)**
 
 Thinking about turning one of your favorite characters into a character bot? Well, you come to the right place for them to be made into reality.
 
