@@ -123,6 +123,7 @@ If you see this on your screen or are unable to download the JSON because it sho
 - [Seele](./world-info/char-wi/hsr/Seele-WI.json)
 - [Silver Wolf](./world-info/char-wi/hsr/Silver%20Wolf-WI.json)
    > Includes a Bronya confusion World Entry!
+- [Sparkle](./world-info/char-wi/hsr/Sparkle-WI.json)
 - [Tingyun](./world-info/char-wi/hsr/Tingyun-WI.json)
 - [Topaz](./world-info/char-wi/hsr/Topaz-WI.json)
 - [Xueyi](./world-info/char-wi/hsr/Xueyi-WI.json)
