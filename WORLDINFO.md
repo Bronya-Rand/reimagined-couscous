@@ -41,7 +41,7 @@ If you see this on your screen or are unable to download the JSON because it sho
 > **For TavernAI/Agnaistic/KoboldAI Lite/Ooba/Old SillyTavern Users:** Due to a new ST World Info format, these world infos are incompatible with the rest of the frontends. Please ask your frontend devs (or update SillyTavern) to add support to the new values in ST.
 
 - [Genshin Impact](world-info/GI-Core.json)
-   **Updated to include all of Mondstadt and Fontaine (as of 4.3)**
+   **Updated to include all of Mondstadt and Fontaine (as of 4.4)**
    > This world info has the basics of Genshin Impact such as:
    - Elements (Electro, Cryo, Pyro).
    - Nations (Liyue, Fontaine, Inazuma).
@@ -62,9 +62,9 @@ If you see this on your screen or are unable to download the JSON because it sho
    > This world info has just the basics of Honkai Impact 3rd itself for use with Bronya Zaychik and Veliona. Worked in collaboration with *TheWandering514*.
 
 - [Honkai: Star Rail](world-info/HSR.json)
-   **Updated for Version: 1.6**
+   **Updated for Version: 2.0**
    > This world info should have most of all the information surrounding the Honkai: Star Rail world such as: 
-   - Worlds (Belobog, the Xianzhou Luofu, Herta Space Station)
+   - Worlds (Belobog, the Xianzhou Luofu, Herta Space Station, Penacony)
    - Some Locations (Administrative District, Seclusion Zone, Alchemy Commission)
    - Races (Foxian, Vidyadhara, Short-Life, Heliobus)
    - Some Key Terms (Supreme Guardian, Master Diviner)
