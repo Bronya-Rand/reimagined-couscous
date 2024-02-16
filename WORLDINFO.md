@@ -101,6 +101,7 @@ If you see this on your screen or are unable to download the JSON because it sho
    > This lorebook by default is set to her Default Outfit with Scenario On. Configure this lorebook's settings for Bronya:Chat/Frostflower Dew.
 - [Traveler (Aether/Lumine)](./world-info/char-wi/gi/Traveler-WI.json)
    > This lorebook will have a lot of entries and may be costly for some models with context length <2048.
+- [Xianyun (Cloud Retainer)](./world-info/char-wi/gi/Xianyun-WI.json)
 
 #### Honkai Impact 3rd (HI3)
 - [Veliona](./world-info/char-wi/hi3/Veliona_Lorebook_HI3.json)
