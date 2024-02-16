@@ -107,6 +107,7 @@ If you see this on your screen or are unable to download the JSON because it sho
 
 #### Honkai: Star Rail (H:SR)
 - [Asta](./world-info/char-wi/hsr/Asta-WI.json)
+- [Black Swan](./world-info/char-wi/hsr/Black%20Swan-WI.json)
 - [Bronya Rand](./world-info/char-wi/hsr/Bronya-WI.json)
 - [Caelus/Stelle](./world-info/char-wi/hsr/Trailblazer-WI.json)
 - [Fu Xuan](./world-info/char-wi/hsr/Fu%20Xuan-WI.json)
