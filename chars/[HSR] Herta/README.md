@@ -12,6 +12,8 @@ permalink: /herta
 
 **Before Continuing:** This card uses no starter as this is depreciated. Make sure to remove your chat starter in **Advanced Formatting**.
 
+> Looking for Herta's puppet? See [here]({{site.baseurl}}/herta-puppet).
+
 <!-- <p align="center">
     <img src="{{site.baseurl}}/assets/images/chars/herta.png" alt="Herta" width=250px>
 </p> -->

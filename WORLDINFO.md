@@ -114,7 +114,7 @@ If you see this on your screen or are unable to download the JSON because it sho
 - [Fu Xuan](./world-info/char-wi/hsr/Fu%20Xuan-WI.json)
 - [Guinaifen](./world-info/char-wi/hsr/Guinaifen-WI.json)
 - [Hanya](./world-info/char-wi/hsr/Hanya-WI.json)
-- [Herta](./world-info/char-wi/hsr/Herta-WI.json)
+- [Herta/Herta (Puppet)](./world-info/char-wi/hsr/Herta-WI.json)
    > Not to be used with the *Kurukuru* version of Herta.
 - [Huohuo](./world-info/char-wi/hsr/Huohuo-WI.json)
 - [Kafka](./world-info/char-wi/hsr/Kafka-WI.json)
