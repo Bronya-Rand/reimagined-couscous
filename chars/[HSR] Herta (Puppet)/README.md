@@ -29,7 +29,7 @@ permalink: /herta-puppet
     <a href="chars/[HSR] Herta (Puppet)/Herta (no scenario).png"><b>Card</b></a>, <a href="chars/[HSR] Herta (Puppet)/Herta (no scenario).json"><b>JSON</b></a>
 
   <p align="center">
-    <a href="https://www.pixiv.net/en/artworks/114422540"><b>Sauce IMG used for card</b></a> 
+    <a href="https://www.pixiv.net/artworks/105064442"><b>Sauce IMG used for card</b></a> 
   </p>
 </details>
 
