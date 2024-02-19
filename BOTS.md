@@ -7,7 +7,7 @@ permalink: /bot-list
 
 Listed below are all the bots that I have created thus far for PygmalionAI.
 
-**Total Bots to Date:** <u>51</u>
+**Total Bots to Date:** <u>53</u>
 
 <!-- To be added once more games are listed here -->
 ## Legend
@@ -75,3 +75,4 @@ Listed below are all the bots that I have created thus far for PygmalionAI.
 
 ### Original Creations (OCs)
 - [Kasuga Asumi]({{site.baseurl}}/asumi)
+- [Kisna Kaalana]({{site.baseurl}}/kisna)

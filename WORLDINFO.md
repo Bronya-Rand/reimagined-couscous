@@ -133,3 +133,4 @@ If you see this on your screen or are unable to download the JSON because it sho
 
 #### Original Creations (OCs)
 - [Kasuga Asumi](./world-info/char-wi/oc/Asumi-WI.json)
+- [Kisna Kaalana](./world-info/char-wi/oc/Kisna-WI.json)
