@@ -7,16 +7,22 @@ permalink: /bot-list
 
 Listed below are all the bots that I have created thus far for PygmalionAI.
 
-**Total Bots to Date:** <u>53</u>
+**Total Bots to Date:** <u>54</u>
 
-<!-- To be added once more games are listed here -->
 ## Legend
+
+- [Elden Ring (ER)](#elden-ring-er) - 1
 - [Genshin Impact (GI)](#genshin-impact-gi) - 17
 - [Honkai Impact 3rd (HI3)](#honkai-impact-3rd-hi3) - 3
 - [Honkai: Star Rail (H:SR)](#honkai-star-rail-hsr) - 31
-- [Original Creations (OCs)](#original-creations-ocs) - 1
+- [Original Creations (OCs)](#original-creations-ocs) - 2
+
+### Elden Ring (ER)
+
+- [Melina]({{site.baseurl}}/melina)
 
 ### Genshin Impact (GI)
+
 - [Aether]({{site.baseurl}}/aether)
 - [Chevreuse]({{site.baseurl}}/chevreuse)
 - [Eula Lawrence]({{site.baseurl}}/eula)
@@ -36,11 +42,13 @@ Listed below are all the bots that I have created thus far for PygmalionAI.
 - [Xianyun (Cloud Retainer)]({{site.baseurl}}/xianyun)
 
 ### Honkai Impact 3rd (HI3)
+
 - [Bronya Zaychik]({{site.baseurl}}/bronya-zaychik)
 - [Bronya Zayckik (APHO)]({{site.baseurl}}/bronya-zaychik-apho)
 - [Veliona]({{site.baseurl}}/veliona)
 
 ### Honkai: Star Rail (H:SR)
+
 - [Asta]({{site.baseurl}}/asta)
 - [Black Swan]({{site.baseurl}}/black-swan)
 - [Bronya Rand]({{site.baseurl}}/bronya)
@@ -74,5 +82,6 @@ Listed below are all the bots that I have created thus far for PygmalionAI.
 - [Yukong]({{site.baseurl}}/yukong)
 
 ### Original Creations (OCs)
+
 - [Kasuga Asumi]({{site.baseurl}}/asumi)
 - [Kisna Kaalana]({{site.baseurl}}/kisna)
