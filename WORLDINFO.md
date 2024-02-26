@@ -45,7 +45,9 @@ If you see this on your screen or are unable to download the JSON because it sho
 
 > **For TavernAI/Agnaistic/KoboldAI Lite/Ooba/Old SillyTavern Users:** Due to a new ST World Info format, these world infos are incompatible with the rest of the frontends. Please ask your frontend devs (or update SillyTavern) to add support to the new values in ST.
 
-- [Genshin Impact](world-info/GI-Core.json)
+- [Final Fantasy XIV](./world-info/Eorzea.json)
+
+- [Genshin Impact](./world-info/GI-Core.json)
   **Updated to include all of Mondstadt and Fontaine (as of 4.4)**
 
   > This world info has the basics of Genshin Impact such as:
@@ -65,11 +67,11 @@ If you see this on your screen or are unable to download the JSON because it sho
   - Inner points of interests outside of the Nation of Mondstadt and Fontaine.
   - Several parts of Genshin lore.
 
-- [Honkai Impact 3rd](world-info/HI3-Core.json)
+- [Honkai Impact 3rd](./world-info/HI3-Core.json)
 
   > This world info has just the basics of Honkai Impact 3rd itself for use with Bronya Zaychik and Veliona. Worked in collaboration with _TheWandering514_.
 
-- [Honkai: Star Rail](world-info/HSR.json)
+- [Honkai: Star Rail](./world-info/HSR.json)
   **Updated for Version: 2.0**
 
   > This world info should have most of all the information surrounding the Honkai: Star Rail world such as:
