@@ -12,7 +12,7 @@ Listed below are all the bots that I have created thus far for PygmalionAI.
 ## Legend
 
 - [Elden Ring (ER)](#elden-ring-er) - 1
-- [Final Fantasy XIV]
+- [Final Fantasy XIV](#final-fantasy-xiv) - 1
 - [Genshin Impact (GI)](#genshin-impact-gi) - 17
 - [Honkai Impact 3rd (HI3)](#honkai-impact-3rd-hi3) - 3
 - [Honkai: Star Rail (H:SR)](#honkai-star-rail-hsr) - 31
