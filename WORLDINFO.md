@@ -48,7 +48,7 @@ If you see this on your screen or are unable to download the JSON because it sho
 - [Final Fantasy XIV](./world-info/Eorzea.json)
 
 - [Genshin Impact](./world-info/GI-Core.json)
-  **Updated to include all of Mondstadt and Fontaine (as of 4.4)**
+  **Updated to include all of Mondstadt and Fontaine (as of 4.5)**
 
   > This world info has the basics of Genshin Impact such as:
 
@@ -115,6 +115,8 @@ If you see this on your screen or are unable to download the JSON because it sho
 - [Kuki Shinobu](./world-info/char-wi/gi/Shinobu-WI.json)
 - [Lynette](./world-info/char-wi/gi/Lynette-WI.json)
 - [Noelle](./world-info/char-wi/gi/Noelle-WI.json)
+- [Scaramouche/Wanderer](./world-info/char-wi/gi/Wanderer-WI.json)
+  > Includes a Bohemian Rhapsody gag lore entry!
 - [Shenhe](./world-info/char-wi/gi/Shenhe-WI.json)
   > This lorebook by default is set to her Default Outfit with Scenario On. Configure this lorebook's settings for Bronya:Chat/Frostflower Dew.
 - [Traveler (Aether/Lumine)](./world-info/char-wi/gi/Traveler-WI.json)
@@ -144,7 +146,7 @@ If you see this on your screen or are unable to download the JSON because it sho
 - [Ruan Mei](./world-info/char-wi/hsr/Ruan%20Mei-WI.json)
 - [Seele](./world-info/char-wi/hsr/Seele-WI.json)
 - [Silver Wolf](./world-info/char-wi/hsr/Silver%20Wolf-WI.json)
-  > Includes a Bronya confusion World Entry!
+  > Includes a Bronya confusion lore entry!
 - [Sparkle](./world-info/char-wi/hsr/Sparkle-WI.json)
 - [Tingyun](./world-info/char-wi/hsr/Tingyun-WI.json)
 - [Topaz](./world-info/char-wi/hsr/Topaz-WI.json)
