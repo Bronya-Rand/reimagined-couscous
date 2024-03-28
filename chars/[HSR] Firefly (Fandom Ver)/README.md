@@ -74,4 +74,4 @@ _Firefly jolts awake from hearing her name being screamed out, heart racing as h
 
   > Due to this, she will not be aware of all of the characters she will meet throughout the HSR Penacony story.
 
-- Example chats have been handcrafted to make it sound Firefly-like, focusing on her self-concious, brattiness, etc.
+- Example chats have been handcrafted to make it sound Firefly-like, focusing on her generosity, kindness, etc.
