@@ -3,5 +3,5 @@ description: An archive page for character bots created by Bronya Rand (bronya_r
 theme: minima
 include:
   - chars
-exclude:
-  - extras
+# exclude:
+#   - extras
