@@ -4,4 +4,4 @@ theme: minima
 include:
   - chars
 exclude:
-  - ./extras
+  - extras
