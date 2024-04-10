@@ -72,7 +72,7 @@ If you see this on your screen or are unable to download the JSON because it sho
   > This world info has just the basics of Honkai Impact 3rd itself for use with Bronya Zaychik and Veliona. Worked in collaboration with _TheWandering514_.
 
 - [Honkai: Star Rail](./world-info/HSR.json)
-  **Updated for Version: 2.0**
+  **Updated for Version: 2.1**
 
   > This world info should have most of all the information surrounding the Honkai: Star Rail world such as:
 
@@ -130,6 +130,8 @@ If you see this on your screen or are unable to download the JSON because it sho
 
 #### Honkai: Star Rail (H:SR)
 
+- [Acheron](./world-info/char-wi/hsr/Acheron-WI.json)
+  > Includes Raiden Shogun, Raiden Mei and Seele (H:SR) confusion gag entries!
 - [Asta](./world-info/char-wi/hsr/Asta-WI.json)
 - [Black Swan](./world-info/char-wi/hsr/Black%20Swan-WI.json)
 - [Bronya Rand](./world-info/char-wi/hsr/Bronya-WI.json)

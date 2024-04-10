@@ -7,7 +7,7 @@ permalink: /bot-list
 
 Listed below are all the bots that I have created thus far for PygmalionAI.
 
-**Total Bots to Date:** <u>59</u>
+**Total Bots to Date:** <u>60</u>
 
 ## Legend
 
@@ -15,7 +15,7 @@ Listed below are all the bots that I have created thus far for PygmalionAI.
 - [Final Fantasy XIV](#final-fantasy-xiv) - 1
 - [Genshin Impact (GI)](#genshin-impact-gi) - 19
 - [Honkai Impact 3rd (HI3)](#honkai-impact-3rd-hi3) - 4
-- [Honkai: Star Rail (H:SR)](#honkai-star-rail-hsr) - 32
+- [Honkai: Star Rail (H:SR)](#honkai-star-rail-hsr) - 33
 - [Original Creations (OCs)](#original-creations-ocs) - 2
 
 ### Elden Ring (ER)
@@ -57,6 +57,7 @@ Listed below are all the bots that I have created thus far for PygmalionAI.
 
 ### Honkai: Star Rail (H:SR)
 
+- [Acheron]({{site.baseurl}}/acheron)
 - [Asta]({{site.baseurl}}/asta)
 - [Black Swan]({{site.baseurl}}/black-swan)
 - [Bronya Rand]({{site.baseurl}}/bronya)
