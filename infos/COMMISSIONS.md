@@ -7,9 +7,7 @@ permalink: /commissions
 
 # Commissions
 
-<u>Commission Status:</u> **Open\***
-
-> \* - As HSR 2.1 approaches, commissions may be delayed as I will be focused on making Acheron. Do note that after release, commissions will return back to normal schedule.
+<u>Commission Status:</u> **Open**
 
 Thinking about turning one of your favorite characters into a character bot? Well, you come to the right place for them to be made into reality.
 
