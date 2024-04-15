@@ -2,4 +2,4 @@ title: Bronya Rand's Character Bot Archive
 description: An archive page for character bots created by Bronya Rand (bronya_rand).
 theme: minima
 include: [chars]
-exclude: [extras, Gemfile, Gemfile.lock, serve.sh]
+exclude: [extras, Gemfile, Gemfile.lock, serve.sh, vendor]
