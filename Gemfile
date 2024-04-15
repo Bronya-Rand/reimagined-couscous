@@ -6,3 +6,4 @@ gem 'jekyll'
 gem "webrick", "~> 1.8"
 gem "minima"
 gem "github-pages"
+gem "csv"
