@@ -23,6 +23,7 @@ GEM
     commonmarker (0.23.10)
     concurrent-ruby (1.2.3)
     connection_pool (2.4.1)
+    csv (3.3.0)
     diff-lcs (1.5.1)
     dnsruby (1.72.0)
       simpleidn (~> 0.2.1)
@@ -285,6 +286,7 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
+  csv
   github-pages
   jekyll
   minima
