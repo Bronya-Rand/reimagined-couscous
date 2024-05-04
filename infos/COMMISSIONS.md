@@ -68,7 +68,7 @@ Normally I focus on publishing Genshin Impact and Honkai: Star Rail bots when a 
 
 #### Franchise Character (English)
 
-> This commission applies only to characters, which the game supports English without needing Google Translate/DeepL. **NPCs, Bosses, or custom portrayals of the Genshin/H:SR cast and Honkai Impact 3rd commissions applies here.**
+> This commission applies only to characters, which franchise supports the English language without needing Google Translate/DeepL. **NPCs, Bosses, or custom portrayals of the Genshin/H:SR cast and Honkai Impact 3rd commissions applies here.**
 
 | :--------: | :--------------------: |
 | Price: $50 | $60 with Lorebook + WI |
@@ -77,7 +77,7 @@ Normally I focus on publishing Genshin Impact and Honkai: Star Rail bots when a 
 
 #### Franchise Character (Non-English)
 
-> This commission applies only to characters, which franchise does not support English and requires Google Translate/DeepL to translate information to English.
+> This commission applies only to characters, which franchise does not support the English language and requires Google Translate/DeepL to translate information to English.
 
 | :---------: | :---------------------: |
 | Price: $100 | $110 with Lorebook + WI |
