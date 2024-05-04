@@ -7,7 +7,9 @@ permalink: /commissions
 
 # Commissions
 
-<u>Commission Status:</u> **Open**
+<u>Commission Status:</u> **Open**\*
+
+> \* - During the period of May 5th to May 11th, commissions may be delayed due to Finals and HSR's upcoming character Robin.
 
 Thinking about turning one of your favorite characters into a character bot? Well, you come to the right place for them to be made into reality.
 
