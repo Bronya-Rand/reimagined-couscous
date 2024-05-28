@@ -41,8 +41,6 @@ If you see this on your screen or are unable to download the JSON because it sho
 
 > Do note that some of these world books may be incomplete or serve as a partial World Book for some characters. As Hoyo updates their games, some of these lorebooks might be missing some details within them. Please bear with me as I update them.
 
-> **For PygmalionAI Site Users:** Due to the PygmalionAI not supporting the new ST World Info format, these world infos are incompatible with the site at this time. Please bear with the site devs as they implement adjustments to this.
-
 > **For TavernAI/Agnaistic/KoboldAI Lite/Ooba/Old SillyTavern Users:** Due to a new ST World Info format, these world infos are incompatible with the rest of the frontends. Please ask your frontend devs (or update SillyTavern) to add support to the new values in ST.
 
 - [Final Fantasy XIV](./world-info/Eorzea.json)
@@ -72,12 +70,12 @@ If you see this on your screen or are unable to download the JSON because it sho
   > This world info has just the basics of Honkai Impact 3rd itself for use with Bronya Zaychik and Veliona. Worked in collaboration with _TheWandering514_.
 
 - [Honkai: Star Rail](./world-info/HSR.json)
-  **Updated for Version: 2.1**
+  **Updated for Version: 2.2**
 
   > This world info should have most of all the information surrounding the Honkai: Star Rail world such as:
 
   - Worlds (Belobog, the Xianzhou Luofu, Herta Space Station, Penacony)
-  - Some Locations (Administrative District, Seclusion Zone, Alchemy Commission)
+  - Major Locations (Administrative District, Seclusion Zone, Alchemy Commission)
   - Races (Foxian, Vidyadhara, Short-Life, Heliobus)
   - Some Key Terms (Supreme Guardian, Master Diviner)
   - Pre/Post Story plotlines (Pre/Post-Belobog & Pre/Post-Luofu)
@@ -85,6 +83,7 @@ If you see this on your screen or are unable to download the JSON because it sho
   - Paths (Preservation, Destruction, etc.) [including some non-playable ones]
   - Currency (Shield, Strale, Hertareum, Ancient Coin)
   - Simulated Universe (concept and the actual Simulated Universe [non-Swarm Disaster], Domains, Blessings/Curios, Paths, Bosses, etc.)
+  - The Dreamscape
 
   > This world info however does not cover:
 
