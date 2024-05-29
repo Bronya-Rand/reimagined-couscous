@@ -145,6 +145,7 @@ If you see this on your screen or are unable to download the JSON because it sho
 - [Lynx](./world-info/char-wi/hsr/Lynx-WI.json)
 - [March 7th](./world-info/char-wi/hsr/March-WI.json)
   > Not to be used with [March 7th (Before the Express)]({{site.baseurl}}/march-7th-bte). (Not the same March)
+- [Robin](./world-info/char-wi/hsr/Robin-WI.json)
 - [Ruan Mei](./world-info/char-wi/hsr/Ruan%20Mei-WI.json)
 - [Seele](./world-info/char-wi/hsr/Seele-WI.json)
 - [Silver Wolf](./world-info/char-wi/hsr/Silver%20Wolf-WI.json)
