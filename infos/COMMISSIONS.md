@@ -7,7 +7,9 @@ permalink: /commissions
 
 # Commissions
 
-<u>Commission Status:</u> **Open**
+<u>Commission Status:</u> **Open**\*
+
+> As HSR 2.3 has released, possible commission delays will happen in regards to Firefly and Jade bot development.
 
 Thinking about turning one of your favorite characters into a character bot? Well, you come to the right place for them to be made into reality.
 
