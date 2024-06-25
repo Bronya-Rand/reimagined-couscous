@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 gem 'nokogiri'
-gem 'rack', '~> 3.1.3'
+gem 'rack', '~> 3.1.4'
 gem 'rspec'
 gem 'jekyll'
 gem "webrick", "~> 1.8"
