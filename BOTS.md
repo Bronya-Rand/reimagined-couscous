@@ -11,12 +11,19 @@ Listed below are all the bots that I have created thus far for PygmalionAI.
 
 ## Legend
 
+- [Calabiyau/Strinova](#calabiyaustrinova) - ?
 - [Elden Ring (ER)](#elden-ring-er) - 1
 - [Final Fantasy XIV](#final-fantasy-xiv) - 1
 - [Genshin Impact (GI)](#genshin-impact-gi) - 19
 - [Honkai Impact 3rd (HI3)](#honkai-impact-3rd-hi3) - 4
 - [Honkai: Star Rail (H:SR)](#honkai-star-rail-hsr) - 34
 - [Original Creations (OCs)](#original-creations-ocs) - 2
+
+### Calabiyau/Strinova
+
+> This section will be coming soon once Strinova (Calabiyau) is released in the US.
+
+- ??? (CN: HuiXing)
 
 ### Elden Ring (ER)
 
