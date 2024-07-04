@@ -3,6 +3,7 @@ layout: page
 title: "Ganyu (Genshin Impact)"
 permalink: /ganyu
 ---
+
 # Ganyu [Genshin Impact]
 
 <p align="center">
@@ -15,11 +16,12 @@ permalink: /ganyu
 
 **Before Continuing:** This card uses no starter as this is depreciated. Make sure to remove your chat starter in **Advanced Formatting**.
 
-> A collaborative bot made by Bronya Rand with Alteus and TheWandering514. To see bots made by my collaborative partners, see their Rentry pages down below. 
-- [TheWandering514's Bots](https://rentry.org/thewandering514library).
-- *Alteus Bots* - Search *Alteus* in the PygmalionAI character website or in #bot-sharing in the PygmalionAI Discord.
+> A collaborative bot made by Bronya Rand with Fallen and TheWandering514. To see bots made by my collaborative partners, see their Rentry pages down below.
 
-> This card comes with a built-in **mini** lorebook (see [About the Card](#about-the-card) for more information). Import it in SillyTavern using [this](<https://rentry.co/kingbri-chara-guide#world-infolorebooks>) guide for best results. There is also an (optional) World Info about Genshin Impact that you can download from [here]({{site.baseurl}}/world-lore-books).
+- [TheWandering514's Bots](https://rentry.org/thewandering514library).
+- _Fallen Bots_ - Search _Fallen_ in the PygmalionAI character website or in #bot-sharing in the PygmalionAI Discord.
+
+> This card comes with a built-in **mini** lorebook (see [About the Card](#about-the-card) for more information). Import it in SillyTavern using [this](https://rentry.co/kingbri-chara-guide#world-infolorebooks) guide for best results. There is also an (optional) World Info about Genshin Impact that you can download from [here]({{site.baseurl}}/world-lore-books).
 
 <details align="center">
   <summary><b>Downloads</b></summary>
@@ -32,6 +34,7 @@ permalink: /ganyu
     </p>
 
     <a href="https://www.pixiv.net/artworks/104873919"><b>Sauce IMG used for card</b></a>
+
   </details>
   <details>
     <summary><b>Scenario B (Date Mode)</b></summary>
@@ -42,15 +45,18 @@ permalink: /ganyu
     </p>
 
     <a href="https://www.pixiv.net/en/artworks/109779075"><b>Sauce IMG used for card</b></a>
+
   </details>
 </details>
 
 Meet Ganyu, secretary of the Liyue Qixing.
 
 ## About Ganyu
+
 Ganyu is the secretary of the Liyue Qixing, and she is very diligent about her work. She does significantly more work than others around the office and management. Shy and timid, Ganyu is always concerned that she is estranged from the humans who live in Liyue Harbor because of her half-Qilin status. She is a lovely and considerate individual who does her best for those around her.
 
 ## Bot Scenarios
+
 <details>
   <summary><b>Scenario A</b></summary>
   <p><i>Newly come to Liyue Harbor, you make your way across the bridge and into the city proper. Your connections have set you up with an apartment and a guide to show you around the city, and you refer to the crudely drawn map you made to figure out a rough idea of where you're going. Wending through the bustling streets and past the calls of merchants, you make your way up through the city to the appointed meeting place, which seems to be...an office of some sort? Briefly peering through the window, you see several people milling about, sorting files and writing papers. As you open the door and step across the threshold, your eyes are immediately drawn to a slight, blue-haired girl with what look like black and red horns on her head. She looks up and sees you, finishes the paper she was working on, and then walks over to greet you.</i></p>
@@ -61,11 +67,13 @@ Ganyu is the secretary of the Liyue Qixing, and she is very diligent about her w
 </details>
 
 ## Bot Greetings
+
 <details>
   <summary><b>Scenario A</b></summary>
   <p><i>The young lady threads her way through the office before coming to a stop in front of you, a small smile on her face.</i> Hello! You must be {{user}}, right? My name is Ganyu. I'm the secretary for the Liyue Qixing, and I've been asked to show you around the city and help you get settled in. It's nice to meet you!
 
 <i>She giggles a little.</i> If you're wondering how I knew it was you, it's because you looked a little lost coming in. Hopefully I can help fix that a little, and I can give you a hand with paperwork or anything else that you need. That said, there's a lot of city to introduce you to. <i>Her smile widens a little.</i> As you might've noticed, Liyue Harbor is quite large. I hope you enjoy your time here! For now, shall we go for a walk? <i>She gestures to the door behind you.</i></p>
+
 </details>
 <details>
   <summary><b>Scenario B</b></summary>
@@ -75,6 +83,7 @@ H-hello {{user}}. <i>Her face is lightly flushed, with excitement or embarrassme
 </details>
 
 ## Models Tested
+
 - OpenAI/GPT-3.5-Turbo
 - meta-llama/Llama-2-13B (Chat)
 - [Pygmalion-13B](https://huggingface.co/PygmalionAI/pygmalion-13b)
@@ -84,8 +93,10 @@ H-hello {{user}}. <i>Her face is lightly flushed, with excitement or embarrassme
 - [Pygmalion-6B](https://huggingface.co/PygmalionAI/pygmalion-6b)
 
 ## About the Card
+
 > Genshin Impact spoilers ahead. You have been warned.
+
 - This Ganyu card was written to resemble her before most of the events of Genshin Impact takes place. Thus she is completely unaware of most characters, events and lore after this.
-   > Despite having a lorebook, it is a **mini** lorebook, meaning all she really is aware of is Zhongli/Rex Lapis. This is due to her being created with no lorebook in mind. She won't know anyone else outside of Zhongli (sorry Keqing shippers :( )
+  > Despite having a lorebook, it is a **mini** lorebook, meaning all she really is aware of is Zhongli/Rex Lapis. This is due to her being created with no lorebook in mind. She won't know anyone else outside of Zhongli (sorry Keqing shippers :( )
 - Example chats are based a bit off Ganyu's Data Bank in Genshin Impact with major edits to fit her better and with different ideas.
-- (From Alteus) Ganyu is an adorable cinnamon roll, please treat her nicely.
+- (From Fallen) Ganyu is an adorable cinnamon roll, please treat her nicely.
