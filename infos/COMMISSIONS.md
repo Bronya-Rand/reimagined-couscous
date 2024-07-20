@@ -9,7 +9,7 @@ permalink: /commissions
 
 <u>Commission Status:</u> **Open**\*
 
-> As HSR 2.3 has released, possible commission delays will happen in regards to Firefly and Jade bot development.
+> As HSR 2.3 has released, possible commission delays will happen in regards to Jade bot development.
 
 Thinking about turning one of your favorite characters into a character bot? Well, you come to the right place for them to be made into reality.
 
@@ -60,11 +60,11 @@ Pricing for bots depend on which category they fall under.
 
 #### Genshin/Honkai: Star Rail Commission
 
-> This commission only applies to _playable_ characters of HoYoverse's Genshin Impact and Honkai: Star Rail with accurate portayal, not NPCs, bosses, or custom portrayals of the character (say Maid Herta). For NPCs, bosses, or custom portrayals of the Genshin/H:SR cast or Honkai Impact 3rd bot commissions, see _Franchise Character (English)._
+> This commission only applies to **playable** characters of HoYoverse's Genshin Impact and Honkai: Star Rail with **accurate** portayal, not NPCs, bosses, or custom portrayals of the character (say Maid Herta). For NPCs, bosses, or custom portrayals of the Genshin/H:SR cast or Honkai Impact 3rd bot commissions, see <u>Franchise Character (English).</u>
 
 | Price: $30 |
 
-Normally I focus on publishing Genshin Impact and Honkai: Star Rail bots when a update comes out (HSR 2.1/Genshin 4.6), but if there is a character I've missed, one that I have not done or even one character you want to see sooner, you can propose to pay to have them done. Be mindful that such a commission can be published later onto this site for others to use. Also, bots in this category must remain official to their lore and be a general encounter, not something different.
+Normally I focus on publishing Genshin Impact and Honkai: Star Rail bots when a update comes out, but if there is a character I've missed, one that I have not done or even one character you want to see sooner, you can propose to pay to have them done. Be mindful that such a commission can be published later onto this site for others to use. Also, bots in this category must remain official to their lore and be a general encounter, not something different.
 
 #### Franchise Character (English)
 
