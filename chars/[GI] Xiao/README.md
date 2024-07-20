@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Xiao (Genshin Impact)"
-permalink: /Xiao
+permalink: /xiao
 ---
 
 # Xiao [Genshin Impact]
