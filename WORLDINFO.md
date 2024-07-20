@@ -103,6 +103,7 @@ If you see this on your screen or are unable to download the JSON because it sho
 #### Genshin Impact (GI)
 
 - [Chevreuse](./world-info/char-wi/gi/Chevreuse-WI.json)
+- [Clorinde](./world-info/char-wi/gi/Clorinde-WI.json)
 - [Cyno](./world-info/char-wi/gi/Cyno-WI.json)
 - [Freminet](./world-info/char-wi/gi/Freminet-WI.json)
 - [Furina](./world-info/char-wi/gi/Furina-WI.json)
@@ -122,6 +123,7 @@ If you see this on your screen or are unable to download the JSON because it sho
 - [Traveler (Aether/Lumine)](./world-info/char-wi/gi/Traveler-WI.json)
   > This lorebook will have a lot of entries and may be costly for some models with context length <2048.
 - [Xianyun (Cloud Retainer)](./world-info/char-wi/gi/Xianyun-WI.json)
+- [Xiao](./world-info/char-wi/gi/Xiao-WI.json)
 
 #### Honkai Impact 3rd (HI3)
 
@@ -135,6 +137,7 @@ If you see this on your screen or are unable to download the JSON because it sho
 - [Black Swan](./world-info/char-wi/hsr/Black%20Swan-WI.json)
 - [Bronya Rand](./world-info/char-wi/hsr/Bronya-WI.json)
 - [Caelus/Stelle](./world-info/char-wi/hsr/Trailblazer-WI.json)
+- [Firefly](./world-info/char-wi/hsr/Firefly-WI.json)
 - [Fu Xuan](./world-info/char-wi/hsr/Fu%20Xuan-WI.json)
 - [Guinaifen](./world-info/char-wi/hsr/Guinaifen-WI.json)
 - [Hanya](./world-info/char-wi/hsr/Hanya-WI.json)
