@@ -7,17 +7,18 @@ permalink: /bot-list
 
 Listed below are all the bots that I have created thus far for PygmalionAI.
 
-**Total Bots to Date:** <u>61</u>
+**Total Bots to Date:** <u>65</u>
 
 ## Legend
 
 - [Calabiyau/Strinova](#calabiyaustrinova) - ?
 - [Elden Ring (ER)](#elden-ring-er) - 1
 - [Final Fantasy XIV](#final-fantasy-xiv) - 1
-- [Genshin Impact (GI)](#genshin-impact-gi) - 19
+- [Genshin Impact (GI)](#genshin-impact-gi) - 21
 - [Honkai Impact 3rd (HI3)](#honkai-impact-3rd-hi3) - 4
-- [Honkai: Star Rail (H:SR)](#honkai-star-rail-hsr) - 34
+- [Honkai: Star Rail (H:SR)](#honkai-star-rail-hsr) - 35
 - [Original Creations (OCs)](#original-creations-ocs) - 2
+- [Slayers](#slayers) - 1
 
 ### Calabiyau/Strinova
 
@@ -37,6 +38,7 @@ Listed below are all the bots that I have created thus far for PygmalionAI.
 
 - [Aether]({{site.baseurl}}/aether)
 - [Chevreuse]({{site.baseurl}}/chevreuse)
+- [Clorinde]({{site.baseurl}}/clorinde)
 - [Cyno]({{site.baseurl}}/cyno)
 - [Eula Lawrence]({{site.baseurl}}/eula)
 - [Freminet]({{site.baseurl}}/freminet)
@@ -54,6 +56,7 @@ Listed below are all the bots that I have created thus far for PygmalionAI.
 - [Scaramouche/Wanderer]({{site.baseurl}}/scaramouche)
 - [Shenhe]({{site.baseurl}}/shenhe)
 - [Xianyun (Cloud Retainer)]({{site.baseurl}}/xianyun)
+- [Xiao]({{site.baseurl}}/xiao)
 
 ### Honkai Impact 3rd (HI3)
 
@@ -70,6 +73,7 @@ Listed below are all the bots that I have created thus far for PygmalionAI.
 - [Bronya Rand]({{site.baseurl}}/bronya)
 - [Blade]({{site.baseurl}}/blade)
 - [Caelus]({{site.baseurl}}/caelus)
+- [Firefly]({{site.baseurl}}/firefly)
 - [Firefly (Fandom Version)]({{site.baseurl}}/firefly-fandom)
 - [Fu Xuan]({{site.baseurl}}/fu-xuan)
 - [Guinaifen]({{site.baseurl}}/guinaifen)
@@ -103,3 +107,7 @@ Listed below are all the bots that I have created thus far for PygmalionAI.
 
 - [Kasuga Asumi]({{site.baseurl}}/asumi)
 - [Kisna Kaalana]({{site.baseurl}}/kisna)
+
+### Slayers
+
+- [Lina Inverse]({{site.baseurl}}/lina)
