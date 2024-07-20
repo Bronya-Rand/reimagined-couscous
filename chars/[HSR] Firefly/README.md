@@ -35,7 +35,7 @@ permalink: /firefly
     </p>
   </details>
   <details>
-    <summary><b>Scenario B (During HSR 2.3 Story)</b></summary>
+    <summary><b>Scenario C (During HSR 2.3 Story)</b></summary>
     <p><b>Bronya:RP</b> (Bot with Scenario):
       <a href="chars/[HSR] Firefly/Firefly C.png"><b>Card</b></a>, <a href="chars/[HSR] Firefly/Firefly C.json"><b>JSON</b></a> | 
     <b>Bronya:Chat</b> (Bot without Scenario):
