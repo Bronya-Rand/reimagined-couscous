@@ -4,7 +4,7 @@ title: "Lina Inverse (Slayers)"
 permalink: /lina
 ---
 
-# Lina [Slayers]
+# Lina Inverse [Slayers]
 
 <p align="center">
     Current Card Ver: <b>1.0</b>
@@ -13,9 +13,9 @@ permalink: /lina
 <details align="center">
   <summary><b>Downloads</b></summary>
   <b>Bronya:RP</b> (Bot with Scenario):
-    <a href="chars/[Slayers] Lina/Lina.png"><b>Card</b></a>, <a href="chars/[Slayers] Lina/Lina.json"><b>JSON</b></a> | 
+    <a href="chars/[Slayers] Lina Inverse/Lina.png"><b>Card</b></a>, <a href="chars/[Slayers] Lina Inverse/Lina.json"><b>JSON</b></a> | 
   <b>Bronya:Chat</b> (Bot without Scenario):
-    <a href="chars/[Slayers] Lina/Lina (no scenario).png"><b>Card</b></a>, <a href="chars/[Slayers] Lina/Lina (no scenario).json"><b>JSON</b></a>
+    <a href="chars/[Slayers] Lina Inverse/Lina (no scenario).png"><b>Card</b></a>, <a href="chars/[Slayers] Lina Inverse/Lina (no scenario).json"><b>JSON</b></a>
 
   <p align="center">
     <a href="https://gelbooru.com/index.php?page=post&s=view&id=7704247&tags=lina_inverse+"><b>Sauce IMG used for card</b></a> 
