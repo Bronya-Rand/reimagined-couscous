@@ -70,7 +70,7 @@ If you see this on your screen or are unable to download the JSON because it sho
   > This world info has just the basics of Honkai Impact 3rd itself for use with Bronya Zaychik and Veliona. Worked in collaboration with _TheWandering514_.
 
 - [Honkai: Star Rail](./world-info/HSR.json)
-  **Updated for Version: 2.2**
+  **Updated for Version: 2.3**
 
   > This world info should have most of all the information surrounding the Honkai: Star Rail world such as:
 
@@ -89,7 +89,7 @@ If you see this on your screen or are unable to download the JSON because it sho
 
   - Betas and Future updates of H:SR (will be updated after I complete each respective update)
   - All H:SR enemies (except Phantylia the Undying and Dan Shu)
-  - Most of Simulated Universe: Swarm Disaster and Gold and Gears (except True Sting Boss and exclusive Swarm Disaster domains).
+  - Secondary Simulated Universe Game Modes and Divergent Universe
   - Smaller location names (Seat of Divine Foresight, Realm-Keeping Headquarters)
 
 ### Character Lorebooks
