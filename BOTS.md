@@ -82,7 +82,7 @@ Listed below are all the bots that I have created thus far for PygmalionAI.
 - [Herta (Puppet)]({{site.baseurl}}/herta-puppet)
 - [Himeko]({{site.baseurl}}/himeko)
 - [Huohuo]({{site.baseurl}}/huohuo)
-- [Jade]({{site.baseuri}}/jade)
+- [Jade]({{site.baseurl}}/jade)
 - [Jingliu]({{site.baseurl}}/jingliu)
 - [Kafka]({{site.baseurl}}/kafka)
 - [Lynx]({{site.baseurl}}/lynx)
