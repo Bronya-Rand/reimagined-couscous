@@ -9,7 +9,7 @@ permalink: /commissions
 
 <u>Commission Status:</u> **Open**\*
 
-> As HSR 2.3 has released, possible commission delays will happen in regards to Jade bot development.
+> As HSR 2.4 will arrive soon (or has arrived depending on the day you read this), comms may be delayed due to Yunli bot development.
 
 Thinking about turning one of your favorite characters into a character bot? Well, you come to the right place for them to be made into reality.
 
