@@ -7,7 +7,7 @@ permalink: /bot-list
 
 Listed below are all the bots that I have created thus far for PygmalionAI.
 
-**Total Bots to Date:** <u>65</u>
+**Total Bots to Date:** <u>66</u>
 
 ## Legend
 
@@ -16,7 +16,7 @@ Listed below are all the bots that I have created thus far for PygmalionAI.
 - [Final Fantasy XIV](#final-fantasy-xiv) - 1
 - [Genshin Impact (GI)](#genshin-impact-gi) - 21
 - [Honkai Impact 3rd (HI3)](#honkai-impact-3rd-hi3) - 4
-- [Honkai: Star Rail (H:SR)](#honkai-star-rail-hsr) - 35
+- [Honkai: Star Rail (H:SR)](#honkai-star-rail-hsr) - 36
 - [Original Creations (OCs)](#original-creations-ocs) - 2
 - [Slayers](#slayers) - 1
 
@@ -82,6 +82,7 @@ Listed below are all the bots that I have created thus far for PygmalionAI.
 - [Herta (Puppet)]({{site.baseurl}}/herta-puppet)
 - [Himeko]({{site.baseurl}}/himeko)
 - [Huohuo]({{site.baseurl}}/huohuo)
+- [Jade]({{site.baseuri}}/jade)
 - [Jingliu]({{site.baseurl}}/jingliu)
 - [Kafka]({{site.baseurl}}/kafka)
 - [Lynx]({{site.baseurl}}/lynx)

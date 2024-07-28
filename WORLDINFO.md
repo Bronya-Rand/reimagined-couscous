@@ -144,6 +144,7 @@ If you see this on your screen or are unable to download the JSON because it sho
 - [Herta/Herta (Puppet)](./world-info/char-wi/hsr/Herta-WI.json)
   > Not to be used with the _Kurukuru_ version of Herta.
 - [Huohuo](./world-info/char-wi/hsr/Huohuo-WI.json)
+- [Jade](./world-info/char-wi/hsr/Jade-WI.json)
 - [Kafka](./world-info/char-wi/hsr/Kafka-WI.json)
 - [Lynx](./world-info/char-wi/hsr/Lynx-WI.json)
 - [March 7th](./world-info/char-wi/hsr/March-WI.json)
