@@ -103,6 +103,7 @@ Listed below are all the bots that I have created thus far for PygmalionAI.
 - [Topaz]({{site.baseurl}}/topaz)
 - [Xueyi]({{site.baseurl}}/xueyi)
 - [Yukong]({{site.baseurl}}/yukong)
+- [Yunli]({{site.baseurl}}/yunli)
 
 ### Original Creations (OCs)
 

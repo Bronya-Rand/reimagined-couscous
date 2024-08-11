@@ -70,7 +70,7 @@ If you see this on your screen or are unable to download the JSON because it sho
   > This world info has just the basics of Honkai Impact 3rd itself for use with Bronya Zaychik and Veliona. Worked in collaboration with _TheWandering514_.
 
 - [Honkai: Star Rail](./world-info/HSR.json)
-  **Updated for Version: 2.3**
+  **Updated for Version: 2.4**
 
   > This world info should have most of all the information surrounding the Honkai: Star Rail world such as:
 
@@ -160,6 +160,7 @@ If you see this on your screen or are unable to download the JSON because it sho
 - [Topaz](./world-info/char-wi/hsr/Topaz-WI.json)
 - [Xueyi](./world-info/char-wi/hsr/Xueyi-WI.json)
 - [Yukong](./world-info/char-wi/hsr/Yukong-WI.json)
+- [Yunli](./world-info/char-wi/hsr/Yunli-WI.json)
 
 #### Original Creations (OCs)
 
