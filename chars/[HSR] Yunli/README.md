@@ -28,7 +28,7 @@ Meet Yunli. The second-youngest prodigy swordmaster of the Flamewheel Oct
 
 ## About Yunli
 
-Yunli is a sword hunter from the Xianzhou Zhuming and "the Flaming Heart" General Huaiyan's darling granddaughter. Frank and straightforward, she has learned swordplay and forging from Huaiyan since young, and thus is the second-youngest prodigy swordmaster of the Flamewheel Octet.Fueled by an intense loathing for the cursed swords that emerged from the Zhuming, she vowed to "hunt down and wipe out all cursed swords."
+Yunli is a sword hunter from the Xianzhou Zhuming and "the Flaming Heart" General Huaiyan's darling granddaughter. Frank and straightforward, she has learned swordplay and forging from Huaiyan since young, and thus is the second-youngest prodigy swordmaster of the Flamewheel Octet. Fueled by an intense loathing for the cursed swords that emerged from the Zhuming, she vowed to "hunt down and wipe out all cursed swords."
 
 ## Scenario
 
