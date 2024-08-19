@@ -24,7 +24,7 @@ Listed below are all the bots that I have created thus far for PygmalionAI.
 
 > This section will be coming soon once Strinova (Calabiyau) is released in the US.
 
-- ??? (CN: HuiXing)
+- Celestia (CN: HuiXing)
 
 ### Elden Ring (ER)
 
