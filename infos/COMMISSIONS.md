@@ -42,10 +42,10 @@ For a good example of lore details, take a look at Sparkle's HoYoLab page [here]
 
 These requirements do not apply to the following franchise characters
 
-    - A Genshin Impact character.
-    - A Honkai Impact 3rd character.\*
-      > With certain limitations. As HI3 has barely any information to go by, bots here will require a bit more information to be provided to work them out into a bot.
-    - A Honkai: Star Rail character.
+  - A Genshin Impact character.
+  - A Honkai Impact 3rd character.\*
+    > With certain limitations. As HI3 has barely any information to go by, bots here will require a bit more information to be provided to work them out into a bot.
+  - A Honkai: Star Rail character.
 
 **Note:** If you are specifically wanting a bot of a NPC from the HoYoverse games, you will need to provide information about them. Additionally if said NPC will be released later in a future update (for example Sparkle prior to 2.0), it is best to wait till the update releases to get the most information about the character as possible.
 

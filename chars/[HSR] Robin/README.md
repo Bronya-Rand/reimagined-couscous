@@ -6,6 +6,8 @@ permalink: /robin
 
 # Robin [Honkai: Star Rail]
 
+> Looking for Robin's brother Sunday? See [Sunday]({{site.baseurl}}/sunday) here!
+
 <p align="center">
     Current Card Ver: <b>1.0</b>
 </p>

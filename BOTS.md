@@ -7,7 +7,7 @@ permalink: /bot-list
 
 Listed below are all the bots that I have created thus far for PygmalionAI.
 
-**Total Bots to Date:** <u>67</u>
+**Total Bots to Date:** <u>68</u>
 
 ## Legend
 
@@ -16,7 +16,7 @@ Listed below are all the bots that I have created thus far for PygmalionAI.
 - [Final Fantasy XIV](#final-fantasy-xiv) - 1
 - [Genshin Impact (GI)](#genshin-impact-gi) - 21
 - [Honkai Impact 3rd (HI3)](#honkai-impact-3rd-hi3) - 4
-- [Honkai: Star Rail (H:SR)](#honkai-star-rail-hsr) - 37
+- [Honkai: Star Rail (H:SR)](#honkai-star-rail-hsr) - 38
 - [Original Creations (OCs)](#original-creations-ocs) - 2
 - [Slayers](#slayers) - 1
 
@@ -98,6 +98,7 @@ Listed below are all the bots that I have created thus far for PygmalionAI.
 - [Silver Wolf]({{site.baseurl}}/silver-wolf)
 - [Sparkle]({{site.baseurl}}/sparkle)
 - [Stelle]({{site.baseurl}}/stelle)
+- [Sunday]({{site.baseurl}}/sunday)
 - [Sushang]({{site.baseurl}}/sushang)
 - [Tingyun]({{site.baseurl}}/tingyun)
 - [Topaz]({{site.baseurl}}/topaz)

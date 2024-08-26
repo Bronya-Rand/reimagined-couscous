@@ -77,7 +77,7 @@ If you see this on your screen or are unable to download the JSON because it sho
   - Worlds (Belobog, the Xianzhou Luofu, Herta Space Station, Penacony)
   - Major Locations (Administrative District, Seclusion Zone, Alchemy Commission)
   - Races (Foxian, Vidyadhara, Short-Life, Heliobus)
-  - Some Key Terms (Supreme Guardian, Master Diviner)
+  - Some Key Terms (Supreme Guardian, Master Diviner, The Family)
   - Pre/Post Story plotlines (Pre/Post-Belobog & Pre/Post-Luofu)
   - Aeons (IX, Lan, Yaoshi, etc.)
   - Paths (Preservation, Destruction, etc.) [including some non-playable ones]
@@ -156,6 +156,8 @@ If you see this on your screen or are unable to download the JSON because it sho
 - [Silver Wolf](./world-info/char-wi/hsr/Silver%20Wolf-WI.json)
   > Includes a Bronya confusion lore entry!
 - [Sparkle](./world-info/char-wi/hsr/Sparkle-WI.json)
+- [Sunday](./world-info/char-wi/hsr/Sunday-Mini-WI.json)
+  > This is a mini-lorebook about Sunday which only reinforces Gopher Wood and Robin. Not much info is included in here as he is a NPC.
 - [Tingyun](./world-info/char-wi/hsr/Tingyun-WI.json)
 - [Topaz](./world-info/char-wi/hsr/Topaz-WI.json)
 - [Xueyi](./world-info/char-wi/hsr/Xueyi-WI.json)
