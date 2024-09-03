@@ -7,14 +7,14 @@ permalink: /fu-xuan
 # Fu Xuan [Honkai: Star Rail]
 
 <p align="center">
-    Current Card Ver: <b>1.0</b>
+    Current Card Ver: <b>1.01</b>
 </p>
 
 <!-- <p align="center">
     <img src="{{site.baseurl}}/assets/images/chars/Furina.png" alt="Furina" width=250px>
 </p> -->
 
-> A collaborative bot made by Bronya Rand with Fallen. To see bots made by my collaborative partner, search _Fallen_ in the PygmalionAI character website or in #bot-sharing in the PygmalionAI Discord.
+> A collaborative bot made by Bronya Rand with a 'Provider'.
 
 **Before Continuing:** This card uses no starter as this is depreciated. Make sure to remove your chat starter in **Advanced Formatting** or use the _Minimalist_ context template.
 

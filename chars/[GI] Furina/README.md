@@ -9,7 +9,7 @@ permalink: /furina
 > This is a _proper_ interpretation of Furina. For the fandom version prior to her release, see [Furina (Focalors) [Fandom Version]]({{site.baseurl}}/furina-fandom).
 
 <p align="center">
-    Current Card Ver: <b>2.0</b>
+    Current Card Ver: <b>2.01</b>
 </p>
 
 <!-- <p align="center">
@@ -18,7 +18,7 @@ permalink: /furina
 
 **Before Continuing:** This card uses no starter as this is depreciated. Make sure to remove your chat starter in **Advanced Formatting**.
 
-> A collaborative bot made by Bronya Rand with Fallen. To see bots made by my collaborative partner, search _Fallen_ in the PygmalionAI character website or in #bot-sharing in the PygmalionAI Discord.
+> A collaborative bot made by Bronya Rand with a 'Provider'.
 
 <details align="center">
   <summary><b>Downloads</b></summary>

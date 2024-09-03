@@ -7,7 +7,7 @@ permalink: /ganyu
 # Ganyu [Genshin Impact]
 
 <p align="center">
-    Current Card Ver: <b>1.01</b>
+    Current Card Ver: <b>1.02</b>
 </p>
 
 <!-- <p align="center">
@@ -16,10 +16,9 @@ permalink: /ganyu
 
 **Before Continuing:** This card uses no starter as this is depreciated. Make sure to remove your chat starter in **Advanced Formatting**.
 
-> A collaborative bot made by Bronya Rand with Fallen and TheWandering514. To see bots made by my collaborative partners, see their Rentry pages down below.
+> A collaborative bot made by Bronya Rand with TheWandering514 and a 'Provider'. To see bots made by my collaborative partners, see their Rentry pages down below.
 
 - [TheWandering514's Bots](https://rentry.org/thewandering514library).
-- _Fallen Bots_ - Search _Fallen_ in the PygmalionAI character website or in #bot-sharing in the PygmalionAI Discord.
 
 > This card comes with a built-in **mini** lorebook (see [About the Card](#about-the-card) for more information). Import it in SillyTavern using [this](https://rentry.co/kingbri-chara-guide#world-infolorebooks) guide for best results. There is also an (optional) World Info about Genshin Impact that you can download from [here]({{site.baseurl}}/world-lore-books).
 
@@ -99,4 +98,4 @@ H-hello {{user}}. <i>Her face is lightly flushed, with excitement or embarrassme
 - This Ganyu card was written to resemble her before most of the events of Genshin Impact takes place. Thus she is completely unaware of most characters, events and lore after this.
   > Despite having a lorebook, it is a **mini** lorebook, meaning all she really is aware of is Zhongli/Rex Lapis. This is due to her being created with no lorebook in mind. She won't know anyone else outside of Zhongli (sorry Keqing shippers :( )
 - Example chats are based a bit off Ganyu's Data Bank in Genshin Impact with major edits to fit her better and with different ideas.
-- (From Fallen) Ganyu is an adorable cinnamon roll, please treat her nicely.
+- (From the 'Provider') Ganyu is an adorable cinnamon roll, please treat her nicely.
