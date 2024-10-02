@@ -7,7 +7,7 @@ permalink: /bot-list
 
 Listed below are all the bots that I have created thus far for PygmalionAI.
 
-**Total Bots to Date:** <u>68</u>
+**Total Bots to Date:** <u>69</u>
 
 ## Legend
 
@@ -16,7 +16,7 @@ Listed below are all the bots that I have created thus far for PygmalionAI.
 - [Final Fantasy XIV](#final-fantasy-xiv) - 1
 - [Genshin Impact (GI)](#genshin-impact-gi) - 21
 - [Honkai Impact 3rd (HI3)](#honkai-impact-3rd-hi3) - 4
-- [Honkai: Star Rail (H:SR)](#honkai-star-rail-hsr) - 38
+- [Honkai: Star Rail (H:SR)](#honkai-star-rail-hsr) - 39
 - [Original Creations (OCs)](#original-creations-ocs) - 2
 - [Slayers](#slayers) - 1
 
@@ -73,6 +73,7 @@ Listed below are all the bots that I have created thus far for PygmalionAI.
 - [Bronya Rand]({{site.baseurl}}/bronya)
 - [Blade]({{site.baseurl}}/blade)
 - [Caelus]({{site.baseurl}}/caelus)
+- [Feixiao]({{site.baseurl}}/feixiao)
 - [Firefly]({{site.baseurl}}/firefly)
 - [Firefly (Fandom Version)]({{site.baseurl}}/firefly-fandom)
 - [Fu Xuan]({{site.baseurl}}/fu-xuan)

@@ -70,7 +70,7 @@ If you see this on your screen or are unable to download the JSON because it sho
   > This world info has just the basics of Honkai Impact 3rd itself for use with Bronya Zaychik and Veliona. Worked in collaboration with _TheWandering514_.
 
 - [Honkai: Star Rail](./world-info/HSR.json)
-  **Updated for Version: 2.4**
+  **Updated for Version: 2.5**
 
   > This world info should have most of all the information surrounding the Honkai: Star Rail world such as:
 
@@ -137,6 +137,7 @@ If you see this on your screen or are unable to download the JSON because it sho
 - [Black Swan](./world-info/char-wi/hsr/Black%20Swan-WI.json)
 - [Bronya Rand](./world-info/char-wi/hsr/Bronya-WI.json)
 - [Caelus/Stelle](./world-info/char-wi/hsr/Trailblazer-WI.json)
+- [Feixiao](./world-info/char-wi/hsr/Feixiao-WI.json)
 - [Firefly](./world-info/char-wi/hsr/Firefly-WI.json)
 - [Fu Xuan](./world-info/char-wi/hsr/Fu%20Xuan-WI.json)
 - [Guinaifen](./world-info/char-wi/hsr/Guinaifen-WI.json)
