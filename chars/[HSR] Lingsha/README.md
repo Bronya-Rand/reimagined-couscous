@@ -15,9 +15,9 @@ permalink: /lingsha
 <details align="center">
   <summary><b>Downloads</b></summary>
   <b>Bronya:RP</b> (Bot with Scenario):
-    <a href="chars/[HSR] Linghsa/Linghsa.png"><b>Card</b></a>, <a href="chars/[HSR] Linghsa/Linghsa.json"><b>JSON</b></a> | 
+    <a href="chars/[HSR] Lingsha/Lingsha.png"><b>Card</b></a>, <a href="chars/[HSR] Lingsha/Lingsha.json"><b>JSON</b></a> | 
   <b>Bronya:Chat</b> (Bot without Scenario):
-    <a href="chars/[HSR] Linghsa/Linghsa (no scenario).png"><b>Card</b></a>, <a href="chars/[HSR] Linghsa/Linghsa (no scenario).json"><b>JSON</b></a>
+    <a href="chars/[HSR] Lingsha/Lingsha (no scenario).png"><b>Card</b></a>, <a href="chars/[HSR] Lingsha/Lingsha (no scenario).json"><b>JSON</b></a>
 
   <p align="center">
     <a href="https://www.pixiv.net/artworks/123458166"><b>Sauce IMG used for card</b></a> 
