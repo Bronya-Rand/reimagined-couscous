@@ -147,6 +147,7 @@ If you see this on your screen or are unable to download the JSON because it sho
 - [Huohuo](./world-info/char-wi/hsr/Huohuo-WI.json)
 - [Jade](./world-info/char-wi/hsr/Jade-WI.json)
 - [Kafka](./world-info/char-wi/hsr/Kafka-WI.json)
+- [Lingsha (Dan Zhu)](./world-info/char-wi/hsr/Lingsha-WI.json)
 - [Lynx](./world-info/char-wi/hsr/Lynx-WI.json)
 - [March 7th](./world-info/char-wi/hsr/March-WI.json)
   > Not to be used with [March 7th (Before the Express)]({{site.baseurl}}/march-7th-bte). (Not the same March)

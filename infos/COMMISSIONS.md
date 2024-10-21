@@ -7,8 +7,8 @@ permalink: /commissions
 
 # Commissions
 
-<u>Commission Status:</u> **Semi-Open**\*
-> \* - With HSR 2.5, commissions may be delayed for Lingsha bot development.
+<u>Commission Status:</u> **Semi-Closed**\*
+> \* - With HSR 2.6, commissions may be delayed for Rappa bot development. However some commissions may be taken at this time.
 
 Thinking about turning one of your favorite characters into a character bot? Well, you come to the right place for them to be made into reality.
 
