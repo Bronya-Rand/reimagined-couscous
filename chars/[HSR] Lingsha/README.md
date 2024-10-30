@@ -7,7 +7,7 @@ permalink: /lingsha
 # Lingsha (Dan Zhu) [Honkai: Star Rail]
 
 <p align="center">
-    Current Card Ver: <b>1.0</b>
+    Current Card Ver: <b>1.01</b>
 </p>
 
 > There is an **recommended** World Info about Honkai: Star Rail that you can download from [here]({{site.baseurl}}/world-lore-books).
