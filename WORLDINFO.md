@@ -115,6 +115,7 @@ If you see this on your screen or are unable to download the JSON because it sho
   > Thanks to TheWandering514 for added info to Keqing's lorebook!
 - [Kuki Shinobu](./world-info/char-wi/gi/Shinobu-WI.json)
 - [Lynette](./world-info/char-wi/gi/Lynette-WI.json)
+- [Nilou](./world-info/char-wi/gi/Nilou-WI.json)
 - [Noelle](./world-info/char-wi/gi/Noelle-WI.json)
 - [Scaramouche/Wanderer](./world-info/char-wi/gi/Wanderer-WI.json)
   > Includes a Bohemian Rhapsody gag lore entry!
