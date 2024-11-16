@@ -282,7 +282,7 @@ GEM
     unf_ext (0.0.9.1-x64-mingw-ucrt)
     unicode-display_width (1.8.0)
     uri (0.13.0)
-    webrick (1.8.2)
+    webrick (1.9.0)
 
 PLATFORMS
   x64-mingw-ucrt
@@ -296,7 +296,7 @@ DEPENDENCIES
   nokogiri
   rack (~> 3.1.8)
   rspec
-  webrick (~> 1.8)
+  webrick (~> 1.9)
 
 BUNDLED WITH
    2.5.7
