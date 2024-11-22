@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "HuiXing/Celestia (Calabiyau/Strinova)"
-permalink: /nilou
+permalink: /huixing
 ---
 
 # HuiXing/Celestia [Calabiyau/Strinova]
