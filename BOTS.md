@@ -7,11 +7,11 @@ permalink: /bot-list
 
 Listed below are all the bots that I have created thus far for PygmalionAI.
 
-**Total Bots to Date:** <u>72</u>
+**Total Bots to Date:** <u>73</u>
 
 ## Legend
 
-- [Calabiyau/Strinova](#calabiyaustrinova) - ?
+- [Calabiyau/Strinova](#calabiyaustrinova) - 1
 - [Elden Ring (ER)](#elden-ring-er) - 1
 - [Final Fantasy XIV](#final-fantasy-xiv) - 1
 - [Genshin Impact (GI)](#genshin-impact-gi) - 22
@@ -24,7 +24,7 @@ Listed below are all the bots that I have created thus far for PygmalionAI.
 
 > This section will be coming soon once Strinova (Calabiyau) is released in the US.
 
-- Celestia (CN: HuiXing)
+- [Celestia (CN: HuiXing)]({{site.baseurl}}/huixing)
 
 ### Elden Ring (ER)
 

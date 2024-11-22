@@ -31,6 +31,7 @@ If you see this on your screen or are unable to download the JSON because it sho
 
 - [World Info](#world-info)
 - [Character Lorebooks](#character-lorebooks)
+  - [Calabiyau/Strinova](#calabiyaustrinova)
   - [Elden Ring (ER)](#elden-ring-er)
   - [Genshin Impact (GI)](#genshin-impact-gi)
   - [Honkai Impact 3rd (HI3)](#honkai-impact-3rd-hi3)
@@ -95,6 +96,10 @@ If you see this on your screen or are unable to download the JSON because it sho
 ### Character Lorebooks
 
 > As Hoyo updates their games, some of these lorebooks might be missing some details within them (About X character info). Do let me know if some of them need a addition (cept mini-lorebooks).
+
+#### Calabiyau/Strinova
+- [Celestia (Strinova Version)](./world-info/char-wi/cn/Celestia-Mini-WI.json)
+- [HuiXing (Calabiyau Version)](./world-info/char-wi/cn/HuiXing-Calabiyau-WI.json)
 
 #### Elden Ring (ER)
 
