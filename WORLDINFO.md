@@ -71,7 +71,7 @@ If you see this on your screen or are unable to download the JSON because it sho
   > This world info has just the basics of Honkai Impact 3rd itself for use with Bronya Zaychik and Veliona. Worked in collaboration with _TheWandering514_.
 
 - [Honkai: Star Rail](./world-info/HSR.json)
-  **Updated for Version: 2.5**
+  **Updated for Version: 2.6**
 
   > This world info should have most of all the information surrounding the Honkai: Star Rail world such as:
 
@@ -98,6 +98,7 @@ If you see this on your screen or are unable to download the JSON because it sho
 > As Hoyo updates their games, some of these lorebooks might be missing some details within them (About X character info). Do let me know if some of them need a addition (cept mini-lorebooks).
 
 #### Calabiyau/Strinova
+
 - [Celestia (Strinova Version)](./world-info/char-wi/cn/Celestia-Mini-WI.json)
 - [HuiXing (Calabiyau Version)](./world-info/char-wi/cn/HuiXing-Calabiyau-WI.json)
 
@@ -158,6 +159,7 @@ If you see this on your screen or are unable to download the JSON because it sho
 - [March 7th](./world-info/char-wi/hsr/March-WI.json)
   > Not to be used with [March 7th (Before the Express)]({{site.baseurl}}/march-7th-bte). (Not the same March)
 - [Natasha](./world-info/char-wi/hsr/Natasha-WI.json)
+- [Rappa](./world-info/char-wi/hsr/Rappa-WI.json)
 - [Robin](./world-info/char-wi/hsr/Robin-WI.json)
 - [Ruan Mei](./world-info/char-wi/hsr/Ruan%20Mei-WI.json)
 - [Seele](./world-info/char-wi/hsr/Seele-WI.json)
