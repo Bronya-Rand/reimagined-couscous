@@ -9,6 +9,8 @@ permalink: /tingyun
     Current Card Ver: <b>2.0</b>
 </p>
 
+> This version of Tingyun is based off her 1.0 - 1.1 character. For 2.7 Tingyun a.k.a. Fugue see [Fugue]({{site.baseurl}}/fugue).
+
 <!-- <p align="center">
     <img src="{{site.baseurl}}/assets/images/chars/tingyun.png" alt="Tingyun" width=250px>
 </p> -->

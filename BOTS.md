@@ -7,7 +7,7 @@ permalink: /bot-list
 
 Listed below are all the bots that I have created thus far for PygmalionAI.
 
-**Total Bots to Date:** <u>74</u>
+**Total Bots to Date:** <u>75</u>
 
 ## Legend
 
@@ -81,6 +81,7 @@ Listed below are all the bots that I have created thus far for PygmalionAI.
 - [Feixiao]({{site.baseurl}}/feixiao)
 - [Firefly]({{site.baseurl}}/firefly)
 - [Firefly (Fandom Version)]({{site.baseurl}}/firefly-fandom)
+- [Fugue (Tingyun 2.7+)]({{site.baseurl}}/fugue)
 - [Fu Xuan]({{site.baseurl}}/fu-xuan)
 - [Guinaifen]({{site.baseurl}}/guinaifen)
 - [Hanya]({{site.baseurl}}/hanya)
@@ -108,7 +109,7 @@ Listed below are all the bots that I have created thus far for PygmalionAI.
 - [Stelle]({{site.baseurl}}/stelle)
 - [Sunday]({{site.baseurl}}/sunday)
 - [Sushang]({{site.baseurl}}/sushang)
-- [Tingyun]({{site.baseurl}}/tingyun)
+- [Tingyun (1.0-1.1)]({{site.baseurl}}/tingyun)
 - [Topaz]({{site.baseurl}}/topaz)
 - [Xueyi]({{site.baseurl}}/xueyi)
 - [Yukong]({{site.baseurl}}/yukong)
