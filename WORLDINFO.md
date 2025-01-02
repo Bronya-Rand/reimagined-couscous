@@ -40,9 +40,7 @@ If you see this on your screen or are unable to download the JSON because it sho
 
 ### World Info
 
-> Do note that some of these world books may be incomplete or serve as a partial World Book for some characters. As Hoyo updates their games, some of these lorebooks might be missing some details within them. Please bear with me as I update them.
-
-> **For TavernAI/Agnaistic/KoboldAI Lite/Ooba/Old SillyTavern Users:** Due to a new ST World Info format, these world infos are incompatible with the rest of the frontends. Please ask your frontend devs (or update SillyTavern) to add support to the new values in ST.
+> Do note that some of these world books may be incomplete or serve as a partial World Book for some characters. As Hoyo updates their games, some of these lorebooks might be missing some details within them. Please contact me if you wish one lorebook should be updated (excluding the Honkai Star Rail World Book).
 
 - [Final Fantasy XIV](./world-info/Eorzea.json)
 
@@ -95,8 +93,6 @@ If you see this on your screen or are unable to download the JSON because it sho
 
 ### Character Lorebooks
 
-> As Hoyo updates their games, some of these lorebooks might be missing some details within them (About X character info). Do let me know if some of them need a addition (cept mini-lorebooks).
-
 #### Calabiyau/Strinova
 
 - [Celestia (Strinova Version)](./world-info/char-wi/cn/Celestia-Mini-WI.json)
@@ -147,7 +143,7 @@ If you see this on your screen or are unable to download the JSON because it sho
 - [Feixiao](./world-info/char-wi/hsr/Feixiao-WI.json)
 - [Firefly](./world-info/char-wi/hsr/Firefly-WI.json)
 - [Fugue (Tingyun 2.7+)](./world-info/char-wi/hsr/Fugue-WI.json)
-  > Not to be use with [Tingyun (1.0 - 1.1)]({{site.baseurl}}/tingyun). (Different toned Tingyun)
+  > Not to be used with [Tingyun (1.0 - 1.1)]({{site.baseurl}}/tingyun). (Different toned Tingyun)
 - [Fu Xuan](./world-info/char-wi/hsr/Fu%20Xuan-WI.json)
 - [Guinaifen](./world-info/char-wi/hsr/Guinaifen-WI.json)
 - [Hanya](./world-info/char-wi/hsr/Hanya-WI.json)
@@ -169,9 +165,9 @@ If you see this on your screen or are unable to download the JSON because it sho
   > Includes a Bronya confusion lore entry!
 - [Sparkle](./world-info/char-wi/hsr/Sparkle-WI.json)
 - [Sunday](./world-info/char-wi/hsr/Sunday-Mini-WI.json)
-  > This is a mini-lorebook about Sunday which only reinforces Gopher Wood and Robin. Not much info is included in here as he is a NPC.
+  > This is a mini-lorebook about Sunday which only reinforces Gopher Wood and Robin. Not much info is included in here as this was made prior to his 2.7 debut.
 - [Tingyun (1.0 - 1.1)](./world-info/char-wi/hsr/Tingyun-WI.json)
-  > Not to be use with [Fugue (Tingyun 2.7+)]({{site.baseurl}}/fugue). (Different toned Tingyun)
+  > Not to be used with [Fugue (Tingyun 2.7+)]({{site.baseurl}}/fugue). (Different toned Tingyun)
 - [Topaz](./world-info/char-wi/hsr/Topaz-WI.json)
 - [Xueyi](./world-info/char-wi/hsr/Xueyi-WI.json)
 - [Yukong](./world-info/char-wi/hsr/Yukong-WI.json)
