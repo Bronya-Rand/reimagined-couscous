@@ -15,9 +15,7 @@ Thinking about turning one of your favorite characters into a character bot? Wel
 
 ## Requirements
 
-As I'm a lore focused bot creator, my bots tend to rely on official first-party sources to make the bot close to the official character/OC as possible.
-
-> **NSFW commissions** will <u>not</u> being accepted.
+As I'm a bot creator that's focused on making bots accurate to their source material, my bots tend to rely on official first-party sources to make the bot close to the official character/OC as possible.
 
 First-Party sources refers to:
 
@@ -28,7 +26,7 @@ Third-Party sources are accepted as long as you acknowledge the possible risk of
 
 - Fandom Wiki's like the Honkai: Star Rail Fandom Wiki/RWBY Fandom Wiki
 
-TL;DR, you should provide links and/or first-party source information about the character/your OC in question that focus on either:
+TL;DR, you should provide links and/or first-party source information about the character/your OC in question that focus on the following to help me better understand your requested character better:
 
 1. Lore about the character (backstory, personality, character stories).
 2. Example response/dialogue from the character in regards to questions (About themselves, clothing, personality, etc.)
@@ -38,31 +36,30 @@ For a good example of lore information, take a look at Sparkle's HoYoLab page [h
 
 **These requirements do not apply to you so long as your request is either**
 
-  - A *playable* Genshin Impact character.
-  - A *playable* Honkai: Star Rail character.
+  - A *playable* HoYoverse character from Genshin Impact or Honkai: Star Rail.
   - A *playable* Honkai Impact 3rd character.\*
     > \* - With certain limitations. As HI3 has barely any information to go by, HI3 bots will require more time in order for them to be created.
 
 ### Note
 For characters that differ from different iterations of a franchise like Weiss Schnee from the webshow RWBY, you must state the specific version you are referring to and your info should reflect their character overall and up to that point.
 
-If you are specifically wanting a bot of a NPC from the HoYoverse games, you will need to provide information about them. Additionally if said NPC will be released later in a future update (for example Sparkle prior to 2.0), it is best to wait till the update releases to get the most information about the character as possible.
+If you are specifically wanting a bot of a NPC from the HoYoverse games and there is a chance said NPC will be released later in a future update (for example "The Herta" prior to HSR 3.0), it is best to wait till said update releases to get the most accurate information about the character as possible from quests and HoYo themselves.
 
 ## Pricing
 
 Pricing for bots depend on which category they fall under. **All prices listed here are in US Dollars (USD)**
 
-#### Genshin/Honkai: Star Rail Commission
+#### Genshin/Star Rail Commission
 
-> This commission only applies to **playable** characters of HoYoverse's Genshin Impact and Honkai: Star Rail with **accurate** portayal. This does not apply to NPCs, bosses, or custom portrayals of the character (say Maid Herta). For such characters or Honkai Impact 3rd bot commissions, see <u>Franchise Character (English).</u>
+> This commission only applies to **playable** characters of HoYoverse's Genshin Impact and Honkai: Star Rail games with **accurate** portayal. This commission does not apply to NPCs, bosses, or custom portrayals of the character in question (say Maid Herta). For such characters or Honkai Impact 3rd bot commissions, see <u>Franchise Character (English).</u>
 
 | Price: $30 |
 
-Normally I publish a Honkai: Star Rail/Genshin Impact bot when a update comes out, but if there is a character I've missed or I have not yet done or even one you want to see sooner, you can request this commission. Be mindful that said commission can be published later onto this site for others to use.
+Normally I tend to publish recently released Honkai: Star Rail/Genshin Impact bot characters when a update comes out, but if there is a character I've missed or I have not yet done or want one specific character to be done sooner, you can request this commission. Be mindful that said commission will be published later onto this site and other bot sites I use for others to enjoy.
 
 #### Franchise Character (English)
 
-> This commission applies to characters, which franchise or lore sources supports the English language without the use of Google Translate/DeepL. **NPCs, Bosses, or custom portrayals of the Genshin/H:SR cast and Honkai Impact 3rd commissions applies here.**
+> This commission applies to characters, which franchise or lore sources supports the English language without the use of Google Translate/DeepL. **NPCs, Bosses, or custom portrayals of the Genshin/Star Rail cast and Honkai Impact 3rd commissions applies here.**
 
 | :--------: | :--------------------: |
 | Price: $50 | $60 with Lorebook + WI |
