@@ -5,9 +5,9 @@ menu: main
 permalink: /bot-list
 ---
 
-Listed below are all the bots that I have created thus far for PygmalionAI.
+Listed below are all the bots that I have created thus far from 2023 up to the present day.
 
-**Total Bots to Date:** <u>75</u>
+**Total Bots to Date:** <u>77</u>
 
 ## Legend
 
@@ -19,6 +19,7 @@ Listed below are all the bots that I have created thus far for PygmalionAI.
 - [Honkai: Star Rail (H:SR)](#honkai-star-rail-hsr) - 41
 - [Original Creations (OCs)](#original-creations-ocs) - 2
 - [Slayers](#slayers) - 1
+- [Wuthering Waves (WuWa)](#wuthering-waves-wuwa) - 2
 
 ### Calabiyau/Strinova
 
@@ -123,3 +124,8 @@ Listed below are all the bots that I have created thus far for PygmalionAI.
 ### Slayers
 
 - [Lina Inverse]({{site.baseurl}}/lina)
+
+### Wuthering Waves (WuWa)
+
+- [Carlotta]({{site.baseurl}}/carlotta)
+- [Shorekeeper]({{site.baseurl}}/shorekeeper)

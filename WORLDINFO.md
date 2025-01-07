@@ -37,6 +37,7 @@ If you see this on your screen or are unable to download the JSON because it sho
   - [Honkai Impact 3rd (HI3)](#honkai-impact-3rd-hi3)
   - [Honkai: Star Rail (H:SR)](#honkai-star-rail-hsr)
   - [Original Creations (OCs)](#original-creations-ocs)
+  - [Wuthering Waves (WuWa)](#wuthering-waves-wuwa)
 
 ### World Info
 
@@ -177,3 +178,8 @@ If you see this on your screen or are unable to download the JSON because it sho
 
 - [Kasuga Asumi](./world-info/char-wi/oc/Asumi-WI.json)
 - [Kisna Kaalana](./world-info/char-wi/oc/Kisna-WI.json)
+
+#### Wuthering Waves (WuWa)
+
+- [Carlotta](./world-info/char-wi/ww/Carlotta-WI.json)
+- [Shorekeeper](./world-info/char-wi/ww/Shorekeeper-WI.json)
