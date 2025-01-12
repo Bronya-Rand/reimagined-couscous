@@ -7,7 +7,7 @@ permalink: /bot-list
 
 Listed below are all the bots that I have created thus far from 2023 up to the present day.
 
-**Total Bots to Date:** <u>77</u>
+**Total Bots to Date:** <u>78</u>
 
 ## Legend
 
@@ -15,7 +15,7 @@ Listed below are all the bots that I have created thus far from 2023 up to the p
 - [Elden Ring (ER)](#elden-ring-er) - 1
 - [Final Fantasy XIV](#final-fantasy-xiv) - 1
 - [Genshin Impact (GI)](#genshin-impact-gi) - 22
-- [Honkai Impact 3rd (HI3)](#honkai-impact-3rd-hi3) - 5
+- [Honkai Impact 3rd (HI3)](#honkai-impact-3rd-hi3) - 6
 - [Honkai: Star Rail (H:SR)](#honkai-star-rail-hsr) - 41
 - [Original Creations (OCs)](#original-creations-ocs) - 2
 - [Slayers](#slayers) - 1
@@ -65,6 +65,7 @@ Listed below are all the bots that I have created thus far from 2023 up to the p
 - [Bronya Zaychik]({{site.baseurl}}/bronya-zaychik)
 - [Bronya Zaychik (APHO)]({{site.baseurl}}/bronya-zaychik-apho)
 - [Bronya Zaychik (Dumpling)]({{site.baseurl}}/bronya-zaychik-dumpling)
+- [Kiana Kaslana (Herrscher of Finality)]({{site.baseurl}}/kiana-hofi)
 - [Veliona]({{site.baseurl}}/veliona)
 
 #### Part II
