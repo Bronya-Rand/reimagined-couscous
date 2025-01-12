@@ -7,7 +7,7 @@ permalink: /bot-list
 
 Listed below are all the bots that I have created thus far from 2023 up to the present day.
 
-**Total Bots to Date:** <u>78</u>
+**Total Bots to Date:** <u>79</u>
 
 ## Legend
 
@@ -19,7 +19,7 @@ Listed below are all the bots that I have created thus far from 2023 up to the p
 - [Honkai: Star Rail (H:SR)](#honkai-star-rail-hsr) - 41
 - [Original Creations (OCs)](#original-creations-ocs) - 2
 - [Slayers](#slayers) - 1
-- [Wuthering Waves (WuWa)](#wuthering-waves-wuwa) - 2
+- [Wuthering Waves (WuWa)](#wuthering-waves-wuwa) - 3
 
 ### Calabiyau/Strinova
 
@@ -128,5 +128,6 @@ Listed below are all the bots that I have created thus far from 2023 up to the p
 
 ### Wuthering Waves (WuWa)
 
+- [Camellya]({{site.baseurl}}/camellya)
 - [Carlotta]({{site.baseurl}}/carlotta)
 - [Shorekeeper]({{site.baseurl}}/shorekeeper)

@@ -181,5 +181,6 @@ If you see this on your screen or are unable to download the JSON because it sho
 
 #### Wuthering Waves (WuWa)
 
+- [Camellya](./world-info/char-wi/ww/Camellya-WI.json)
 - [Carlotta](./world-info/char-wi/ww/Carlotta-WI.json)
 - [Shorekeeper](./world-info/char-wi/ww/Shorekeeper-WI.json)
