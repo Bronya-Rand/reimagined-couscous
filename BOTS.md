@@ -7,14 +7,14 @@ permalink: /bot-list
 
 Listed below are all the bots that I have created thus far from 2023 up to the present day.
 
-**Total Bots to Date:** <u>79</u>
+**Total Bots to Date:** <u>80</u>
 
 ## Legend
 
 - [Calabiyau/Strinova](#calabiyaustrinova) - 1
 - [Elden Ring (ER)](#elden-ring-er) - 1
 - [Final Fantasy XIV](#final-fantasy-xiv) - 1
-- [Genshin Impact (GI)](#genshin-impact-gi) - 22
+- [Genshin Impact (GI)](#genshin-impact-gi) - 23
 - [Honkai Impact 3rd (HI3)](#honkai-impact-3rd-hi3) - 6
 - [Honkai: Star Rail (H:SR)](#honkai-star-rail-hsr) - 41
 - [Original Creations (OCs)](#original-creations-ocs) - 2
@@ -36,6 +36,7 @@ Listed below are all the bots that I have created thus far from 2023 up to the p
 ### Genshin Impact (GI)
 
 - [Aether]({{site.baseurl}}/aether)
+- [Arlecchino]({{site.baseurl}}/arlecchino)
 - [Chevreuse]({{site.baseurl}}/chevreuse)
 - [Clorinde]({{site.baseurl}}/clorinde)
 - [Cyno]({{site.baseurl}}/cyno)

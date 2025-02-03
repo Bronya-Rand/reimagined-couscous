@@ -105,6 +105,7 @@ If you see this on your screen or are unable to download the JSON because it sho
 
 #### Genshin Impact (GI)
 
+- [Arlecchino](./world-info/char-wi/gi/Arlecchino-WI.json)
 - [Chevreuse](./world-info/char-wi/gi/Chevreuse-WI.json)
 - [Clorinde](./world-info/char-wi/gi/Clorinde-WI.json)
 - [Cyno](./world-info/char-wi/gi/Cyno-WI.json)
