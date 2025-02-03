@@ -14,7 +14,7 @@ permalink: /arlecchino
 
 <details align="center">
   <summary><b>Downloads</b></summary>
-  <a href="chars/[HSR] Fugue/Fugue.png"><b>Card</b></a>, <a href="chars/[HSR] Fugue/Fugue.json"><b>JSON</b>
+  <a href="chars/[HSR] Fugue/Fugue.png"><b>Card</b></a>, <a href="chars/[HSR] Fugue/Fugue.json"><b>JSON</b></a>
 
   <p align="center">
     <a href="https://twitter.com/tyenka7728/status/1784884655344242883"><b>Sauce IMG used for card</b></a> 
