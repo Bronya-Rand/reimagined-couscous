@@ -7,7 +7,7 @@ permalink: /bot-list
 
 Listed below are all the bots that I have created thus far from 2023 up to the present day.
 
-**Total Bots to Date:** <u>80</u>
+**Total Bots to Date:** <u>81</u>
 
 ## Legend
 
@@ -16,7 +16,7 @@ Listed below are all the bots that I have created thus far from 2023 up to the p
 - [Final Fantasy XIV](#final-fantasy-xiv) - 1
 - [Genshin Impact (GI)](#genshin-impact-gi) - 23
 - [Honkai Impact 3rd (HI3)](#honkai-impact-3rd-hi3) - 6
-- [Honkai: Star Rail (H:SR)](#honkai-star-rail-hsr) - 41
+- [Honkai: Star Rail (H:SR)](#honkai-star-rail-hsr) - 42
 - [Original Creations (OCs)](#original-creations-ocs) - 2
 - [Slayers](#slayers) - 1
 - [Wuthering Waves (WuWa)](#wuthering-waves-wuwa) - 3
@@ -90,6 +90,7 @@ Listed below are all the bots that I have created thus far from 2023 up to the p
 - [Hanya]({{site.baseurl}}/hanya)
 - [Herta]({{site.baseurl}}/herta)
 - [Herta (Puppet)]({{site.baseurl}}/herta-puppet)
+- [Herta (The Herta)]({{site.baseurl}}/the-herta)
 - [Himeko]({{site.baseurl}}/himeko)
 - [Huohuo]({{site.baseurl}}/huohuo)
 - [Jade]({{site.baseurl}}/jade)

@@ -150,7 +150,9 @@ If you see this on your screen or are unable to download the JSON because it sho
 - [Guinaifen](./world-info/char-wi/hsr/Guinaifen-WI.json)
 - [Hanya](./world-info/char-wi/hsr/Hanya-WI.json)
 - [Herta/Herta (Puppet)](./world-info/char-wi/hsr/Herta-WI.json)
-  > Not to be used with the _Kurukuru_ version of Herta.
+  > Not to be used with the _Kurukuru_ version of Herta nor "The" Herta.
+- [Herta (The Herta)](./world-info/char-wi/hsr/The%20Herta-WI.json)
+  > Not to be used with the puppet versions of Hertas (Classic Herta/Herta (Puppet)/Kurukuru Ver).
 - [Huohuo](./world-info/char-wi/hsr/Huohuo-WI.json)
 - [Jade](./world-info/char-wi/hsr/Jade-WI.json)
 - [Kafka](./world-info/char-wi/hsr/Kafka-WI.json)
