@@ -70,11 +70,11 @@ If you see this on your screen or are unable to download the JSON because it sho
   > This world info has just the basics of Honkai Impact 3rd itself for use with Bronya Zaychik and Veliona. Worked in collaboration with _TheWandering514_.
 
 - [Honkai: Star Rail](./world-info/HSR.json)
-  **Updated for Version: 2.7**
+  **Updated for Version: 3.0**
 
   > This world info should have most of all the information surrounding the Honkai: Star Rail world such as:
 
-  - Worlds (Belobog, the Xianzhou Luofu, Herta Space Station, Penacony)
+  - Worlds (Belobog, the Luofu, Herta Space Station, Penacony, Amphoreus)
   - Major Locations (Administrative District, Seclusion Zone, Alchemy Commission)
   - Races (Foxian, Vidyadhara, Short-Life, Heliobus)
   - Some Key Terms (Supreme Guardian, Master Diviner, The Family)
@@ -138,6 +138,7 @@ If you see this on your screen or are unable to download the JSON because it sho
 
 - [Acheron](./world-info/char-wi/hsr/Acheron-WI.json)
   > Includes Raiden Shogun, Raiden Mei and Seele (H:SR) confusion gag entries!
+- [Aglaea](./world-info/char-wi/hsr/Aglaea-WI.json)
 - [Asta](./world-info/char-wi/hsr/Asta-WI.json)
 - [Black Swan](./world-info/char-wi/hsr/Black%20Swan-WI.json)
 - [Bronya Rand](./world-info/char-wi/hsr/Bronya-WI.json)
