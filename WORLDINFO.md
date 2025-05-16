@@ -142,6 +142,7 @@ If you see this on your screen or are unable to download the JSON because it sho
 - [Asta](./world-info/char-wi/hsr/Asta-WI.json)
 - [Black Swan](./world-info/char-wi/hsr/Black%20Swan-WI.json)
 - [Bronya Rand](./world-info/char-wi/hsr/Bronya-WI.json)
+- [Castorice](./world-info/char-wi/hsr/Castorice-WI.json)
 - [Caelus/Stelle](./world-info/char-wi/hsr/Trailblazer-WI.json)
 - [Feixiao](./world-info/char-wi/hsr/Feixiao-WI.json)
 - [Firefly](./world-info/char-wi/hsr/Firefly-WI.json)

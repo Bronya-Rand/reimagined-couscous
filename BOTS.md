@@ -7,7 +7,7 @@ permalink: /bot-list
 
 Listed below are all the bots that I have created thus far from 2023 up to the present day.
 
-**Total Bots to Date:** <u>82</u>
+**Total Bots to Date:** <u>83</u>
 
 ## Legend
 
@@ -16,7 +16,7 @@ Listed below are all the bots that I have created thus far from 2023 up to the p
 - [Final Fantasy XIV](#final-fantasy-xiv) - 1
 - [Genshin Impact (GI)](#genshin-impact-gi) - 23
 - [Honkai Impact 3rd (HI3)](#honkai-impact-3rd-hi3) - 6
-- [Honkai: Star Rail (H:SR)](#honkai-star-rail-hsr) - 43
+- [Honkai: Star Rail (H:SR)](#honkai-star-rail-hsr) - 44
 - [Original Creations (OCs)](#original-creations-ocs) - 2
 - [Slayers](#slayers) - 1
 - [Wuthering Waves (WuWa)](#wuthering-waves-wuwa) - 3
@@ -82,6 +82,7 @@ Listed below are all the bots that I have created thus far from 2023 up to the p
 - [Bronya Rand]({{site.baseurl}}/bronya)
 - [Blade]({{site.baseurl}}/blade)
 - [Caelus]({{site.baseurl}}/caelus)
+- [Castorice]({{site.baseurl}}/castorice)
 - [Feixiao]({{site.baseurl}}/feixiao)
 - [Firefly]({{site.baseurl}}/firefly)
 - [Firefly (Fandom Version)]({{site.baseurl}}/firefly-fandom)
